@@ -3,7 +3,6 @@ import math
 import random
 from sklearn import svm
 
-
 headerfile = '../data/kddcup.names'
 headers=open(headerfile,'r').readlines()[1:]
 headers = [h.split(':')[0] for h in headers]
@@ -69,6 +68,8 @@ clf.fit(xTrain, yTrain)
 
 preds = clf.predict(xTest)
 
+accuracy=clf.accuracy(
+
 # 2804 11 in preds;  2794 11 in yTest
 
 # TN .997
@@ -88,6 +89,24 @@ for s in set(yTest):
 	attacks[s], s, sum(yTest==s), 1.*sum([preds[i]==s and yTest.iloc[i] == s for i in range(len(preds))]) / sum (yTest==s)*1.0, 1.*sum([preds[i]!=s and yTest.iloc[i] != s for i in range(len(preds))]) / sum (yTest!=s)*1.0
 
 
+from sklearn.metrics import confusion_matrix
+confusion_matrix(list(yTest), list(preds))
 
-
+'''
+array([[  39,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0],
+       [   0,    0,    0,    0,    0,    0,    1,    0,    0,    0,    0,    0,    0,    0,    0],
+       [   0,    0,  132,    0,    0,    0,    6,    0,    0,    0,    0,    0,    0,    0,    0],
+       [   0,    0,    0,    0,    0,    0,    1,    0,    0,    0,    0,    0,    0,    0,    0],
+       [   0,    0,    0,    0, 1731,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0],
+       [   0,    0,   29,    0,    0,   37,    1,    0,    0,    0,    0,    0,    0,    0,    0],
+       [   0,    0,    3,    0,    2,    8, 2761,    0,    0,    0,    0,    0,    0,    0,    3],
+       [   0,    0,    0,    0,    0,    0,    1,    0,    0,    0,    0,    0,    0,    0,    0],
+       [   0,    0,    0,    0,    0,    0,    0,    0,    5,    0,    0,    0,    0,    0,    0],
+       [   0,    0,    1,    0,    6,    0,    1,    0,    0,  111,    0,    1,    0,    0,    0],
+       [   0,    0,    0,    0,    0,    0,    1,    0,    0,    0,    0,    0,    0,    0,    0],
+       [   0,    0,    0,    0,    3,    0,    1,    0,    0,    0,    0,  144,    0,    0,    0],
+       [   0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,   99,    0,    0],
+       [   0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,   38,    0],
+       [   0,    0,    0,    0,    0,    0,    4,    0,    0,    0,    0,    0,    0,    0,   22]])
+'''
 
