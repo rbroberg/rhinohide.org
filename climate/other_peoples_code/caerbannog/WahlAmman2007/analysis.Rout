@@ -1,0 +1,68 @@
+
+R version 3.0.1 (2013-05-16) -- "Good Sport"
+Copyright (C) 2013 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin10.8.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> # read in data
+> 
+> T<-scan("2004GL021750-NOAMER.1400.txt",skip=1)
+Read 41832 items
+> T<-matrix(T,nrow=581,ncol=72,byrow=TRUE)
+> tree<-T[1:581,3:72]
+> 
+> tt<- c(1400:1980)
+> 
+> 
+> # MBH- uncentered PCs  GRL Data, Caspar Ammann's code
+> # =======
+> m.tree<-apply(tree[503:581,],2,mean)
+> s.tree<-apply(tree[503:581,],2,sd)
+> xstd<-scale(tree,center=m.tree,scale=s.tree)
+> fm<-lm(xstd[503:581,]~c(1:nrow(xstd[503:581,]))) #fit linear model to calibrati$
+> sdprox<-sd(fm$residuals)                         #get residuals
+> 
+> ## RWM errors out: mxstd<-scale(xstd,center=FALSE,scale=sdprox)     #standardize by residual stddev
+> mxstd=xstd/sdprox
+> 
+> w<-svd(mxstd)                                    #SVD
+> PCs<-w$u[,1:5]                                   #Retain only first 5 PCs for c$
+> m.pc<-apply(PCs[503:581,],2,mean)
+> s.pc<-apply(PCs[503:581,],2,sd)
+> PCs<-scale(PCs,center=m.pc,scale=s.pc)
+> 
+> 
+> source("fig1.R") # only need to source these fucntion once if they
+> source("fig2.R") # are saved in your work space. 
+> 
+> pdf("fig1.pdf", width=9, height=8)
+> fig1()
+> dev.off()
+null device 
+          1 
+> 
+> pdf("fig2.pdf", width=9, height=6)
+> fig2()
+> dev.off()
+null device 
+          1 
+> 
+> 
+> proc.time()
+   user  system elapsed 
+  0.878   0.087   1.039 
