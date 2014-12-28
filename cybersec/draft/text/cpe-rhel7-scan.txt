@@ -1,0 +1,18 @@
+https://securityblog.redhat.com/2013/11/13/automated-auditing-the-system-using-scap-2/
+http://www.open-scap.org/page/Documentation
+https://www.redhat.com/security/data/metrics/cpelist-rhel6server-default-install.txt
+https://www.redhat.com/security/data/metrics/cpe-dictionary.xml
+
+
+sudo su -
+yum install openscap-utils scap-security-guide -y
+
+oscap xccdf eval --profile stig-rhel7-server \
+--report /var/www/html/report.html \
+--results /var/www/html/results.xml \
+--cpe /usr/share/xml/scap/ssg/content/ssg-rhel7-cpe-dictionary.xml \
+/usr/share/xml/scap/ssg/content/ssg-rhel7-xccdf.xml
+
+
+hostnamectl
+CPE OS Name: cpe:/o:redhat:enterprise_linux:7.0:GA:server

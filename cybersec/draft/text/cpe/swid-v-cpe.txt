@@ -1,0 +1,379 @@
+ [Date Prev][Date Next][Thread Prev][Thread Next][Date Index][Thread Index]
+Re: [mile] CPE and SWID
+
+    From: Steve Klos <stevek at tagvault.org>
+    To: "mile at ietf.org" <mile at ietf.org>
+    Date: Wed, 12 Feb 2014 18:35:41 +0000
+    In-reply-to: <1AD43422943F5B4E89EF766D28DCA2EA0BF9D894CE@TUS1XCHEVSPIN39.SYMC.SYMANTEC.COM>
+    References: <1AD43422943F5B4E89EF766D28DCA2EA0BF9D894CE@TUS1XCHEVSPIN39.SYMC.SYMANTEC.COM>
+    List-id: "Managed Incident Lightweight Exchange, IODEF extensions and RID exchanges" <mile.ietf.org>
+
+Quite a number of issues addressed in this e-mail – I apologize for the length, but wanted to provide background for anyone new and try to provide some insight on various issues that have recently been raised in the MILE distribution list.  David Waltermire has done a great job discussing many of these issues, and David’s been great in providing feedback on real-world use case validation for SWID tags that have made the standard and best practices guides better and more complete.  However, there are numerous use cases for SWID tags including many that are outside the scope of what many on this list may be aware of, so forgive me if I end up repeating information you already know.
+
+Full disclosure – my name is Steve Klos and I work for a non-profit organization that is tasked with evangelizing and providing certification efforts for SWID tags based on the ISO/IEC 19770-2 standard.  I do absolutely have an agenda – I want to see more effective and automated management of IT operations when it comes to software security, compliance and logistics.  The primary platforms the program is focused on are notebooks, desktops, tablets, minis, mainframes, cloud and virtual systems and includes support for any publisher on any platform.  It is possible that the SWID tags may be useful in a wider range of mobile systems as well, but the use cases have not yet been fully evaluated in that space.
+
+The overall cost to include SWID tags as part of a software development project is absolutely trivial and the process is designed to be completely managed within a software publisher’s infrastructure, so there are no critical path issues that get between a publisher and a software release.  SWID tags are also designed for use within customer environments so IT developed software and software that does not include tags from the publisher can be tagged. 
+
+The uptake of SWID tags is a chicken and egg problem – why do software publishers want to provide SWID tags if tool providers and end-users aren’t reading them and why do tool providers create support for SWID tags if publishers and end-users are not creating them.  Fortunately, we’ve moved well beyond that issue, now it’s a matter of how quickly publishers integrate SWID tags into their development process. 
+
+Evidence that indicates support for SWID tags in the market include:
+
+1)      Publishers see the value of SWID tags both for their internal operations as well as for their customers.  More and more publishers have started to include SWID tags in their software, or will in the very near future.  These publishers include EMC, HP, IBM, Microsoft and Symantec.
+
+2)      Symantec has been shipping 4 of their enterprise products with SWID tags.  Microsoft has included tags in all new software releases they ship and they have indicated that they are interested in adding SWID tags to older Microsoft products through the patching process.  HP has already started to ship SWID tags.  Adobe has been shipping SWID tags since Creative Suites 4.0, IBM will be shipping software with SWID tags this year and any Windows based software product that uses InstallShield 2012 or later will automatically have SWID tags created and installed as part of the install script.  Windows based software that uses WiX or Advanced Installer will need to include the option to add SWID tags, but the options are trivially easy to use and do not require any additional purchase of a standard, or memberships to any organizations.
+
+3)      Tools that are used to create Microsoft centered installation tools all support the creation of SWID tags.  In fact anyone using InstallShield 2012 or later will automatically create and install SWID tags as part of their install script.  Recognizing that Microsoft software is an important, but not the complete subset of the devices under management today, everyone generally recognizes that Microsoft software is a critical majority of the software in use across a wide spectrum of market stakeholders and this platform needs better automation capabilities for security, compliance and logistics.  Better automation can only be provided when IT shops have authoritative information that comes directly from the software publisher or the IT organization.
+
+4)      Tools that are used for discovery support SWID tags today are shown below:
+
+•       Aspera
+
+•       Asset Metrics
+
+•       CA Technology
+
+•       Eracent
+
+•       Express Metrix
+
+•       Flexera
+
+•       Hewlett Packard
+
+•       Magnicomp
+
+•       Microsoft Assessment and Planning (MAP)
+
+•       Microsoft SCCM
+
+•       Sassafras Software
+
+•       Scalable Software
+
+•       Software Management.org
+
+•       Symantec
+
+There are many more products adding functionality to support SWID tags at the moment:
+
+5)      Numerous US Government efforts currently underway are recognizing that a more authoritative software identification effort is required for their success.  The inclusion of SWID tags in the Cybersecurity Innovation Forum presentations was seen across the board from IAD, NIST, MITRE and DHS.  There is no other option we are aware of within a standards body that can come close to the fidelity and richness of the information provided by SWID tags, do it in a way that the publisher has the ability to create the data internally (and therefore not create a critical path problem for software releases) and also support the authoritative capabilities provided by digital signatures.
+
+6)      Other standards bodies are incorporating SWID tags in their specifications.  DMTF has added it to V2.40 of their CIM schema and will be providing a profile for SWID tags later this quarter.  TNC has also incorporated SWID tags into their specifications and NCCoE sees SWID tags as a fundamental building block for their reference infrastructure.
+
+7)      For those who are concerned about ISO standards being behind a paywall - ISO has finally made some accommodation to the need to provide certain specifications for free.  Essentially, standards that are included in rulemaking documents by the US Government now have open viewer access through the ANSI Portal.  I assume that other national bodies that work with ISO are providing similar portals for their own countries.  You can have a look at ANSI’s portal here - http://ibr.ansi.org/.  I would expect that if the 19770-2 standard becomes mandated for software being sold into the US government that the standard would be available for people to access at no charge.
+
+8)      There is more effort happening within the FOSS community – primarily around the revision for the 19770-2 standard that will provide even more support for free and open source publishers to use SWID tags to provide additional relationship, or link data that will help users identify other related software components they may be interested in. 
+
+9)      TagVault.org (the organization I work with) has previously written a compendium for the 19770-2 standard that allows for anyone to access the material at no charge.  The programs model moving forward is that the standards and documents we create (such as the best practices document that is the next document our working group is focused on) will be available for the public at no charge.  Note that the compendium is not currently published primarily because certification efforts will be done against a best practices document being developed by a TagVault.org working group which is currently testing various use cases and requirements at the moment.
+
+10)   There has been significant interest in SWID tags from customers in the fortune 500.  The interest is being driven by the need for more accurate information from inventory and discovery tools, a need to reconcile data between tools that typically use proprietary data sets and the recognition that more, better and consistent automation is required across platforms if the IT operations have any hope of keeping up with the pace of change being pushed by the business. 
+
+ 
+
+There have been other questions about SWID tags that have been addressed, but seem to keep coming up.
+
+ 
+
+Yes, there is a paywall for the ISO standards.  However, as indicated by item 6 above, ISO and ANSI have recognized that there is a need to make standards more available to vendors who do not have the money available to pay $150 for a copy of the standard.  There will be other options available for organizations who do not “need” the official ISO standard – you can use tools (open source or paid for), you can use other reference documents (freely available, provided through training, or provided through association membership), you can access and use the schema directly – which, along with sample SWID tags will provide most of the data developers would require to incorporate SWID tags.
+
+ 
+
+Anyone has the ability to provide support for SWID tags and there is no restriction, nor is there a requirement that organizations must buy the standard, or join any organization.  TagVault.org is working with larger publishers and end-user organizations to establish a baseline of best practices which will be made available to anyone for free. 
+
+ 
+
+SWID tags also do provide a bridge to support CPE names if required, but the CPE names that will be created will be curated by the publishers themselves and therefore will be normalized, consistent and more importantly can be directly correlated with software that is installed on a device.
+
+ 
+
+There is a new capability that is being added in the 19770-2 revision as well which will allow software publishers to reference a URI that software IT groups to identify when patches are released and know exactly which software products the patches are targeted at in such a way that a simple inventory of software can identify devices to target for patch installations.  Oh, and patches include SWID tags as well, so identifying if a patch is installed is again, simply a matter of checking inventory for a device.
+
+ 
+
+I can discuss the benefits and limitations of CPE’s for quite a while, but I believe quite a few of the issues are relatively well known.  With the fact that SWID tags are implemented in a wide range of software today with more support on the way, it seems clear that the SCAP infrastructure can benefit from working with software publishers instead of trying to manage something that is not supported by software publishers (in general, most publishers do not provide a CPE reference with their software today). 
+
+ 
+
+It seems that the goals of a standards development organization should be to utilize work that is supported by providers (in this case software publishers) and that support the use cases of the consumers (in this particular instance we’re referencing SCAP/CPE/MILE, etc).  With the fact that there are limited resources available to develop standards, it also seems that the various SDOs should work together to solve bigger problems…  This is why ISO, the DMTF, TNC and TagVault.org (among others) are all working cooperatively together.  TagVault.org is supportive of the IETF efforts in both the MILE and SACM efforts and will continue to do what it can to support the efforts to improve IT automation by ensuring systems receive authoritative data from validated sources.  In the case of SWID tags, the validated sources should be the publishers as they are the only ones who have any hope of managing the scale of this problem.
+
+ 
+
+Regards,
+
+ 
+
+Steve Klos
+
+ 
+
+From: John Richardson [mailto:john_richardson at symantec.com]
+Sent: Wednesday, February 12, 2014 7:51 AM
+To: mile at ietf.org
+Subject: Re: [mile] CPE and SWID
+
+ 
+
+Hi Everyone,
+
+ 
+
+I added myself to the this list so that I can comment on SWID tags on this thread from a Symantec perspective. Hopefully my response will be added inline to others on this thread.
+
+ 
+
+Symantec has SWID tags conformant to the ISO 19770-2:2009 standard released in four products – NetBackup 7.0 and later, Endpoint Protection 12.1 and later, Control Compliance Suite 11.0, and Enterprise Vault 9.03 and 10.0 and later.
+
+ 
+
+Symantec has been active in the support and development of the ISO 19770 standards for many years with the initial interest in improving the ability Symantec customers and partners better manage their Symantec assets using COTS SAM tools.
+
+ 
+
+Symantec is a founding member of TagVault.org as we see it necessary to have a consistent implementation of tags across publishers along with normalized data to decrease issues related to the current model where SAM tools use their own proprietary techniques to discover and identify installed software on a device, and to report software asset information.
+
+ 
+
+Symantec, along with TagVault.org members, are working together to agree on common guidelines for how to implement tags against baseline use cases to ensure that if publishers implement tags to these guidelines, COTS tools can use standard algorithms to consistently discover and to identify installed software, as well as consistently report software asset information.
+
+ 
+
+In the past year or so, the Federal Government interest in SWID tags has increased from a security perspective as Dave Waltermire from NIST outlines below. We are actively working with several government agencies, through TagVault.org and along with other TagVault.org members, to ensure that implementation guidelines for SWID tags developed within TagVault.org align with the Federal Government use cases and requirements.
+
+ 
+
+For more information on these activities, please see www.tagvault.org.
+
+ 
+
+Best Regards,
+
+ 
+
+John
+
+ 
+
+    From: "Waltermire, David A." <david.waltermire at nist.gov>
+    To: "Moriarty, Kathleen" <kathleen.moriarty at emc.com>, "Roman D. Danyliw" <rdd at cert.org>, "mile at ietf.org" <mile at ietf.org>
+    Date: Wed, 5 Feb 2014 21:43:46 +0000
+    List-id: "Managed Incident Lightweight Exchange, IODEF extensions and RID exchanges" <mile.ietf.org> 
+
+Changing the subject to reflect the discussion thread.
+
+ 
+
+I just saw this message. Here is what I can vouch for as the NIST lead for these efforts:
+
+ 
+
+NIST is continuing to support CPE as it has for the last few years. SCAP and a few other efforts are dependent on it, so this is critical. It has not been defunded.
+
+ 
+
+NIST is working with the SWID community to advance the ISO specification efforts and to ensure that the necessary implementation guidance for SWID tag producers and tool consumers is put in place.
+
+ 
+
+We see SWID tags as having synergies with the CPE effort. We are looking at methods to consume SWID tags, as software publishers create them, for use in auto generating CPEs. This has significant advantages over the current CPE methodology that largely involves investigating vulnerability reports and vendor product pages and documentation to generate CPE names. By generating CPE names in this way we can increase the fidelity and accuracy of the product data, using less human effort, making product identification information available as close to the publication of the software as possible.
+
+ 
+
+Our long-term plans are to maintain a mapping between SWID and CPE in the National Vulnerability Database. This information does not exist yet, but is in the planning stages. Such information will provide a transition path for the SCAP community and other that use CPE today to take greater advantages of the information that SWID offer including: a more robust product metadata model and footprint information including file names, versions, and hashes.
+
+ 
+
+Please let me know if you have any questions.
+
+ 
+
+Thanks,
+
+Dave
+
+ 
+
+ 
+
+ 
+
+> -----Original Message-----
+
+> From: mile [mailto:mile-bounces at ietf.org] On Behalf Of Moriarty, Kathleen
+
+> Sent: Monday, January 27, 2014 5:40 PM
+
+> To: Roman D. Danyliw; mile at ietf.org
+
+> Subject: Re: [mile] @user-agent attribute
+
+> 
+
+> CPE isn't funded anymore and may get folded in SWID.  I don't have the
+
+> latest on this, but would not want to rely on something that may go away.  Is
+
+> anyone aware of the latest on CPE?
+
+> 
+
+> Thanks,
+
+> Kathleen
+
+> 
+
+> -----Original Message-----
+
+> From: mile [mailto:mile-bounces at ietf.org] On Behalf Of Roman D. Danyliw
+
+> Sent: Monday, January 27, 2014 3:22 PM
+
+> To: mile at ietf.org
+
+> Subject: [mile] @user-agent attribute
+
+> 
+
+> Hello!
+
+> 
+
+> The -04 schema of 5070bis has the following comment in the definition of
+
+> @user-agent in the Application and OperatingSystem classes.
+
+> 
+
+> [begin comment]
+
+> "<!-- CHANGE: Should UserAgent or HTTPUserAgent fit in SoftwareTypes?
+
+> This is typically intended to mean servers, but the category seems more
+
+> appropriate than others.-->"
+
+> [end comment]
+
+> 
+
+> SoftwareType is the complexType used to define System/Application and
+
+> Service/OperatingSystem.  Lacking documentation in the text and going only
+
+> on the name in the schema, it would appear that this attribute is attempting
+
+> to describe the "User-Agent" HTTP field per Section 14.43 of RFC2616.  If
+
+> there is a broader definition, could someone please talk us through it.
+
+> 
+
+> With the addition of the Service/ApplicationHeader there appear to be two
+
+> ways to represent a User-Agent.  Consider the following XML snippet below:
+
+> 
+
+> <System>...
+
+> <Service ip_protocol="80">
+
+> ... <ApplicationHeader proto="80" field="User-Agent"
+
+> dtype="string">Mozilla/5.0 (Windows NT 6.2; Win64; x64)
+
+> AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0
+
+> Safari/537.36</ApplicationApplication>
+
+> 
+
+> ... <Application swid="xxx" configid="xxx" vendor="Google"
+
+> name="Chrome" user-agent="Mozilla/5.0 (Windows NT 6.2; Win64; x64)
+
+> AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36"
+
+> version="32.0.11667"> <URL>something</URL> </Application> </Service>
+
+> </System>
+
+> 
+
+> A few questions:
+
+> ** Does the data model need the @user-agent attribute if
+
+> ApplicationHeader can model it?
+
+> ** Could @swid (defined as "An identifier that can be used to reference this
+
+> software") be used for a User-Agent?
+
+> ** What implementation guidance should be given about how @user-agent
+
+> should be set with Service/OperatingSystem?
+
+> 
+
+> To share my own bias, the Application and OperatingSystem Class are
+
+> currently very poorly specified.  I don't think we should continue improving
+
+> them.  Instead, we should reference software through CPE
+
+> (http://nvd.nist.gov/cpe.cfm) or similar effort as is possible through the SCI-
+
+> defined class Platform.  For the time being, I would drop @user-agent.
+
+> 
+
+> Roman
+
+> _______________________________________________
+
+> mile mailing list
+
+> mile at ietf.org
+
+> https://www.ietf.org/mailman/listinfo/mile
+
+> 
+
+> _______________________________________________
+
+> mile mailing list
+
+> mile at ietf.org
+
+> https://www.ietf.org/mailman/listinfo/mile
+
+    Follow-Ups:
+        Re: [mile] CPE and SWID
+            From: Blibbet
+
+    Prev by Date: Re: [mile] Documenting DomainData
+    Next by Date: Re: [mile] CPE and SWID
+    Previous by thread: [mile] I-D Action: draft-ietf-mile-rfc5070-bis-05.txt
+    Next by thread: Re: [mile] CPE and SWID
+    Index(es):
+        Date
+        Thread 
+
+Note Well: Messages sent to this mailing list are the opinions of the senders and do not imply endorsement by the IETF.
+
+ 
+
+    References:
+        Re: [mile] CPE and SWID
+            From: John Richardson
+
+    Prev by Date: [mile] CSIRT Tools/Product showcase at IETF Bits and Bytes
+    Next by Date: Re: [mile] CPE and SWID
+    Previous by thread: Re: [mile] CPE and SWID
+    Next by thread: Re: [mile] CPE and SWID
+    Index(es):
+        Date
+        Thread
+
+Note Well: Messages sent to this mailing list are the opinions of the senders and do not imply endorsement by the IETF.

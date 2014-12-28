@@ -1,0 +1,20 @@
+PuttyGen
+
+http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+
+PuTTY http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe
+PuTTYgen http://the.earth.li/~sgtatham/putty/latest/x86/puttygen.exe
+
+Run: puttygen.exe
+Select: Load
+Select: All Files
+Select: cyberxml.pem
+Select: Open
+Select: Save private key
+Select: Yes
+In the File name field, enter: cyberxml
+Select: Save
+
+putty -i cyberxml.ppk ec2-user@1.2.3.4
+
+Select: Yes

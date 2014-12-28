@@ -1,0 +1,48 @@
+see also https://alextheedom.wordpress.com/cloud/amazon-free-usage-tier-installing-tomcat-7-on-an-ec2-linux-instance/
+
+With a browser, navigate to
+http://aws.amazon.com/ec2/
+
+
+Sign In or Create an AWS Account
+You may sign in using your existing Amazon.com account or you can create a new account by selecting "I am a new user."
+
+Assuming an existing user:
+My e-mail address is: your.name@email.com
+I am a returning user and my password is: yourpassword
+Click "Sign in using our secure server"
+
+Amazon Web Services console
+Select: "EC2"
+
+In the "EC2 Dashboard" on the left hand menu,
+select: "Instances"
+
+On the top of the panel,
+select: "Launch Instance"
+
+Select: "Red Hat Enterprise Linux 7.0 (HVM), SSD Volume Type - ami-a8d369c0
+Select: Review and Launch
+Select: Launch
+Select: Create a new key pair
+In "Key pair name" text field, enter: cyberxml
+Select: Downlaod Key Pair
+Select: Save 
+Choose a directory to save the keyfile
+Note: Putty on windows cannot use the keyfile in this format. See Procedure for extracting a key to use with the Putty.
+Select: Launch instances
+Select the link for the instance id (eg i-85cc8369)
+Select the blank Name field and click on the small pencil.
+In the Name field, enter "CyXML-RHEL7"
+
+You can close this instance by running the following commands.
+From the EC2 Managment Console | Instances window,
+select the instance you wish to stop
+From the menu, Actions -> Instance State -> Stop
+Select: Yes
+
+You can restart this instance by running the following commands.
+From the EC2 Managment Console | Instances window,
+select the instance you wish to start
+From the menu, Actions -> Instance State -> Start
+Select: Yes
