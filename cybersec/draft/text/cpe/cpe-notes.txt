@@ -1,0 +1,56 @@
+
+
+CVE® International in scope and free for public use, CVE is a dictionary of publicly known information security vulnerabilities and exposures.
+
+CVE’s common identifiers enable data exchange between security products and provide a baseline index point for evaluating coverage of tools and services.
+
+Technical Guidance & Test Data Available for Updating to the New CVE-ID Format
+
+The format for CVE-IDs changed at the beginning of 2014 and CVE-IDs which previously could only have four fixed digits at the end, e.g., "CVE-2014-0160", can now accommodate five, six, or more digits at the end. Please note, the total number of CVE-IDs assigned in 2014 has surpassed 9,000, indicating that a CVE-ID number in the new CVE-ID numbering format with 5 digits (e.g., CVE-2014-XXXXX) will be issued no later than Tuesday, January 13, 2015 (read our press release). Organizations that do not update to the new CVE-ID format risk the possibility that their products and services could break or report inaccurate vulnerability identifiers, which could significantly impact users' vulnerability management practices.
+
+To make it easy to update, the CVE Web site provides free technical guidance and CVE test data for developers and consumers to use to verify that their products and services will work correctly. In addition, for those who use National Vulnerability Database (NVD) data, NIST provides test data in NVD format at http://nvd.nist.gov/cve-id-syntax-change.
+
+
+Widespread Use of CVE
+    Vulnerability Management
+    Patch Management
+    Vulnerability Alerting
+    Intrusion Detection
+    Security Content Automation Protocol (SCAP)
+    NVD (National Vulnerability Database)
+    US-CERT Bulletins
+    CVE Numbering Authorities (CNAs)
+    Recommendation ITU-T X.1520 Common Vulnerabilities and Exposures (CVE), ITU-T CYBEX Series
+
+Vulnerability
+
+An information security "vulnerability" is a mistake in software that can be directly used by a hacker to gain access to a system or network.
+
+CVE considers a mistake a vulnerability if it allows an attacker to use it to violate a reasonable security policy for that system (this excludes entirely "open" security policies in which all users are trusted, or where there is no consideration of risk to the system).
+
+CVE Identifiers (also called "CVE names," "CVE numbers," "CVE-IDs," and "CVEs") are unique, common identifiers for publicly known information security vulnerabilities.
+		
+Each CVE Identifier includes the following:
+
+    CVE Identifier number (e.g., "CVE-1999-0067", "CVE-2014-12345", "CVE-2014-7654321").
+    Brief description of the security vulnerability or exposure.
+    Any pertinent references (i.e., vulnerability reports and advisories or OVAL-ID).
+
+For CVE, a vulnerability is a state in a computing system (or set of systems) that either:
+
+    allows an attacker to execute commands as another user
+    allows an attacker to access data that is contrary to the specified access restrictions for that data
+    allows an attacker to pose as another entity
+    allows an attacker to conduct a denial of service
+
+
+Examples of vulnerabilities include:
+
+    phf (remote command execution as user "nobody")
+    rpc.ttdbserverd (remote command execution as root)
+    world-writeable password file (modification of system-critical data)
+    default password (remote command execution or other access)
+    denial of service problems that allow an attacker to cause a Blue Screen of Death
+    smurf (denial of service by flooding a network)
+
+	

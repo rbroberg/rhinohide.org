@@ -1,6 +1,7 @@
 from lxml import etree
 import urllib
 import os
+import sys
 from zipfile import ZipFile
 
 def dlfile(url, dldir, fn):
@@ -11,7 +12,14 @@ def uzip(source_filename, dest_dir):
     zip=ZipFile(dest_dir+'/'+source_filename) 
     zip.extractall(dest_dir)
 
-fn = "/projects/rhinohide.org/cybersec/draft/data/NIST-CVE/download.html"
+#fn = "/projects/rhinohide.org/cybersec/draft/data/NIST-CPE/download.html"
+if len(sys.argv)==2:
+	fn = sys.argv[1]
+	print fn
+else:
+	print("python getDownloads.py dlfile")
+	quit()
+
 sep = os.sep
 dldir = sep.join(fn.split('/')[0:-1])
 

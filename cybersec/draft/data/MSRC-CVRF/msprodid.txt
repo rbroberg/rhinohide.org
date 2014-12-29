@@ -1,0 +1,575 @@
+id	name
+10175	Active Directory
+8372	Active Directory Application Mode (ADAM)
+10530	Active Directory Federation Services 1.x
+10531	Active Directory Federation Services 2.0
+10532	Active Directory Federation Services 2.1
+10640	Active Directory Federation Services 3.0
+9317	Active Directory Lightweight Directory Service (AD LDS)
+6481	Active Directory Services
+10642	ASP.NET MVC 2.0
+10643	ASP.NET MVC 3.0
+10644	ASP.NET MVC 4.0
+10645	ASP.NET MVC 5.0
+10646	ASP.NET MVC 5.1
+10570	ASP.NET SignalR 1.0.0
+10571	ASP.NET SignalR 1.0.1
+10572	ASP.NET SignalR 1.1.x
+10573	ASP.NET SignalR 2.0.x
+9171	Excel Services
+10002	FAST ESP 5.2
+10003	FAST ESP 5.3
+10337	FAST Search Server 2010 for Internal Applications
+10338	FAST Search Server 2010 for Internet Business
+10340	FAST Search Server 2010 for SharePoint Internet Sites
+10341	FAST Search Server 2010 for SharePoint Service Pack 1
+10081	Forefront Online Protection for Exchange
+10578	Forefront Protection 2010 for Exchange Server
+10463	iSCSI Software Target 3.3
+9158	JScript 5.7
+9343	JScript 5.8
+5257	Microsoft .NET Framework 1.0 Service Pack 3
+3899	Microsoft .NET Framework 1.1 Service Pack 1
+9292	Microsoft .NET Framework 2.0 Service Pack 2
+9195	Microsoft .NET Framework 3.0 Service Pack 2
+9195	Microsoft .NET Framework 3.0 Service Pack 2 
+9195	Microsoft .NET Framework 3.0 Service Pack 2 when installed
+2472	Microsoft .NET Framework 3.5
+7683	Microsoft .NET Framework 3.5 Service Pack 1
+7683	Microsoft .NET Framework 3.5 Service Pack 1 when installed
+9495	Microsoft .NET Framework 3.5.1
+4937	Microsoft .NET Framework 4
+4937	Microsoft .NET Framework 4 when installed
+10310	Microsoft .NET Framework 4.5
+10310	Microsoft .NET Framework 4.5 when installed
+10579	Microsoft .NET Framework 4.5.1
+10579	Microsoft .NET Framework 4.5.1 when installed
+10638	Microsoft .NET Framework 4.5.1/4.5.2
+10636	Microsoft .NET Framework 4.5.2
+10638	Microsoft .NET Framework 4.5/4.5.1/4.5.2
+10545	Microsoft Business Productivity Servers
+7097	Microsoft Commerce Server 2002 Service Pack 4
+4134	Microsoft Commerce Server 2007 Service Pack 2
+350	Microsoft Commerce Server 2009
+10234	Microsoft Commerce Server 2009 R2
+10064	Microsoft Communications Server 2007
+10065	Microsoft Communications Server 2007 R2
+10298	Microsoft Communications Server 2007 Speech Server
+10072	Microsoft Communicator 2005
+10288	Microsoft Communicator 2005 Web Access
+10073	Microsoft Communicator 2007
+10074	Microsoft Communicator 2007 R2
+10291	Microsoft Communicator 2007 R2 Attendant
+10292	Microsoft Communicator 2007 R2 Group Chat Admin
+10293	Microsoft Communicator 2007 R2 Group Chat Client
+10289	Microsoft Communicator 2007 Web Access
+10029	Microsoft Communicator for Mac 2011
+10076	Microsoft Communicator Mobile
+10075	Microsoft Communicator Phone Edition
+4513	Microsoft Data Access Components 2.8 Service Pack 1
+6004	Microsoft Data Access Components 2.8 Service Pack 2
+9285	Microsoft Data Engine (MSDE) 1.0
+9347	Microsoft Data Engine (MSDE) 1.0 Service Pack 4
+4028	Microsoft Data Engine 1.0
+3579	Microsoft Dynamics AX 2009 Service Pack 1
+10163	Microsoft Dynamics AX 2012
+10576	Microsoft Dynamics AX 2012 R2
+4667	Microsoft Dynamics AX 3.0 Service Pack 4
+7447	Microsoft Dynamics AX 3.0 Service Pack 5
+7775	Microsoft Dynamics AX 4.0 Service Pack 1
+5803	Microsoft Dynamics AX 4.0 Service Pack 2
+9262	Microsoft Excel 2003 Service Pack 3
+9309	Microsoft Excel 2007 Service Pack 2
+10152	Microsoft Excel 2007 Service Pack 3
+9438	Microsoft Excel 2010 (32-bit editions)
+9439	Microsoft Excel 2010 (64-bit editions)
+10182	Microsoft Excel 2010 Service Pack 1 (32-bit editions)
+10181	Microsoft Excel 2010 Service Pack 1 (64-bit editions)
+10489	Microsoft Excel 2010 Service Pack 2 (32-bit editions)
+10490	Microsoft Excel 2010 Service Pack 2 (64-bit editions)
+10313	Microsoft Excel 2013 (32-bit editions)
+10314	Microsoft Excel 2013 (64-bit editions)
+10405	Microsoft Excel 2013 RT
+10654	Microsoft Excel 2013 Service Pack 1 (32-bit editions) 
+10655	Microsoft Excel 2013 Service Pack 1 (64-bit editions) 
+196	Microsoft Excel Viewer 2007 Service Pack 2
+10236	Microsoft Excel Web App 2010 Service Pack 1
+10516	Microsoft Excel Web App 2010 Service Pack 2
+10408	Microsoft Excel Web App 2013
+6180	Microsoft Exchange Server 2003 Service Pack 2
+1140	Microsoft Exchange Server 2003 Service Pack 2 
+10004	Microsoft Exchange Server 2007 Service Pack 3
+9362	Microsoft Exchange Server 2010 Service Pack 1
+10178	Microsoft Exchange Server 2010 Service Pack 2
+10178	Microsoft Exchange Server 2010 Service Pack 2 
+10476	Microsoft Exchange Server 2010 Service Pack 3 
+10574	Microsoft Exchange Server 2013 Cumulative Update 2
+10575	Microsoft Exchange Server 2013 Cumulative Update 3
+10651	Microsoft Exchange Server 2013 Cumulative Update 6
+10650	Microsoft Exchange Server 2013 Service Pack 1
+4092	Microsoft Expression Web 2
+10309	Microsoft Expression Web Service Pack 1
+10537	Microsoft FrontPage 2003 Service Pack 3
+9350	Microsoft Groove 2007 Service Pack 1
+10107	Microsoft Groove 2007 Service Pack 2
+10153	Microsoft Groove 2007 Service Pack 3
+10110	Microsoft Groove Server 2007 Service Pack 2
+10305	Microsoft Groove Server 2007 Service Pack 3
+10112	Microsoft Groove Server 2010
+10111	Microsoft Groove Server 2010 Service Pack 1
+10111	Microsoft Groove Server 2010 Service Pack 1 
+10464	Microsoft Groove Server 2013
+2710	Microsoft Host Integration Server 2004 Service Pack 1
+9473	Microsoft InfoPath 2003 Service Pack 3
+9468	Microsoft InfoPath 2007 Service Pack 2
+10154	Microsoft InfoPath 2007 Service Pack 3
+9470	Microsoft InfoPath 2010 (32-bit editions)
+9471	Microsoft InfoPath 2010 (64-bit editions)
+10270	Microsoft InfoPath 2010 Service Pack 1 (32-bit editions)
+10270	Microsoft InfoPath 2010 Service Pack 1 (32-bit editions) 
+10271	Microsoft InfoPath 2010 Service Pack 1 (64-bit editions)
+10271	Microsoft InfoPath 2010 Service Pack 1 (64-bit editions) 
+10467	Microsoft InfoPath 2013 (32-bit editions)
+10468	Microsoft InfoPath 2013 (64-bit editions)
+2385	Microsoft Internet Explorer 6.0
+2547	Microsoft Internet Explorer 6.0 Service Pack 1
+7789	Microsoft Internet Information Services 7.0
+9352	Microsoft Internet Information Services 7.5
+10068	Microsoft Live Communications Server 2003
+10067	Microsoft Live Communications Server 2005 Service Pack 
+10067	Microsoft Live Communications Server 2005 Service Pack 1
+10290	Microsoft Live Meeting 2007 Console
+10069	Microsoft Lync 2010 (32-bit)
+10303	Microsoft Lync 2010 (64-bit)
+10303	Microsoft Lync 2010 (64-bit) 
+10267	Microsoft Lync 2010 Attendant (32-bit)
+10294	Microsoft Lync 2010 Attendant (64-bit)
+10268	Microsoft Lync 2010 Attendee (admin level install)
+10295	Microsoft Lync 2010 Attendee (user level install)
+10269	Microsoft Lync 2010 Group Chat
+10425	Microsoft Lync 2013 (32-bit)
+10426	Microsoft Lync 2013 (64-bit)
+10628	Microsoft Lync 2013 Service Pack 1 (32-bit)
+10630	Microsoft Lync 2013 Service Pack 1 (64-bit)
+10470	Microsoft Lync Basic 2013 (32-bit editions)
+10470	Microsoft Lync Basic 2013 (32-bit)
+10471	Microsoft Lync Basic 2013 (64-bit editions)
+10471	Microsoft Lync Basic 2013 (64-bit)
+10629	Microsoft Lync Basic 2013 Service Pack 1 (32-bit editions)
+10631	Microsoft Lync Basic 2013 Service Pack 1 (64-bit editions)
+10139	Microsoft Lync for Mac 2011
+10066	Microsoft Lync Server 2010
+10070	Microsoft Lync Server 2010 Group Chat Software Development Kit
+10071	Microsoft Lync Server 2010 Software Development Kit
+10428	Microsoft Lync Server 2013
+10269	Microsoft Lync Web Access 2013
+10444	Microsoft Lync Web Access 2013 
+3283	Microsoft Office 2003 Service Pack 3
+9340	Microsoft Office 2003 Web Components Service Pack 3
+4862	Microsoft Office 2007 Service Pack 2
+10150	Microsoft Office 2007 Service Pack 3
+10150	Microsoft Office 2007 Service Pack 3 with Microsoft Office 2007 IME (Japanese)
+6918	Microsoft Office 2008 for Mac
+9424	Microsoft Office 2010 (32-bit editions)
+9425	Microsoft Office 2010 (64-bit editions)
+10126	Microsoft Office 2010 Service Pack 1 (32-bit editions)
+10126	Microsoft Office 2010 Service Pack 1 (32-bit editions) 
+10127	Microsoft Office 2010 Service Pack 1 (64-bit editions)
+10127	Microsoft Office 2010 Service Pack 1 (64-bit editions) 
+10521	Microsoft Office 2010 Service Pack 2 (32-bit editions)
+10522	Microsoft Office 2010 Service Pack 2 (64-bit editions)
+10522	Microsoft Office 2010 Service Pack 2 (64-bit editions) 
+10311	Microsoft Office 2013 (32-bit editions)
+10312	Microsoft Office 2013 (64-bit editions)
+10407	Microsoft Office 2013 RT
+10544	Microsoft Office 2013 RT 
+10603	Microsoft Office 2013 RT Service Pack 1
+10601	Microsoft Office 2013 Service Pack 1 (32-bit editions)
+10601	Microsoft Office 2013 Service Pack 1 (32-bit editions) 
+10602	Microsoft Office 2013 Service Pack 1 (64-bit editions)
+10602	Microsoft Office 2013 Service Pack 1 (64-bit editions) 
+9307	Microsoft Office Compatibility Pack Service Pack 2
+4997	Microsoft Office Compatibility Pack Service Pack 3
+10024	Microsoft Office for Mac 2011
+10409	Microsoft Office OneNote 2013 (32-bit editions)
+10410	Microsoft Office OneNote 2013 (64-bit editions)
+9407	Microsoft Office SharePoint Server 2007 Service Pack 2 (32-bit editions)
+9408	Microsoft Office SharePoint Server 2007 Service Pack 2 (64-bit editions)
+10308	Microsoft Office SharePoint Server 2007 Service Pack 3 (32-bit editions)
+10307	Microsoft Office SharePoint Server 2007 Service Pack 3 (64-bit editions)
+10055	Microsoft Office Web Apps 2010
+10275	Microsoft Office Web Apps 2010 Service Pack 1
+10525	Microsoft Office Web Apps 2010 Service Pack 2
+10414	Microsoft Office Web Apps 2013
+10414	Microsoft Office Web Apps Server 2013
+10611	Microsoft Office Web Apps Server 2013 Service Pack 1
+1160	Microsoft Office Word Viewer
+3354	Microsoft OneNote 2003 Service Pack 3
+10155	Microsoft OneNote 2007 Service Pack 3
+10155	Microsoft OneNote 2007 Service Pack 3 
+10202	Microsoft OneNote 2010 Service Pack 1 (32-bit editions)
+10203	Microsoft OneNote 2010 Service Pack 1 (64-bit editions)
+10409	Microsoft OneNote 2013
+10059	Microsoft OneNote Web App
+10272	Microsoft OneNote Web App 2010 Service Pack 1
+10526	Microsoft OneNote Web App 2010 Service Pack 2
+9257	Microsoft Outlook 2003 Service Pack 3
+9459	Microsoft Outlook 2007 Service Pack 2
+8976	Microsoft Outlook 2007 Service Pack 3
+9460	Microsoft Outlook 2010 (32-bit editions)
+9461	Microsoft Outlook 2010 (64-bit editions)
+10196	Microsoft Outlook 2010 Service Pack 1 (32-bit editions)
+10197	Microsoft Outlook 2010 Service Pack 1 (64-bit editions)
+10527	Microsoft Outlook 2010 Service Pack 2 (32-bit editions)
+10528	Microsoft Outlook 2010 Service Pack 2 (64-bit editions)
+10317	Microsoft Outlook 2013 (32-bit editions)
+10318	Microsoft Outlook 2013 (64-bit editions)
+10407	Microsoft Outlook 2013 RT 
+9254	Microsoft PowerPoint 2003 Service Pack 3
+9305	Microsoft PowerPoint 2007 Service Pack 2
+10157	Microsoft PowerPoint 2007 Service Pack 3
+9436	Microsoft PowerPoint 2010 (32-bit editions)
+9437	Microsoft PowerPoint 2010 (64-bit editions)
+10180	Microsoft PowerPoint 2010 Service Pack 1 (32-bit editions)
+10179	Microsoft PowerPoint 2010 Service Pack 1 (64-bit editions)
+7305	Microsoft PowerPoint Viewer 2003
+1541	Microsoft PowerPoint Viewer 2007
+10278	Microsoft Project Server 2010 Service Pack 1
+10502	Microsoft Project Server 2010 Service Pack 2
+10613	Microsoft Project Server 2013
+10614	Microsoft Project Server 2013 Service Pack 1
+9338	Microsoft Publisher 2003 Service Pack 3
+10159	Microsoft Publisher 2007 Service Pack 3
+10184	Microsoft Publisher 2010 Service Pack 1 (32-bit editions)
+10184	Microsoft Publisher 2010 Service Pack 1 (32-bit editions) 
+10183	Microsoft Publisher 2010 Service Pack 1 (64-bit editions)
+10503	Microsoft Publisher 2010 Service Pack 2 (32-bit editions)
+10504	Microsoft Publisher 2010 Service Pack 2 (64-bit editions)
+10411	Microsoft Publisher 2013 (32-bit editions)
+10412	Microsoft Publisher 2013 (64-bit editions)
+10609	Microsoft Publisher 2013 Service Pack 1 (32-bit editions)
+10610	Microsoft Publisher 2013 Service Pack 1 (64-bit editions)
+10632	Microsoft Service Bus 1.1 when installed
+10160	Microsoft SharePoint Designer 2007 Service Pack 3
+10535	Microsoft SharePoint Designer 2010 Service Pack 1
+10615	Microsoft SharePoint Designer 2010 Service Pack 1 (32-bit versions)
+10617	Microsoft SharePoint Designer 2010 Service Pack 1 (64-bit versions)
+10536	Microsoft SharePoint Designer 2010 Service Pack 2
+10616	Microsoft SharePoint Designer 2010 Service Pack 2 (32-bit versions)
+10618	Microsoft SharePoint Designer 2010 Service Pack 2 (64-bit versions)
+10416	Microsoft SharePoint Designer 2013
+10619	Microsoft SharePoint Designer 2013 (32-bit versions)
+10621	Microsoft SharePoint Designer 2013 (64-bit versions)
+10623	Microsoft SharePoint Designer 2013 Service Pack 1 (32-bit versions)
+10622	Microsoft SharePoint Designer 2013 Service Pack 1 (64-bit versions)
+10043	Microsoft SharePoint Foundation 2010
+10115	Microsoft SharePoint Foundation 2010 Service Pack 1
+10505	Microsoft SharePoint Foundation 2010 Service Pack 2
+10417	Microsoft SharePoint Foundation 2013
+10612	Microsoft SharePoint Foundation 2013 Service Pack 1
+9452	Microsoft SharePoint Portal Server 2003 Service Pack 3 (32-bit editions)
+9453	Microsoft SharePoint Portal Server 2003 Service Pack 3 (64-bit editions)
+9407	Microsoft SharePoint Server 2007 Service Pack 2 (32-bit editions)
+9408	Microsoft SharePoint Server 2007 Service Pack 2 (64-bit editions)
+10308	Microsoft SharePoint Server 2007 Service Pack 3 (32-bit editions)
+10307	Microsoft SharePoint Server 2007 Service Pack 3 (64-bit editions)
+9430	Microsoft SharePoint Server 2010
+10120	Microsoft SharePoint Server 2010 Service Pack 1
+10495	Microsoft SharePoint Server 2010 Service Pack 2
+10495	Microsoft SharePoint Server 2010 Service Pack 2 with Word Automation Services
+10415	Microsoft SharePoint Server 2013
+10607	Microsoft SharePoint Server 2013 Service Pack 1
+10607	Microsoft SharePoint Server 2013 Service Pack 1 with Word Automation Services
+10415	Microsoft SharePoint Server 2013 with Word Automation Services
+10114	Microsoft SharePoint Workspace 2010 Service Pack 1
+10465	Microsoft SharePoint Workspace 2013 (32-bit editions)
+10466	Microsoft SharePoint Workspace 2013 (64-bit editions)
+10452	Microsoft Silverlight 5 Developer Runtime when installed
+10099	Microsoft Silverlight 5 when installed
+10297	Microsoft Speech Server 2004
+10296	Microsoft Speech Server 2004 R2
+10296	Microsoft Speech Server 2004 R2 
+10232	Microsoft SQL Server 2000 Analysis Services Service Pack 4
+9286	Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) Service Pack 4
+9287	Microsoft SQL Server 2000 Desktop Engine (MSDE)
+9205	Microsoft SQL Server 2000 Itanium Edition Service Pack 4
+3571	Microsoft SQL Server 2000 Reporting Services Service Pack 2
+10261	Microsoft SQL Server 2000 Service Pack 4
+3403	Microsoft SQL Server 2000 Service Pack 4 
+10261	Microsoft SQL Server 2000 Service Pack 4 (QFE)
+10089	Microsoft SQL Server 2005 Express Edition Service Pack 4
+10090	Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4
+10211	Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4 (QFE)
+10091	Microsoft SQL Server 2005 for 32-bit Systems Service Pack 4
+10207	Microsoft SQL Server 2005 for 32-bit Systems Service Pack 4 (QFE)
+10092	Microsoft SQL Server 2005 for Itanium-Based Systems Service Pack 4
+10209	Microsoft SQL Server 2005 for Itanium-Based Systems Service Pack 4 (QFE)
+10093	Microsoft SQL Server 2005 for x64-based Systems Service Pack 4
+10208	Microsoft SQL Server 2005 for x64-based Systems Service Pack 4 (QFE)
+10084	Microsoft SQL Server 2008 for 32-bit Systems Service Pack 2
+10212	Microsoft SQL Server 2008 for 32-bit Systems Service Pack 2 (QFE)
+10166	Microsoft SQL Server 2008 for 32-bit Systems Service Pack 3
+10213	Microsoft SQL Server 2008 for 32-bit Systems Service Pack 3 (QFE)
+10083	Microsoft SQL Server 2008 for Itanium-Based Systems Service Pack 2
+10215	Microsoft SQL Server 2008 for Itanium-Based Systems Service Pack 2 (QFE)
+10167	Microsoft SQL Server 2008 for Itanium-Based Systems Service Pack 3
+10217	Microsoft SQL Server 2008 for Itanium-Based Systems Service Pack 3 (QFE)
+10085	Microsoft SQL Server 2008 for x64-based Systems Service Pack 2
+10214	Microsoft SQL Server 2008 for x64-based Systems Service Pack 2 (QFE)
+10168	Microsoft SQL Server 2008 for x64-based Systems Service Pack 3
+10216	Microsoft SQL Server 2008 for x64-based Systems Service Pack 3 (QFE)
+10086	Microsoft SQL Server 2008 R2 for 32-bit Systems
+10367	Microsoft SQL Server 2008 R2 for 32-bit Systems Service Pack 1
+10386	Microsoft SQL Server 2008 R2 for 32-bit Systems Service Pack 1 (QFE)
+10368	Microsoft SQL Server 2008 R2 for 32-bit Systems Service Pack 2
+10088	Microsoft SQL Server 2008 R2 for Itanium-Based Systems
+10371	Microsoft SQL Server 2008 R2 for Itanium-based Systems Service Pack 1
+10391	Microsoft SQL Server 2008 R2 for Itanium-based Systems Service Pack 1 (QFE)
+10372	Microsoft SQL Server 2008 R2 for Itanium-based Systems Service Pack 2
+10087	Microsoft SQL Server 2008 R2 for x64-based Systems
+10369	Microsoft SQL Server 2008 R2 for x64-based Systems Service Pack 1
+10388	Microsoft SQL Server 2008 R2 for x64-based Systems Service Pack 1 (QFE)
+10370	Microsoft SQL Server 2008 R2 for x64-based Systems Service Pack 2
+10302	Microsoft SQL Server 2012 for 32-bit Systems
+10301	Microsoft SQL Server 2012 for 32-bit Systems (QFE)
+10299	Microsoft SQL Server 2012 for x64-based Systems
+10300	Microsoft SQL Server 2012 for x64-based Systems (QFE)
+10637	Microsoft SQL Server 2014 for 32-bit Systems
+10634	Microsoft SQL Server 2014 for x64-based Systems
+10095	Microsoft SQL Server Management Studio Express (SSMSE) 2005
+10348	Microsoft System Center 2012 Configuration Manager 
+10352	Microsoft System Center 2012 Operations Manager
+10346	Microsoft System Center Configuration Manager 2007 R2 
+10347	Microsoft System Center Configuration Manager 2007 R3 
+10345	Microsoft System Center Configuration Manager 2007 Service Pack 2
+10356	Microsoft System Center Operations Manager 2007 R2
+10355	Microsoft System Center Operations Manager 2007 Service Pack 1
+3452	Microsoft Systems Management Server 2003 Service Pack 3
+5598	Microsoft Visio 2003 Service Pack 3
+10033	Microsoft Visio 2007 Service Pack 2
+10161	Microsoft Visio 2007 Service Pack 3
+10198	Microsoft Visio 2010 Service Pack 1 (32-bit editions)
+10199	Microsoft Visio 2010 Service Pack 1 (64-bit editions)
+10321	Microsoft Visio 2013 (32-bit editions)
+10322	Microsoft Visio 2013 (64-bit editions)
+10265	Microsoft Visio Viewer 2010 Service Pack 1 (32-bit Edition)
+10266	Microsoft Visio Viewer 2010 Service Pack 1 (64-bit Edition)
+10454	Microsoft Visio Viewer 2013 (32-bit Edition)
+10455	Microsoft Visio Viewer 2013 (64-bit Edition)
+9481	Microsoft Visual Basic for Applications 6.3
+9482	Microsoft Visual Basic for Applications 6.4
+9483	Microsoft Visual Basic for Applications 6.5
+9484	Microsoft Visual Basic for Applications SDK 6.3
+9485	Microsoft Visual Basic for Applications SDK 6.4
+9486	Microsoft Visual Basic for Applications SDK 6.5
+7400	Microsoft Visual FoxPro 8.0 Service Pack 1
+8577	Microsoft Visual FoxPro 9.0 Service Pack 2
+6475	Microsoft Visual Studio .NET 2003 Service Pack 1
+3845	Microsoft Visual Studio 2005 Service Pack 1
+4992	Microsoft Visual Studio 2008 Service Pack 1
+10098	Microsoft Visual Studio 2010 Service Pack 1
+10326	Microsoft Visual Studio 2012
+10174	Microsoft Visual Studio LightSwitch 2011
+10382	Microsoft Visual Studio Team Foundation Server 2005 Service Pack 1
+10383	Microsoft Visual Studio Team Foundation Server 2008 Service Pack 1
+10380	Microsoft Visual Studio Team Foundation Server 2010 Service Pack 1
+10381	Microsoft Visual Studio Team Foundation Server 2012
+10565	Microsoft Visual Studio Team Foundation Server 2013 
+10410	Microsoft Web Apps Server 2013
+3954	Microsoft Windows 2000 Service Pack 4
+6236	Microsoft Windows 7 for 32-bit Systems Service Pack 2
+9244	Microsoft Windows NT Workstation 4.0 Service Pack 6a
+1414	Microsoft Windows Server 2003
+5177	Microsoft Windows Server 2003 for Itanium-based Systems Service Pack 1
+6236	Microsoft Windows Server 2003 for Itanium-based Systems Service Pack 2
+6236	Microsoft Windows Server 2003 for Itanium-based Systems Service Pack 2 
+104	Microsoft Windows Server 2003 R2 Service Pack 2
+5867	Microsoft Windows Server 2003 R2 x64 Edition Service Pack 2
+4301	Microsoft Windows Server 2003 Service Pack 1
+4898	Microsoft Windows Server 2003 Service Pack 2
+4898	Microsoft Windows Server 2003 Service Pack 2 
+6236	Microsoft Windows Server 2003 with SP2 for Itanium-based Systems
+9245	Microsoft Windows Server 2003 x64 Edition
+5867	Microsoft Windows Server 2003 x64 Edition Service Pack 2
+5867	Microsoft Windows Server 2003 x64 Edition Service Pack 2 
+9442	Microsoft Windows SharePoint Services 2.0 (32-bit editions)
+9443	Microsoft Windows SharePoint Services 2.0 (64-bit editions)
+9446	Microsoft Windows SharePoint Services 3.0 Service Pack 2 (32-bit version)
+9447	Microsoft Windows SharePoint Services 3.0 Service Pack 2 (64-bit version)
+10402	Microsoft Windows SharePoint Services 3.0 Service Pack 3 (32-bit version)
+10403	Microsoft Windows SharePoint Services 3.0 Service Pack 3 (64-bit version)
+1664	Microsoft Windows XP Media Center Edition 2005
+9328	Microsoft Windows XP Media Center Edition 2005 Service Pack 3
+3126	Microsoft Windows XP Professional x64 Edition Service Pack 
+3126	Microsoft Windows XP Professional x64 Edition Service Pack 2
+3126	Microsoft Windows XP Professional x64 Edition Service Pack 2 
+4969	Microsoft Windows XP Service Pack 2
+3700	Microsoft Windows XP Service Pack 3
+3700	Microsoft Windows XP Service Pack 3 
+9321	Microsoft Windows XP Tablet PC Edition 2005
+9321	Microsoft Windows XP Tablet PC Edition 2005 Service Pack 3
+9264	Microsoft Word 2003 Service Pack 3
+9427	Microsoft Word 2007 Service Pack 2
+10162	Microsoft Word 2007 Service Pack 3
+9386	Microsoft Word 2010 (32-bit editions)
+9428	Microsoft Word 2010 (64-bit editions)
+10200	Microsoft Word 2010 Service Pack 1 (32-bit editions)
+10201	Microsoft Word 2010 Service Pack 1 (64-bit editions)
+10513	Microsoft Word 2010 Service Pack 2 (32-bit editions)
+10514	Microsoft Word 2010 Service Pack 2 (64-bit editions)
+10323	Microsoft Word 2013 (32-bit editions)
+10324	Microsoft Word 2013 (64-bit editions)
+10406	Microsoft Word 2013 RT
+10606	Microsoft Word 2013 RT Service Pack 1
+10604	Microsoft Word 2013 Service Pack 1 (32-bit editions)
+10604	Microsoft Word 2013 Service Pack 1 (32-bit editions) 
+10605	Microsoft Word 2013 Service Pack 1 (64-bit editions)
+10605	Microsoft Word 2013 Service Pack 1 (64-bit editions) 
+1160	Microsoft Word Viewer
+10056	Microsoft Word Web App 2010
+10238	Microsoft Word Web App 2010 Service Pack 1
+10515	Microsoft Word Web App 2010 Service Pack 2
+925	Microsoft Works 9
+7177	Microsoft XML Core Services 3.0
+1399	Microsoft XML Core Services 4.0
+9240	Microsoft XML Core Services 5.0
+6710	Microsoft XML Core Services 6.0
+1399	Microsoft XML Core Services4.0
+	None
+10045	Remote Desktop Connection 6.1 Client
+10046	Remote Desktop Connection 7.0 Client
+10458	Remote Desktop Connection 8.0 Client
+10624	Remote Server Administration Tools
+10115	SharePoint Foundation 2010 Service Pack 1
+10417	SharePoint Foundation 2013
+10625	SharePoint Server 2013 Client Components SDK (32-bit version)
+10626	SharePoint Server 2013 Client Components SDK (64-bit version)
+10150	soft Office 2007 Service Pack 3
+10297	Speech Server 2004
+9238	VBScript 5.6
+9414	VBScript 5.7
+9415	VBScript 5.8
+10192	Visual Basic 6.0 Runtime
+10483	Windows 2012 R2
+10543	Windows 2012 R2 (Server Core installation)
+9303	Windows 7 for 32-bit Systems
+9303	Windows 7 for 32-bit Systems 
+10047	Windows 7 for 32-bit Systems  Service Pack 1
+10047	Windows 7 for 32-bit Systems Service Pack 1
+10047	Windows 7 for 32-bit Systems Service Pack 1 
+10048	Windows 7 for 64-bit Systems Service Pack 1 
+9345	Windows 7 for x64-based Systems
+9345	Windows 7 for x64-based Systems 
+10048	Windows 7 for x64-based Systems Service Pack 1
+10048	Windows 7 for x64-based Systems Service Pack 1 
+10375	Windows 8 Embedded Standard for 32-bit Systems
+10376	Windows 8 Embedded Standard for 64-bit Systems
+10373	Windows 8 for 32-bit Systems
+10373	Windows 8 for 32-bit Systems 
+10374	Windows 8 for 64-bit Systems
+10374	Windows 8 for 64-bit Systems 
+10374	Windows 8 for 64-bit Systems(KB2789649)
+10374	Windows 8 for x64-based Systems
+10281	Windows 8 Release Preview for 32-bit systems
+10282	Windows 8 Release Preview for x64-based systems
+10373	Windows 8 with Windows Media Center for 32-bit Systems
+10374	Windows 8 with Windows Media Center for x64-based Systems
+10481	Windows 8.1 for 32-bit Systems
+10482	Windows 8.1 for 64-bit Systems
+10482	Windows 8.1 for x64-based Systems
+10477	Windows 8.1 with Windows Media Center for 32-bit Systems
+10478	Windows 8.1 with Windows Media Center for x64-based Systems
+10031	Windows Data Access Components 6.0
+251	Windows Defender for Windows 7 for 32-bit Systems 
+251	Windows Defender for Windows 7 for 32-bit Systems Service Pack 1
+251	Windows Defender for Windows 7 for x64-based Systems Service Pack 1
+251	Windows Defender for Windows 8 for 32-bit Systems
+251	Windows Defender for Windows 8 for 64-bit Systems
+251	Windows Defender for Windows RT
+251	Windows Defender for Windows Server 2003 Service Pack 2
+251	Windows Defender for Windows Server 2003 with SP2 for Itanium-based Systems
+251	Windows Defender for Windows Server 2003 x64 Edition Service Pack 2
+251	Windows Defender for Windows Server 2008 for 32-bit Systems Service Pack 2
+251	Windows Defender for Windows Server 2008 for x64-based Systems Service Pack 2
+251	Windows Defender for Windows Server 2008 R2 for x64-based Systems 
+251	Windows Defender for Windows Server 2008 R2 for x64-based Systems Service Pack 1
+251	Windows Defender for Windows Vista Service Pack 2
+251	Windows Defender for Windows Vista x64 Edition Service Pack 2
+251	Windows Defender for Windows XP Professional x64 Edition Service Pack 2
+251	Windows Defender for Windows XP Service Pack 3
+10333	Windows Defender Offline
+9500	Windows Embedded Standard 7 for 32-bit based Systems
+9502	Windows Embedded Standard 7 for x64-based Systems
+10474	Windows Essentials 2011
+10475	Windows Essentials 2012
+10401	Windows Internet Explorer 10
+10486	Windows Internet Explorer 11
+1282	Windows Internet Explorer 7
+1233	Windows Internet Explorer 8
+10054	Windows Internet Explorer 9
+10491	Windows Media Format Runtime 11 (wmvdecod.dll)
+10491	Windows Media Format Runtime 11 (wmvdecod.dll) when installed
+10491	Windows Media Format Runtime 11 (wmvdmod.dll)
+10494	Windows Media Format Runtime 9 (wmvdmod.dll)
+10492	Windows Media Format Runtime 9.5 (wmvdmod.dll)
+10493	Windows Media Format Runtime 9.5 x64 (wmvdmod.dll)
+234	Windows Media Player 11 (wmvdecod.dll)
+9310	Windows Media Player 12 (wmvdecod.dll)
+10377	Windows RT
+10484	Windows RT 8.1
+10284	Windows RT Release Preview
+5672	Windows Script 5.6
+10567	Windows Script 5.7
+10567	Windows Script 5.7 when installed
+10568	Windows Script 5.8
+6236	Windows Server 2003 for Itanium-based Systems Service Pack 2
+4898	Windows Server 2003 Service Pack 2
+6236	Windows Server 2003 with SP2 for Itanium-based Systems
+5867	Windows Server 2003 x64 Edition Service Pack 2
+73	Windows Server 2008 for 32-bit Systems
+9312	Windows Server 2008 for 32-bit Systems Service Pack 
+9312	Windows Server 2008 for 32-bit Systems Service Pack 2
+9312	Windows Server 2008 for 32-bit Systems Service Pack 2 
+10287	Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation)
+7741	Windows Server 2008 for Itanium-Based Systems
+9311	Windows Server 2008 for Itanium-Based Systems Service Pack 2
+9318	Windows Server 2008 for Itanium-based Systems Service Pack 2
+9311	Windows Server 2008 for Itanium-Based Systems Service Pack 2 
+9189	Windows Server 2008 for x64-based Systems
+9318	Windows Server 2008 for x64-based Systems Service Pack 2
+9318	Windows Server 2008 for x64-based Systems Service Pack 2 
+9344	Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)
+6257	Windows Server 2008 R2 for Itanium-Based Systems
+6257	Windows Server 2008 R2 for Itanium-Based Systems 
+10050	Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1
+10050	Windows Server 2008 R2 for Itanium-Based Systems Service Pack 1 
+10051	Windows Server 2008 R2 for x64-based Systems
+9351	Windows Server 2008 R2 for x64-based Systems 
+9488	Windows Server 2008 R2 for x64-based Systems (Server Core installation)
+9488	Windows Server 2008 R2 for x64-based Systems (Server Core installation) 
+10051	Windows Server 2008 R2 for x64-based Systems Service Pack 1
+10051	Windows Server 2008 R2 for x64-based Systems Service Pack 1 
+10049	Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)
+10378	Windows Server 2012
+10378	Windows Server 2012 
+10379	Windows Server 2012 (Server Core installation)
+10379	Windows Server 2012 (Server Core installation) 
+10379	Windows Server 2012 (Server Core installation) (KB2789649)
+10483	Windows Server 2012 R2
+10543	Windows Server 2012 R2 (Server Core installation)
+10283	Windows Server 2012 Release Candidate
+10306	Windows Server 2012 Release Candidate (Server Core installation)
+1634	Windows Vista Service Pack 1
+4393	Windows Vista Service Pack 2
+4393	Windows Vista Service Pack 2 
+4393	Windows Vista with Windows Media Center TV Pack (32-bit editions)
+9316	Windows Vista with Windows Media Center TV Pack (64-bit editions)
+8832	Windows Vista x64 Edition Service Pack 1
+9316	Windows Vista x64 Edition Service Pack 2
+9316	Windows Vista x64 Edition Service Pack 2 
+3126	Windows XP Professional x64 Edition Service Pack 2
+3700	Windows XP Service Pack 3
+3700	Windows XP Service Pack 3 
+9328	Windows XP Service Pack 3 (Media Center Edition only)
+9318	wmv9vcm.dll (codec)
+9432	Word Automation Services

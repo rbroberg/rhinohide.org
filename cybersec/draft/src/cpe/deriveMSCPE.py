@@ -1,10 +1,10 @@
 import glob
-import lxml import etree
+from lxml import etree
 
 # get product id / product name map from cvrf
-proddict = {}
-dir="/Users/rbroberg/Downloads/MSRC-CVRF/*xml"
-fxml=glob.glob(dir)
+datdir="/projects/rhinohide.org/cybersec/draft/data/MSRC-CVRF/"
+xmldir=datdir+"*xml"
+fxml=glob.glob(xmldir)
 fxml.sort()
 
 cvrfhead='<?xml version="1.0" encoding="UTF-8"?> ' \
@@ -51,7 +51,7 @@ for fn in fxml:
 	prods=find(root)
 		
 	for p in find(root):
-		ppid=str(p.get('ProductID')).split('-')
+		ppid=str(p.get('ProductID')).replace(' ','').split('-')
 		pptxt=str(p.text).split(' on ')
 		for i in range(len(ppid)):
 			try:
@@ -61,6 +61,17 @@ for fn in fxml:
 				# this will happen if " on " is not in dual product name
 				pass
 
+# -----------------------------------------------------------------
+'''
+pp=d_name2id.keys()
+pp.sort()
+f = open(datdir+'msprodid.txt', 'w')
+for  p in pp:
+   f.write('\t'.join([d_name2id[p], p])+'\n')
+   print('\t'.join([d_name2id[p], p]))
+
+f.close()
+'''
 # -----------------------------------------------------------------
 
 # <vuln:CVE>
