@@ -24,6 +24,8 @@ if names22[0]==None:
 	names22 = names22[1:]
 
 
+# ========== Operating Systems ===============
+
 # includes deprecated names
 # path="//{http://cpe.mitre.org/dictionary/2.0}cpe-item[contains(@name,'cpe:/o:microsoft')]"
 
@@ -65,3 +67,26 @@ for p in names22:
     f.write(p+'\n')
 
 f.close()
+
+# ========== APPLICATIONS ===============
+# all lower case
+
+def getCPEforMSApp(app):
+	path="//{http://cpe.mitre.org/dictionary/2.0}cpe-item[contains(@name,'cpe:/a:microsoft') and contains(@name,'"+app.lower()+"')]"
+	findall = etree.ETXPath(path)
+	a=findall(tree22)
+	apps22=[]
+	for c in a:
+		if not c.get('deprecated') == 'true':
+			apps22.append(c.get('name'))
+		else:
+			apps22.append(c.get('deprecated-by'))
+	
+	apps22=list(set(apps22))
+	apps22.sort()
+	if apps22[0]==None:
+		apps22 = apps22[1:]
+	
+	for a in apps22:
+		print a
+

@@ -7,6 +7,9 @@ xmldir=datdir+"*xml"
 fxml=glob.glob(xmldir)
 fxml.sort()
 
+'''
+# fixed on Dec 30 by email communication with secure@microsoft.com
+
 cvrfhead='<?xml version="1.0" encoding="UTF-8"?> ' \
 	+ '<cvrf:cvrfdoc ' \
 	+ 'xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ' \
@@ -24,11 +27,11 @@ cvrfhead='<?xml version="1.0" encoding="UTF-8"?> ' \
 	+ 'xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">'
 
 cvrftail=' </cvrf:cvrfdoc>'
+'''
 
-
-# Microsoft has inconsistent publications of its CVRF
+# Microsoft had inconsistent publications of its CVRF
 # some are complete and some are partial
-# This code checks the  first line to determine if 
+# Repaired as of 20141230
 d_name2id={}
 d_id2name={}
 for fn in fxml:
@@ -36,15 +39,23 @@ for fn in fxml:
 	xml=f.readlines()
 	f.close()
 	
-	if xml[0].find('cvrf:cvrfdoc') == -1 and xml[1].find('cvrf:cvrfdoc') == -1 :
-		xml[0]=cvrfhead+xml[0]
+	#if xml[0].find('cvrf:cvrfdoc') == -1 and xml[1].find('cvrf:cvrfdoc') == -1 :
+	#	xml[0]=cvrfhead+xml[0]
 	
-	if xml[-1].find('cvrf:cvrfdoc') == -1 and xml[-2].find('cvrf:cvrfdoc') == -1 :
-		xml[-1]=xml[-1]+cvrftail
+	#if xml[-1].find('cvrf:cvrfdoc') == -1 and xml[-2].find('cvrf:cvrfdoc') == -1 :
+	#	xml[-1]=xml[-1]+cvrftail
 	
-	strxml=' '.join(xml)
-	root=etree.fromstring(strxml)
-	#root = tree.getroot()
+	try:
+		strxml=' '.join(xml)
+		root=etree.fromstring(strxml)
+		#root = tree.getroot()
+	except:
+		xml[1]=xml[1]+'>'
+		try:
+			strxml=' '.join(xml)
+			root=etree.fromstring(strxml)
+		except:
+			print('Parsing failed on '+fn+'\n')
 	
 	path="//{http://www.icasi.org/CVRF/schema/prod/1.1}FullProductName"
 	find = etree.ETXPath(path)
@@ -52,23 +63,35 @@ for fn in fxml:
 		
 	for p in find(root):
 		ppid=str(p.get('ProductID')).replace(' ','').split('-')
-		pptxt=str(p.text).split(' on ')
-		for i in range(len(ppid)):
+		# when installed on in MS12-038 
+		pptxt=str(p.text).replace(' when installed','').split(' on ')
+		# only want the first half; several typos in second half
+		#for i in range(len(ppid)):
+		for i in range(1):
 			try:
-				d_id2name[ppid[i]]=pptxt[i]
-				d_name2id[pptxt[i]]=ppid[i]
+				# append if entry exists
+				d_id2name[ppid[i]]=d_id2name[ppid[i]]+pptxt[i]
+				d_name2id[pptxt[i]]=d_name2id[pptxt[i]]+ppid[i]
 			except:
-				# this will happen if " on " is not in dual product name
-				pass
+				try:
+					# create new list for value if entry doesn't already exist
+					d_id2name[ppid[i]]=[pptxt[i]]
+					d_name2id[pptxt[i]]=[ppid[i]]
+				except:
+					# this will happen if " on " is not in dual product name
+					# also '???' used as product id in some instances
+					pass
 
 # -----------------------------------------------------------------
 '''
-pp=d_name2id.keys()
+pp=d_id2name.keys()
 pp.sort()
 f = open(datdir+'msprodid.txt', 'w')
-for  p in pp:
-   f.write('\t'.join([d_name2id[p], p])+'\n')
-   print('\t'.join([d_name2id[p], p]))
+for p in pp:
+	n = d_id2name[p]
+	for i in range(len(n)):
+		f.write('\t'.join([p, n[i]])+'\n')
+		print('\t'.join([p, n[i]]))
 
 f.close()
 '''
