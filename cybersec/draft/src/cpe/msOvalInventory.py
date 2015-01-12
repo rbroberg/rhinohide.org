@@ -89,11 +89,13 @@ get_registry_state(tree, "oval:org.mitre.oval:ste:19893")
       <state state_ref="oval:org.mitre.oval:ste:27503"/>
     </registry_test>
 '''
-strid="oval:org.mitre.oval:tst:100228"
 def get_registry_test(tree, strid):
     path="//{http://oval.mitre.org/XMLSchema/oval-definitions-5#windows}registry_test[@id='"+strid+"']"
     findall = etree.ETXPath(path)
-    rtest=findall(tree)[0]
+    try:
+        rtest=findall(tree)[0]
+    except:
+        return -1
     # prototype only: this includes unacceptable assumptions
     # object
     obj=rtest.findall('./{http://oval.mitre.org/XMLSchema/oval-definitions-5#windows}object')
@@ -103,14 +105,36 @@ def get_registry_test(tree, strid):
     ste=rtest.findall('./{http://oval.mitre.org/XMLSchema/oval-definitions-5#windows}state')
     if len(ste)>0: d_state=get_registry_state(tree, ste[0].get('state_ref'))
     else: d_state={value:''}
+    
+    # not prepared to handle key regex at this time
+    if not d_object['keyop'] is None: return -1
+    
+    # not prepared to handle value regex at this time
+    #if not d_state['valop'] is None: return -1
+    
+    # not prepared to handle keys at this time
+    if not d_state['key'] is None: return -1
+    
     #p=re.compile(d_state['value'])
     c = wmi.WMI(namespace="default").StdRegProv
     if d_object['hive']=='HKEY_LOCAL_MACHINE':
         winhive=_winreg.HKEY_LOCAL_MACHINE
-    key = _winreg.OpenKey(winhive,d_object['key'], 0, _winreg.KEY_READ | _winreg.KEY_WOW64_64KEY)
-    value = _winreg.QueryValueEx(key, d_object['name'])
-    return not re.match(d_state['value'],str(value[0]))==None
+    try:
+        key = _winreg.OpenKey(winhive,d_object['key'], 0, _winreg.KEY_READ | _winreg.KEY_WOW64_64KEY)
+        value = _winreg.QueryValueEx(key, d_object['name'])
+        if d_state['valop'] is None:
+            return d_state['value'] == str(value[0])
+        elif d_state['valop'] == "pattern match":
+            return not re.match(d_state['value'],str(value[0]))==None
+        else:
+            return -1
+    except:
+        # would be better to test non-existence then assume it on failure
+        return False
 
+#strid="oval:org.mitre.oval:tst:100228"
+#get_registry_test(tree,"oval:org.mitre.oval:tst:87142") # IE 11
+#get_registry_test(tree,"oval:org.mitre.oval:tst:80429") # IE 10
 
 def eval_winreg_key_patternmatch(hive,key)
         c = wmi.WMI(namespace="default").StdRegProv
@@ -282,7 +306,7 @@ for aa in a:
     if len(aa[0].findall(path))>1:
         tot = tot+1
         b=aa[0].findall(path)
-        for bb in b:
+        for bb in b: 
             aa.get('id'), bb.get('ref_id')
 
 tot
