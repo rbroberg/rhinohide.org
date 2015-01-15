@@ -248,7 +248,7 @@ def getWinHive(strhive):
 		winhive=_winreg.HKEY_CLASSES_ROOT
 	elif strhive=='HKEY_CURRENT_USER':
 		winhive=_winreg.HKEY_CURRENT_USER
-	elif strhive=='USERS':
+	elif strhive=='HKEY_USERS':
 		winhive=_winreg.HKEY_USERS
 	elif strhive=='HKEY_LOCAL_MACHINE':
 		winhive=_winreg.HKEY_LOCAL_MACHINE
@@ -322,6 +322,7 @@ def eval_registry_key(keydict):
 		else:
 			keyx = keydict['key']
 			key = _winreg.OpenKey(winhive,keyx, 0, _winreg.KEY_READ)
+		return True
 	except:
 		# would be better to test non-existence rather than assume it on failure
 		return False
@@ -360,8 +361,9 @@ def eval_registry_test(tree, strid):
 	# if state exists and only one object, eval object against each state
 	# there could be two objects [32bit & 64bit] ignored for now
 	if len(l_state) > 0:
-		for i in range(len(l_state)):
-			l_regtest.append(eval_registry_value(l_object[0],l_state[i]))
+		for j in range(len(l_state)):
+			for i in range(len(l_object)):
+				l_regtest.append(eval_registry_value(l_object[i],l_state[j]))
 		return eval_logicallist(l_regtest,regop)
 	else:
 		for i in range(len(l_object)):
@@ -454,6 +456,7 @@ def eval_logicallist(llist, op):
 		return True
 	else:
 		return False
+
 '''
 l0=[False,False,False]
 l1=[True,True,True]
@@ -556,7 +559,34 @@ def getRegexKeys(hive,keyregex):
 	return rkeys
 
 
-fnxml="/projects/rhinohide.org/cybersec/draft/data/MITRE-OVAL/microsoft.windows.7.xml"
+# performace - exclude classes
+def getKeys(winhive,keyset,key):
+	#print key
+	try:
+		this=_winreg.OpenKey(winhive, key, 0, _winreg.KEY_READ)
+		itr=_winreg.QueryInfoKey(this)[0]
+		for i in range(itr):
+			keystub=_winreg.EnumKey(this,i)
+			if not keystub.lower()=="classes":
+				nkey=key+"\\"+keystub
+				if nkey[:1]=="\\": nkey=nkey[1:]
+				#print i,nkey
+				if not nkey.lower()=="classes":
+					keyset.add(nkey)
+				try:
+					if not nkey.lower()=="classes":
+						getKeys(winhive,keyset,nkey)
+				except:
+					print "error: "+nkey
+	except:
+		pass # key does not exist
+	return list(keyset)
+
+
+#TODO: select file based on platform
+#fnxml="/projects/rhinohide.org/cybersec/draft/data/MITRE-OVAL/windows.xml"
+#fnxml="/projects/rhinohide.org/cybersec/draft/data/MITRE-OVAL/microsoft.windows.7.xml"
+fnxml="/projects/rhinohide.org/cybersec/draft/data/MITRE-OVAL/microsoft.windows.8.1.xml"
 tree = etree.parse(fnxml)
 root = tree.getroot()
 
@@ -568,9 +598,9 @@ list(a[0]) # metadata, criteria
 
 for aa in a:
 	e=eval_definition(tree,aa.get('id'))
-	#print aa.get('id'), e
+	#print aa.get('id'),aa[0][0].text,e
 	if e==True:
-		aa.get('id'),get_definition_cpe(tree, aa.get('id'))
+		print aa.get('id'),get_definition_cpe(tree, aa.get('id'))
 
 # get operator
 
@@ -655,30 +685,5 @@ tot
 
 '''
 
-'''
-# performace - exclude classes
-def getKeys(winhive,keyset,key):
-	#print key
-	try:
-		this=_winreg.OpenKey(winhive, key, 0, _winreg.KEY_READ)
-		itr=_winreg.QueryInfoKey(this)[0]
-		for i in range(itr):
-			keystub=_winreg.EnumKey(this,i)
-			if not keystub.lower()=="classes":
-				nkey=key+"\\"+keystub
-				if nkey[:1]=="\\": nkey=nkey[1:]
-				#print i,nkey
-				if not nkey.lower()=="classes":
-					keyset.add(nkey)
-				try:
-					if not nkey.lower()=="classes":
-						getKeys(winhive,keyset,nkey)
-				except:
-					print "error: "+nkey
-	except:
-		pass # key does not exist
-	return list(keyset)
-
-hkcu=getKeys(_winreg.HKEY_CURRENT_USER, set(), "")
-hklmsoftware=getKeys(_winreg.HKEY_LOCAL_MACHINE, set(), "SOFTWARE")
-'''
+#hkcu=getKeys(_winreg.HKEY_CURRENT_USER, set(), "")
+#hklmsoftware=getKeys(_winreg.HKEY_LOCAL_MACHINE, set(), "SOFTWARE")
