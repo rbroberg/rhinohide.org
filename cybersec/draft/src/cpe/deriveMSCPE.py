@@ -1,37 +1,12 @@
 import glob
 from lxml import etree
 
-# get product id / product name map from cvrf
-datdir="/projects/rhinohide.org/cybersec/draft/data/MSRC-CVRF/"
+# assumes a valid set of cvrf files
+datdir="/opt/projects/django-cyberxml/static/data/microsoft.com/MSRC-CVRF/"
 xmldir=datdir+"*xml"
 fxml=glob.glob(xmldir)
 fxml.sort()
 
-'''
-# fixed on Dec 30 by email communication with secure@microsoft.com
-
-cvrfhead='<?xml version="1.0" encoding="UTF-8"?> ' \
-	+ '<cvrf:cvrfdoc ' \
-	+ 'xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ' \
-	+ 'xmlns:dc="http://purl.org/dc/elements/1.1/"  ' \
-	+ 'xmlns:cvrf-common="http://www.icasi.org/CVRF/schema/common/1.1" ' \
-	+ 'xmlns:prod="http://www.icasi.org/CVRF/schema/prod/1.1"  ' \
-	+ 'xmlns:vuln="http://www.icasi.org/CVRF/schema/vuln/1.1"  ' \
-	+ 'xmlns:cvrf="http://www.icasi.org/CVRF/schema/cvrf/1.1"  ' \
-	+ 'xmlns:wbld="http://schemas.microsoft.com/office/word/2004/5/build" ' \
-	+ 'xmlns:scap-core="http://scap.nist.gov/schema/scap-core/1.0" ' \
-	+ 'xmlns:cvssv2="http://scap.nist.gov/schema/cvss-v2/1.0"  ' \
-	+ 'xmlns:cpe-lang="http://cpe.mitre.org/language/2.0"  ' \
-	+ 'xmlns:sch="http://purl.oclc.org/dsdl/schematron"  ' \
-	+ 'xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2012-04-25T17:42:50" ' \
-	+ 'xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">'
-
-cvrftail=' </cvrf:cvrfdoc>'
-'''
-
-# Microsoft had inconsistent publications of its CVRF
-# some are complete and some are partial
-# Repaired as of 20141230
 d_name2id={}
 d_id2name={}
 for fn in fxml:
@@ -39,32 +14,22 @@ for fn in fxml:
 	xml=f.readlines()
 	f.close()
 	
-	#if xml[0].find('cvrf:cvrfdoc') == -1 and xml[1].find('cvrf:cvrfdoc') == -1 :
-	#	xml[0]=cvrfhead+xml[0]
-	
-	#if xml[-1].find('cvrf:cvrfdoc') == -1 and xml[-2].find('cvrf:cvrfdoc') == -1 :
-	#	xml[-1]=xml[-1]+cvrftail
-	
 	try:
 		strxml=' '.join(xml)
 		root=etree.fromstring(strxml)
 		#root = tree.getroot()
 	except:
-		xml[1]=xml[1]+'>'
-		try:
-			strxml=' '.join(xml)
-			root=etree.fromstring(strxml)
-		except:
-			print('Parsing failed on '+fn+'\n')
+		print('Parsing failed on '+fn+'\n')
 	
 	path="//{http://www.icasi.org/CVRF/schema/prod/1.1}FullProductName"
 	find = etree.ETXPath(path)
 	prods=find(root)
-		
+	
 	for p in find(root):
 		ppid=str(p.get('ProductID')).replace(' ','').split('-')
 		# when installed on in MS12-038 
-		pptxt=str(p.text).replace(' when installed','').split(' on ')
+		#pptxt=str(p.text).replace(' when installed','').split(' on ')
+		pptxt=str(p.text).split(' on ')
 		# only want the first half; several typos in second half
 		#for i in range(len(ppid)):
 		for i in range(1):
@@ -83,6 +48,17 @@ for fn in fxml:
 					pass
 
 # -----------------------------------------------------------------
+import csv
+writer = csv.writer(open('d_id2name.csv', 'wb'))
+for key, value in d_id2name.items():
+   writer.writerow([key, value])
+
+writer = csv.writer(open('d_name2id.csv', 'wb'))
+for key, value in d_name2id.items():
+   writer.writerow([key, value])
+
+
+
 '''
 pp=d_id2name.keys()
 pp.sort()

@@ -22,6 +22,7 @@ import re
     </registry_object>
 '''
 def get_file_object(tree, strid):
+	if strid is None: return []
 	l_fileobj=[] # list of dictionaries
 	path="//{http://oval.mitre.org/XMLSchema/oval-definitions-5#windows}file_object[@id='"+strid+"']"
 	findall = etree.ETXPath(path)
@@ -71,6 +72,7 @@ def get_file_object(tree, strid):
 
 # nested sets: strid="oval:org.mitre.oval:obj:7290"
 def get_registry_object(tree, strid):
+	if strid is None: return []
 	l_regobj=[] # list of dictionaries
 	path="//{http://oval.mitre.org/XMLSchema/oval-definitions-5#windows}registry_object[@id='"+strid+"']"
 	findall = etree.ETXPath(path)
@@ -138,6 +140,7 @@ def get_registry_object(tree, strid):
 # different datatypes, operations
 # also registry_state can be key instead of value
 def get_registry_state(tree, strid):
+    if strid is None: return None
     path="//{http://oval.mitre.org/XMLSchema/oval-definitions-5#windows}registry_state[@id='"+strid+"']"
     findall = etree.ETXPath(path)
     obj=findall(tree)[0]
@@ -268,6 +271,7 @@ def getWinHive(strhive):
 # _winreg.HKEY_PERFORMANCE_DATA
 # _winreg.HKEY_CURRENT_CONFIG
 def get_registry_data(keydict):
+	if keydict is None: return None
 	c = wmi.WMI(namespace="default").StdRegProv
 	winhive = getWinHive(keydict['hive'])
 	# need to deal with key patterns as well as value patterns
@@ -275,7 +279,7 @@ def get_registry_data(keydict):
 		if keydict['view']=="32_bit":
 			key32 = keydict['key'].replace("SOFTWARE","SOFTWARE\\\\Wow6432Node")
 			key = _winreg.OpenKey(winhive,key32, 0, _winreg.KEY_READ)
-			value = _winreg.QueryValueEx(key, keydict['name'])
+			value = _winreg.QueryValueEx(key,  keydict['name'])
 		else:
 			key = _winreg.OpenKey(winhive,keydict['key'], 0, _winreg.KEY_READ)
 			value = _winreg.QueryValueEx(key, keydict['name'])
@@ -313,6 +317,10 @@ def eval_registry_value(keydict, valdict):
 def eval_registry_key(keydict):
 	c = wmi.WMI(namespace="default").StdRegProv
 	winhive = getWinHive(keydict['hive'])
+	
+	# empty keys usually arrive from 'no match' in regex eval
+	if keydict['key'] is None:
+		return False
 	
 	# need to deal with key patterns as well as value patterns
 	try:
@@ -585,8 +593,8 @@ def getKeys(winhive,keyset,key):
 
 #TODO: select file based on platform
 #fnxml="/projects/rhinohide.org/cybersec/draft/data/MITRE-OVAL/windows.xml"
-#fnxml="/projects/rhinohide.org/cybersec/draft/data/MITRE-OVAL/microsoft.windows.7.xml"
-fnxml="/projects/rhinohide.org/cybersec/draft/data/MITRE-OVAL/microsoft.windows.8.1.xml"
+fnxml="/projects/rhinohide.org/cybersec/draft/data/MITRE-OVAL/microsoft.windows.7.xml"
+#fnxml="/projects/rhinohide.org/cybersec/draft/data/MITRE-OVAL/microsoft.windows.8.1.xml"
 tree = etree.parse(fnxml)
 root = tree.getroot()
 
@@ -599,7 +607,7 @@ list(a[0]) # metadata, criteria
 for aa in a:
 	e=eval_definition(tree,aa.get('id'))
 	#print aa.get('id'),aa[0][0].text,e
-	if e==True:
+	if e==-1:
 		print aa.get('id'),get_definition_cpe(tree, aa.get('id'))
 
 # get operator
