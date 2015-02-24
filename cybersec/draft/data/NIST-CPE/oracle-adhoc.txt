@@ -1,0 +1,9 @@
+qry = '''xquery version "3.0";
+declare namespace cvrf = "http://www.icasi.org/CVRF/schema/cvrf/1.1";
+declare namespace prod = "http://www.icasi.org/CVRF/schema/prod/1.1";
+declare namespace vuln = "http://www.icasi.org/CVRF/schema/vuln/1.1";
+let $thiscve := "CVE-2014-4288"
+for $pid in collection('/db/cyberxml/data/cvrf/oracle.com')//node()[vuln:CVE[.=$thiscve]]/vuln:ProductStatuses/vuln:Status[@Type="Known Affected"]/vuln:ProductID/text()
+for $cpe in doc('/db/cyberxml/apps/cvrf/oracle.com/oraprodid2cpe.xml')//node()[starts-with($pid,ProductID]/CPE2.2/text()
+return $cpe'''
+cpe = a.get_data(qrystr)
