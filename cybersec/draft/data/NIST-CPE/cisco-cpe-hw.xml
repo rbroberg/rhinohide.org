@@ -1,0 +1,1416 @@
+<entries>
+<entry>
+    <title>Cisco 1801 Integrated Service Router</title>
+    <cpe>cpe:/h:cisco:1801_integrated_service_router:-</cpe>
+</entry><entry>
+    <title>Cisco 1802 Integrated Service Router</title>
+    <cpe>cpe:/h:cisco:1802_integrated_service_router:-</cpe>
+</entry><entry>
+    <title>Cisco 1803 Integrated Service Router</title>
+    <cpe>cpe:/h:cisco:1803_integrated_service_router:-</cpe>
+</entry><entry>
+    <title>Cisco 1811 Integrated Service Router</title>
+    <cpe>cpe:/h:cisco:1811_integrated_service_router:-</cpe>
+</entry><entry>
+    <title>Cisco 1812 Integrated Service Router</title>
+    <cpe>cpe:/h:cisco:1812_integrated_service_router:-</cpe>
+</entry><entry>
+    <title>Cisco 1841 Integrated Service Router</title>
+    <cpe>cpe:/h:cisco:1841_integrated_service_router:-</cpe>
+</entry><entry>
+    <title>Cisco 1861 Integrated Service Router</title>
+    <cpe>cpe:/h:cisco:1861_integrated_service_router:-</cpe>
+</entry><entry>
+    <title>Cisco 1921 Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:1921_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 1941 Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:1941_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 1941W Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:1941w_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 2106 Series Wireless LAN Controller</title>
+    <cpe>cpe:/h:cisco:2106_wireless_lan_controller:-</cpe>
+</entry><entry>
+    <title>Cisco 2112 Series Wireless LAN Controller</title>
+    <cpe>cpe:/h:cisco:2112_wireless_lan_controller:-</cpe>
+</entry><entry>
+    <title>Cisco 2125 Series Wireless LAN Controller</title>
+    <cpe>cpe:/h:cisco:2125_wireless_lan_controller:-</cpe>
+</entry><entry>
+    <title>Cisco 2500 Series Wireless LAN Controller</title>
+    <cpe>cpe:/h:cisco:2500_wireless_lan_controller:-</cpe>
+</entry><entry>
+    <title>Cisco 2504 Series Wireless LAN Controller</title>
+    <cpe>cpe:/h:cisco:2504_wireless_lan_controller:-</cpe>
+</entry><entry>
+    <title>Cisco 2700 Wireless Location Appliance 1.1.73.0</title>
+    <cpe>cpe:/h:cisco:2700_wireless_location_appliance:1.1.73.0</cpe>
+</entry><entry>
+    <title>Cisco 2901 Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:2901_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 2911 Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:2911_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 2921 Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:2921_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 2951 Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:2951_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 3925 Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:3925_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 3925E Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:3925e_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 3945 Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:3945_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 3945E Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:3945e_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 4400 Series Wireless LAN Controller 4.1</title>
+    <cpe>cpe:/h:cisco:4400_wireless_lan_controller:4.1</cpe>
+</entry><entry>
+    <title>Cisco 4400 Series Wireless LAN Controller 4.2</title>
+    <cpe>cpe:/h:cisco:4400_wireless_lan_controller:4.2</cpe>
+</entry><entry>
+    <title>Cisco 4400 Series Wireless LAN Controller 5.0</title>
+    <cpe>cpe:/h:cisco:4400_wireless_lan_controller:5.0</cpe>
+</entry><entry>
+    <title>Cisco 4400 Series Wireless LAN Controller 5.2</title>
+    <cpe>cpe:/h:cisco:4400_wireless_lan_controller:5.2</cpe>
+</entry><entry>
+    <title>Cisco 5500 Series Adaptive Security Appliance 7.2-2</title>
+    <cpe>cpe:/h:cisco:5500_adaptive_security_appliance:7.2:2</cpe>
+</entry><entry>
+    <title>Cisco 5500 Series Adaptive Security Appliance 7.2</title>
+    <cpe>cpe:/h:cisco:5500_series_adaptive_security_appliance:7.2</cpe>
+</entry><entry>
+    <title>Cisco 5500 Series Wireless LAN Controller</title>
+    <cpe>cpe:/h:cisco:5500_wireless_lan_controller:-</cpe>
+</entry><entry>
+    <title>Cisco 5508 Wireless Controller</title>
+    <cpe>cpe:/h:cisco:5508_wireless_controller:-</cpe>
+</entry><entry>
+    <title>Cisco 6400 NRP 12.2</title>
+    <cpe>cpe:/h:cisco:6400_nrp:12.2</cpe>
+</entry><entry>
+    <title>Cisco 6400 NRP 2 12.1DC</title>
+    <cpe>cpe:/h:cisco:6400_nrp_2:12.1dc</cpe>
+</entry><entry>
+    <title>Cisco 7500 Series Wireless LAN Controller</title>
+    <cpe>cpe:/h:cisco:7500_wireless_lan_controller:-</cpe>
+</entry><entry>
+    <title>Cisco 7920 Wireless IP Phone 1.0(8)</title>
+    <cpe>cpe:/h:cisco:7920_wireless_ip_phone:1.0%288%29</cpe>
+</entry><entry>
+    <title>Cisco 7920 Wireless IP Phone 2.0</title>
+    <cpe>cpe:/h:cisco:7920_wireless_ip_phone:2.0</cpe>
+</entry><entry>
+    <title>Cisco 8500 Series Wireless LAN Controller</title>
+    <cpe>cpe:/h:cisco:8500_wireless_lan_controller:-</cpe>
+</entry><entry>
+    <title>Cisco 861 Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:861_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 867 Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:867_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 880 3G Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:880_3g_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 881 Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:881_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 886 Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:886_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 886VA-W Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:886va-w_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 886VA Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:886va_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 887 Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:887_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 887V Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:887v_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 887VA-W Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:887va-w_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 887VA Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:887va_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 888 Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:888_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 891 Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:891_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco 892 Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:892_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco ACE Application Control Engine Module</title>
+    <cpe>cpe:/h:cisco:ace_application_controle_engine_module:-</cpe>
+</entry><entry>
+    <title>Cisco Adaptive Security Appliance (ASA) Software 7.0 (4)</title>
+    <cpe>cpe:/h:cisco:adaptive_security_appliance:7.1</cpe>
+</entry><entry>
+    <title>Cisco Adaptive Security Appliance (ASA) Software 8.0</title>
+    <cpe>cpe:/h:cisco:adaptive_security_appliance:8.0</cpe>
+</entry><entry>
+    <title>Cisco Adaptive Security Appliance (ASA) Device Manager 5.2.53</title>
+    <cpe>cpe:/h:cisco:adaptive_security_device_manager:5.2.53</cpe>
+</entry><entry>
+    <title>Cisco AIR-CT5760</title>
+    <cpe>cpe:/h:cisco:air-ct5760:-</cpe>
+</entry><entry>
+    <title>Cisco Aironet 1040</title>
+    <cpe>cpe:/h:cisco:aironet_1040:-</cpe>
+</entry><entry>
+    <title>Cisco Aironet 1140</title>
+    <cpe>cpe:/h:cisco:aironet_1140:-</cpe>
+</entry><entry>
+    <title>Cisco Aironet 1260</title>
+    <cpe>cpe:/h:cisco:aironet_1260:-</cpe>
+</entry><entry>
+    <title>Cisco Aironet 3500</title>
+    <cpe>cpe:/h:cisco:aironet_3500:-</cpe>
+</entry><entry>
+    <title>Cisco Aironet 3600</title>
+    <cpe>cpe:/h:cisco:aironet_3600:-</cpe>
+</entry><entry>
+    <title>Cisco Aironet 3600e</title>
+    <cpe>cpe:/h:cisco:aironet_3600e:-</cpe>
+</entry><entry>
+    <title>Cisco Aironet 3600i</title>
+    <cpe>cpe:/h:cisco:aironet_3600i:-</cpe>
+</entry><entry>
+    <title>Cisco Aironet 3600P</title>
+    <cpe>cpe:/h:cisco:aironet_3600p:-</cpe>
+</entry><entry>
+    <title>Cisco Aironet 600 Office Extend</title>
+    <cpe>cpe:/h:cisco:aironet_600_office_extend:-</cpe>
+</entry><entry>
+    <title>Cisco Aironet Access Point 340 11.21</title>
+    <cpe>cpe:/h:cisco:aironet_ap340:11.21</cpe>
+</entry><entry>
+    <title>Cisco Aironet Access Point 350 11.21</title>
+    <cpe>cpe:/h:cisco:aironet_ap350:11.21</cpe>
+</entry><entry>
+    <title>Cisco Anomaly Guard Module 5.0(1)</title>
+    <cpe>cpe:/h:cisco:anomaly_guard_module:5.0%281%29</cpe>
+</entry><entry>
+    <title>Cisco Anomaly Guard Module 5.0(3)</title>
+    <cpe>cpe:/h:cisco:anomaly_guard_module:5.0%283%29</cpe>
+</entry><entry>
+    <title>Cisco Application Velocity System 3110 4.0</title>
+    <cpe>cpe:/h:cisco:application_velocity_system_3110:4.0</cpe>
+</entry><entry>
+    <title>Cisco Application Velocity System 3110 5.0</title>
+    <cpe>cpe:/h:cisco:application_velocity_system_3110:5.0</cpe>
+</entry><entry>
+    <title>Cisco Application Velocity System 3120 5.0</title>
+    <cpe>cpe:/h:cisco:application_velocity_system_3120:5.0</cpe>
+</entry><entry>
+    <title>Cisco AS5350 12.2_11T</title>
+    <cpe>cpe:/h:cisco:as5350:12.2%2811t%29</cpe>
+</entry><entry>
+    <title>Cisco AS5400 Universal Gateway</title>
+    <cpe>cpe:/h:cisco:as5400_universal_gateway:-</cpe>
+</entry><entry>
+    <title>Cisco AS5400HPX Universal Gateway</title>
+    <cpe>cpe:/h:cisco:as5400hpx_universal_gateway:-</cpe>
+</entry><entry>
+    <title>Cisco AS5400XM Media Gateway</title>
+    <cpe>cpe:/h:cisco:as5400xm_media_gateway:-</cpe>
+</entry><entry>
+    <title>Cisco AS5400XM Universal Gateway</title>
+    <cpe>cpe:/h:cisco:as5400xm_universal_gateway:-</cpe>
+</entry><entry>
+    <title>Cisco ASA 1000V Cloud Firewall</title>
+    <cpe>cpe:/h:cisco:asa_1000v_cloud_firewall:-</cpe>
+</entry><entry>
+    <title>Cisco ASA 5500 6.3</title>
+    <cpe>cpe:/h:cisco:asa_5500:6.3</cpe>
+</entry><entry>
+    <title>Cisco ASA 5500 7.0</title>
+    <cpe>cpe:/h:cisco:asa_5500:7.0</cpe>
+</entry><entry>
+    <title>Cisco ASA 5500 7.0.4</title>
+    <cpe>cpe:/h:cisco:asa_5500:7.0%284%29</cpe>
+</entry><entry>
+    <title>Cisco ASA 5500 7.0.4 .3</title>
+    <cpe>cpe:/h:cisco:asa_5500:7.0.4.3</cpe>
+</entry><entry>
+    <title>Cisco ASA 5500 7.1</title>
+    <cpe>cpe:/h:cisco:asa_5500:7.1</cpe>
+</entry><entry>
+    <title>Cisco ASA 5500 7.2</title>
+    <cpe>cpe:/h:cisco:asa_5500:7.2</cpe>
+</entry><entry>
+    <title>Cisco ASA 5500 7.2.2</title>
+    <cpe>cpe:/h:cisco:asa_5500:7.2%282%29</cpe>
+</entry><entry>
+    <title> Cisco ASA 5585-X Series IPS SSP</title>
+    <cpe>cpe:/h:cisco:asa_5585-x:-</cpe>
+</entry><entry>
+    <title>Cisco Aggregation Services (ASR)1001 Router (1000 series)</title>
+    <cpe>cpe:/h:cisco:asr_1001_router:-</cpe>
+</entry><entry>
+    <title>Cisco Aggregation Services (ASR)1002-X Router (1000 series)</title>
+    <cpe>cpe:/h:cisco:asr_1002-x_router:-</cpe>
+</entry><entry>
+    <title>Cisco Aggregation Services (ASR)1002 Fixed Router (1000 series)</title>
+    <cpe>cpe:/h:cisco:asr_1002_fixed_router:-</cpe>
+</entry><entry>
+    <title>Cisco Aggregation Services (ASR)1002 Router (1000 series)</title>
+    <cpe>cpe:/h:cisco:asr_1002_router:-</cpe>
+</entry><entry>
+    <title>Cisco Aggregation Services (ASR)1004 Router (1000 series)</title>
+    <cpe>cpe:/h:cisco:asr_1004_router:-</cpe>
+</entry><entry>
+    <title>Cisco Aggregation Services (ASR)1006 Router (1000 series)</title>
+    <cpe>cpe:/h:cisco:asr_1006_router:-</cpe>
+</entry><entry>
+    <title>Cisco Aggregation Services Router 1013</title>
+    <cpe>cpe:/h:cisco:asr_1013_router:-</cpe>
+</entry><entry>
+    <title>Cisco Aggregation Services (ASR)1023 Router (1000 series)</title>
+    <cpe>cpe:/h:cisco:asr_1023_router:-</cpe>
+</entry><entry>
+    <title>Cisco ASR 9000 Series Router RSP440</title>
+    <cpe>cpe:/h:cisco:asr_9000_rsp440_router:-</cpe>
+</entry><entry>
+    <title>Cisco ASR 9001</title>
+    <cpe>cpe:/h:cisco:asr_9001:-</cpe>
+</entry><entry>
+    <title>Cisco ASR 9006</title>
+    <cpe>cpe:/h:cisco:asr_9006:-</cpe>
+</entry><entry>
+    <title>Cisco ASR 9010</title>
+    <cpe>cpe:/h:cisco:asr_9010:-</cpe>
+</entry><entry>
+    <title>Cisco ASR 9904</title>
+    <cpe>cpe:/h:cisco:asr_9904:-</cpe>
+</entry><entry>
+    <title>Cisco ASR 9912</title>
+    <cpe>cpe:/h:cisco:asr_9912:-</cpe>
+</entry><entry>
+    <title>Cisco ASR 9922</title>
+    <cpe>cpe:/h:cisco:asr_9922:-</cpe>
+</entry><entry>
+    <title>Cisco B200 M3</title>
+    <cpe>cpe:/h:cisco:b200_m3:-</cpe>
+</entry><entry>
+    <title>Cisco B200 M4</title>
+    <cpe>cpe:/h:cisco:b200_m4:-</cpe>
+</entry><entry>
+    <title>Cisco B22 M3</title>
+    <cpe>cpe:/h:cisco:b22_m3:-</cpe>
+</entry><entry>
+    <title>Cisco B230 M2</title>
+    <cpe>cpe:/h:cisco:b230_m2:-</cpe>
+</entry><entry>
+    <title>Cisco B260 M4</title>
+    <cpe>cpe:/h:cisco:b260_m4:-</cpe>
+</entry><entry>
+    <title>Cisco B420 M3</title>
+    <cpe>cpe:/h:cisco:b420_m3:-</cpe>
+</entry><entry>
+    <title>Cisco B440 M2</title>
+    <cpe>cpe:/h:cisco:b440_m2:-</cpe>
+</entry><entry>
+    <title>Cisco B460 M4</title>
+    <cpe>cpe:/h:cisco:b460_m4:-</cpe>
+</entry><entry>
+    <title>Cisco Building Broadband Service Manager 5.0</title>
+    <cpe>cpe:/h:cisco:building_broadband_service_manager:5.0</cpe>
+</entry><entry>
+    <title>Cisco Business Edition 3000</title>
+    <cpe>cpe:/h:cisco:business_edition_3000:-</cpe>
+</entry><entry>
+    <title>Cisco Business Edition 5000</title>
+    <cpe>cpe:/h:cisco:business_edition_5000:-</cpe>
+</entry><entry>
+    <title>Cisco Business Edition 6000</title>
+    <cpe>cpe:/h:cisco:business_edition_6000:-</cpe>
+</entry><entry>
+    <title>Cisco C881W Integrated Services Router</title>
+    <cpe>cpe:/h:cisco:c881w_integrated_services_router:-</cpe>
+</entry><entry>
+    <title>Cisco Cache Engine 505 2.2.0.0</title>
+    <cpe>cpe:/h:cisco:cache_engine_505:2.2.0</cpe>
+</entry><entry>
+    <title>Cisco Cache Engine 505 4.0</title>
+    <cpe>cpe:/h:cisco:cache_engine_505:2.4.0</cpe>
+</entry><entry>
+    <title>Cisco Cache Engine 505 3.0</title>
+    <cpe>cpe:/h:cisco:cache_engine_505:3.0</cpe>
+</entry><entry>
+    <title>Cisco Cache Engine 505 3.0.0</title>
+    <cpe>cpe:/h:cisco:cache_engine_505:3.0.0</cpe>
+</entry><entry>
+    <title>Cisco Cache Engine 505 4.0.0</title>
+    <cpe>cpe:/h:cisco:cache_engine_505:4.0.0</cpe>
+</entry><entry>
+    <title>Cisco Cache Engine 505 4.1.0</title>
+    <cpe>cpe:/h:cisco:cache_engine_505:4.1.0</cpe>
+</entry><entry>
+    <title>Cisco Cache Engine 505 2.2.0</title>
+    <cpe>cpe:/h:cisco:cache_engine_550:2.2.0</cpe>
+</entry><entry>
+    <title>Cisco Cache Engine 550 4.0</title>
+    <cpe>cpe:/h:cisco:cache_engine_550:2.4.0</cpe>
+</entry><entry>
+    <title>Cisco Cache Engine 550 3.0</title>
+    <cpe>cpe:/h:cisco:cache_engine_550:3.0</cpe>
+</entry><entry>
+    <title>Cisco Cache Engine 570 2.2.0</title>
+    <cpe>cpe:/h:cisco:cache_engine_570:2.2.0</cpe>
+</entry><entry>
+    <title>Cisco Cache Engine 570 2.2.0.0</title>
+    <cpe>cpe:/h:cisco:cache_engine_570:2.2.0.0</cpe>
+</entry><entry>
+    <title>Cisco Cache Engine 570 4.0</title>
+    <cpe>cpe:/h:cisco:cache_engine_570:2.4.0</cpe>
+</entry><entry>
+    <title>Cisco Cache Engine 570 3.0</title>
+    <cpe>cpe:/h:cisco:cache_engine_570:3.0</cpe>
+</entry><entry>
+    <title>Cisco Cache Engine 570 3.0.0</title>
+    <cpe>cpe:/h:cisco:cache_engine_570:3.0.0</cpe>
+</entry><entry>
+    <title>Cisco Cache Engine 570 4.0.0</title>
+    <cpe>cpe:/h:cisco:cache_engine_570:4.0.0</cpe>
+</entry><entry>
+    <title>Cisco Cache Engine 570 4.1.0</title>
+    <cpe>cpe:/h:cisco:cache_engine_570:4.1.0</cpe>
+</entry><entry>
+    <title>Cisco Cache Engine 570</title>
+    <cpe>cpe:/h:cisco:cache_engine_570:570</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 1.0</title>
+    <cpe>cpe:/h:cisco:call_manager:1.0</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 2.0</title>
+    <cpe>cpe:/h:cisco:call_manager:2.0</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 3.0</title>
+    <cpe>cpe:/h:cisco:call_manager:3.0</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 3.1</title>
+    <cpe>cpe:/h:cisco:call_manager:3.1</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 3.1.2</title>
+    <cpe>cpe:/h:cisco:call_manager:3.1%282%29</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 3.1.3a</title>
+    <cpe>cpe:/h:cisco:call_manager:3.1%283a%29</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 3.2</title>
+    <cpe>cpe:/h:cisco:call_manager:3.2</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 3.3</title>
+    <cpe>cpe:/h:cisco:call_manager:3.3</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 3.3.3</title>
+    <cpe>cpe:/h:cisco:call_manager:3.3%283%29</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 3.3.3 ES61</title>
+    <cpe>cpe:/h:cisco:call_manager:3.3%283%29es61</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 3.3.4 ES25</title>
+    <cpe>cpe:/h:cisco:call_manager:3.3%284%29es25</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 3.3.5</title>
+    <cpe>cpe:/h:cisco:call_manager:3.3%285%29</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 3.3.5 ES30</title>
+    <cpe>cpe:/h:cisco:call_manager:3.3%285%29es30</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 3.3.5 SR1</title>
+    <cpe>cpe:/h:cisco:call_manager:3.3%285%29sr1</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 3.3.5 SR2</title>
+    <cpe>cpe:/h:cisco:call_manager:3.3%285%29sr2</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 3.3.5 SR2a</title>
+    <cpe>cpe:/h:cisco:call_manager:3.3%285%29sr2a</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 3.3.5 SR2b</title>
+    <cpe>cpe:/h:cisco:call_manager:3.3%285%29sr2b</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.0</title>
+    <cpe>cpe:/h:cisco:call_manager:4.0</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.0.2a ES40</title>
+    <cpe>cpe:/h:cisco:call_manager:4.0%282a%29es40</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.0.2a ES62</title>
+    <cpe>cpe:/h:cisco:call_manager:4.0%282a%29es62</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.0.2a SR2b</title>
+    <cpe>cpe:/h:cisco:call_manager:4.0%282a%29sr2b</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.1</title>
+    <cpe>cpe:/h:cisco:call_manager:4.1</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.1.2 ES33</title>
+    <cpe>cpe:/h:cisco:call_manager:4.1%282%29es33</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.1.2 ES55</title>
+    <cpe>cpe:/h:cisco:call_manager:4.1%282%29es55</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.1.3 ES07</title>
+    <cpe>cpe:/h:cisco:call_manager:4.1%283%29es07</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.1.3 ES32</title>
+    <cpe>cpe:/h:cisco:call_manager:4.1%283%29es32</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.1.3 SR1</title>
+    <cpe>cpe:/h:cisco:call_manager:4.1%283%29sr1</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.1.3 SR2</title>
+    <cpe>cpe:/h:cisco:call_manager:4.1%283%29sr2</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.1.3 SR3</title>
+    <cpe>cpe:/h:cisco:call_manager:4.1%283%29sr3</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.1.3 SR4</title>
+    <cpe>cpe:/h:cisco:call_manager:4.1%283%29sr4</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.2</title>
+    <cpe>cpe:/h:cisco:call_manager:4.2</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.2.1</title>
+    <cpe>cpe:/h:cisco:call_manager:4.2%281%29</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.2.2</title>
+    <cpe>cpe:/h:cisco:call_manager:4.2%282%29</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.2.3</title>
+    <cpe>cpe:/h:cisco:call_manager:4.2%283%29</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.2.3 SR1</title>
+    <cpe>cpe:/h:cisco:call_manager:4.2%283%29sr1</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.2.3 SR2</title>
+    <cpe>cpe:/h:cisco:call_manager:4.2%283%29sr2</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.3</title>
+    <cpe>cpe:/h:cisco:call_manager:4.3</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.3.1</title>
+    <cpe>cpe:/h:cisco:call_manager:4.3%281%29</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 4.3.1 SR1</title>
+    <cpe>cpe:/h:cisco:call_manager:4.3%281%29sr1</cpe>
+</entry><entry>
+    <title>Cisco Call Manager 5.1.1.3000-5</title>
+    <cpe>cpe:/h:cisco:call_manager:5.1.1.3000</cpe>
+</entry><entry>
+    <title>Cisco CallManager Express 3.0</title>
+    <cpe>cpe:/h:cisco:callmanager_express:3.0</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 2820 9.0 0.07</title>
+    <cpe>cpe:/h:cisco:catalyst_2820:9.0_0.07</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 2900 LRE XL</title>
+    <cpe>cpe:/h:cisco:catalyst_2900:lre_xl</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 2900 XL</title>
+    <cpe>cpe:/h:cisco:catalyst_2900:xl</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6000 2.2 (1a)WS-SVC-NAM-1</title>
+    <cpe>cpe:/h:cisco:catalyst_6000_ws-svc-nam-1:2.2%281a%29</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6000 3.1 (1a)WS-SVC-NAM-1</title>
+    <cpe>cpe:/h:cisco:catalyst_6000_ws-svc-nam-1:3.1%281a%29</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6000 2.2 (1a)WS-SVC-NAM-2</title>
+    <cpe>cpe:/h:cisco:catalyst_6000_ws-svc-nam-2:2.2%281a%29</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6000 3.1 (1a)WS-SVC-NAM-2</title>
+    <cpe>cpe:/h:cisco:catalyst_6000_ws-svc-nam-2:3.1%281a%29</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6000 2.1 (2)WS-X6380-NAM</title>
+    <cpe>cpe:/h:cisco:catalyst_6000_ws-x6380-nam:2.1%282%29</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6000 3.1 (1a)WS-X6380-NAM</title>
+    <cpe>cpe:/h:cisco:catalyst_6000_ws-x6380-nam:3.1%281a%29</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6500 2.2 (1a)WS-SVC-NAM-1</title>
+    <cpe>cpe:/h:cisco:catalyst_6500_ws-svc-nam-1:2.2%281a%29</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6500 3.1 (1a)WS-SVC-NAM-1</title>
+    <cpe>cpe:/h:cisco:catalyst_6500_ws-svc-nam-1:3.1%281a%29</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6500 2.2 (1a)WS-SVC-NAM-2</title>
+    <cpe>cpe:/h:cisco:catalyst_6500_ws-svc-nam-2:2.2%281a%29</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6500 3.1 (1a)WS-SVC-NAM-2</title>
+    <cpe>cpe:/h:cisco:catalyst_6500_ws-svc-nam-2:3.1%281a%29</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6500 2.1 (2)WS-X6380-NAM</title>
+    <cpe>cpe:/h:cisco:catalyst_6500_ws-x6380-nam:2.1%282%29</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6500 3.1 (1a)WS-X6380-NAM</title>
+    <cpe>cpe:/h:cisco:catalyst_6500_ws-x6380-nam:3.1%281a%29</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6503-E Switch</title>
+    <cpe>cpe:/h:cisco:catalyst_6503-e:-</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6504-E Switch</title>
+    <cpe>cpe:/h:cisco:catalyst_6504-e:-</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6506-E Switch</title>
+    <cpe>cpe:/h:cisco:catalyst_6506-e:-</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6509-E Switch</title>
+    <cpe>cpe:/h:cisco:catalyst_6509-e:-</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6509-NEB-A Switch</title>
+    <cpe>cpe:/h:cisco:catalyst_6509-neb-a:-</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6509-V-E Switch</title>
+    <cpe>cpe:/h:cisco:catalyst_6509-v-e:-</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6513 Switch</title>
+    <cpe>cpe:/h:cisco:catalyst_6513:-</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6513-E Switch</title>
+    <cpe>cpe:/h:cisco:catalyst_6513-e:-</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 7600 2.2 (1a)WS-SVC-NAM-1</title>
+    <cpe>cpe:/h:cisco:catalyst_7600_ws-svc-nam-1:2.2%281a%29</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 7600 3.1 (1a)WS-SVC-NAM-1</title>
+    <cpe>cpe:/h:cisco:catalyst_7600_ws-svc-nam-1:3.1%281a%29</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 7600 2.2 (1a)WS-SVC-NAM-2</title>
+    <cpe>cpe:/h:cisco:catalyst_7600_ws-svc-nam-2:2.2%281a%29</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 7600 3.1 (1a)WS-SVC-NAM-2</title>
+    <cpe>cpe:/h:cisco:catalyst_7600_ws-svc-nam-2:3.1%281a%29</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 7600 2.1 (2)WS-X6380-NAM</title>
+    <cpe>cpe:/h:cisco:catalyst_7600_ws-x6380-nam:2.1%282%29</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 7600 3.1 (1a)WS-X6380-NAM</title>
+    <cpe>cpe:/h:cisco:catalyst_7600_ws-x6380-nam:3.1%281a%29</cpe>
+</entry><entry>
+    <title>Cisco CGR 1120 (1000 Series Connected Grid Routers)</title>
+    <cpe>cpe:/h:cisco:cgr_1120:-</cpe>
+</entry><entry>
+    <title>Cisco CGR 1240 (1000 Series Connected Grid Routers)</title>
+    <cpe>cpe:/h:cisco:cgr_1240:-</cpe>
+</entry><entry>
+    <title>Cisco Cius</title>
+    <cpe>cpe:/h:cisco:cius:-</cpe>
+</entry><entry>
+    <title>Cisco Cius-7-AT-K9 Cius 7 Inch, Phantom Grey with HSPA+ for use with AT&amp;T</title>
+    <cpe>cpe:/h:cisco:cius:7-at-k9</cpe>
+</entry><entry>
+    <title>Cisco Cius-7-K9 Cius 7 Inch, Phantom Grey</title>
+    <cpe>cpe:/h:cisco:cius:7-k9</cpe>
+</entry><entry>
+    <title>Cisco Content Security Management Appliance</title>
+    <cpe>cpe:/h:cisco:content_security_management_appliance:-</cpe>
+</entry><entry>
+    <title>Cisco Content Services Gateway (CSG)</title>
+    <cpe>cpe:/h:cisco:content_services_gateway:-</cpe>
+</entry><entry>
+    <title>Cisco Cisco Content Switching Module with SSL 2.1</title>
+    <cpe>cpe:/h:cisco:content_switching_module_with_ssl:2.1</cpe>
+</entry><entry>
+    <title>Cisco CRS Performance Route Processor</title>
+    <cpe>cpe:/h:cisco:crs_performance_route_processor:-</cpe>
+</entry><entry>
+    <title>Cisco CS-MARS 4.1</title>
+    <cpe>cpe:/h:cisco:cs-mars:4.1</cpe>
+</entry><entry>
+    <title>Cisco CS-MARS 4.1.2</title>
+    <cpe>cpe:/h:cisco:cs-mars:4.1.2</cpe>
+</entry><entry>
+    <title>Cisco CS-MARS 4.1.3</title>
+    <cpe>cpe:/h:cisco:cs-mars:4.1.3</cpe>
+</entry><entry>
+    <title>Cisco CS-MARS 4.1.5</title>
+    <cpe>cpe:/h:cisco:cs-mars:4.1.5</cpe>
+</entry><entry>
+    <title>Cisco Model DPC3010 DOCSIS 3.0 8x4 Cable Modem</title>
+    <cpe>cpe:/h:cisco:dpc3010:-</cpe>
+</entry><entry>
+    <title>Cisco DPC3212 VoIP Cable Modem</title>
+    <cpe>cpe:/h:cisco:dpc3212:-</cpe>
+</entry><entry>
+    <title>Cisco DPC3825 8x4 DOCSIS 3.0 Wireless Residential Gateway</title>
+    <cpe>cpe:/h:cisco:dpc3825:-</cpe>
+</entry><entry>
+    <title>Cisco Model DPC3925 8x4 DOCSIS 3.0 with Wireless Residential Gateway with EDVA</title>
+    <cpe>cpe:/h:cisco:dpc3925:-</cpe>
+</entry><entry>
+    <title>Cisco Model DPQ3925 8x4 DOCSIS 3.0 Wireless Residential Gateway with EDVA</title>
+    <cpe>cpe:/h:cisco:dpq3925:-</cpe>
+</entry><entry>
+    <title>Cisco Email Security Appliance</title>
+    <cpe>cpe:/h:cisco:email_security_appliance:-</cpe>
+</entry><entry>
+    <title>Cisco Model EPC3010 DOCSIS 3.0 Cable Modem</title>
+    <cpe>cpe:/h:cisco:epc3010:-</cpe>
+</entry><entry>
+    <title>Cisco EPC3212 VoIP Cable Modem</title>
+    <cpe>cpe:/h:cisco:epc3212:-</cpe>
+</entry><entry>
+    <title>Cisco EPC3825 8x4 DOCSIS 3.0 Wireless Residential Gateway</title>
+    <cpe>cpe:/h:cisco:epc3825:-</cpe>
+</entry><entry>
+    <title>Cisco EPC3925</title>
+    <cpe>cpe:/h:cisco:epc3925:-</cpe>
+</entry><entry>
+    <title>Cisco Firewall Services Module 1.1.2</title>
+    <cpe>cpe:/h:cisco:firewall_services_module:1.1.2</cpe>
+</entry><entry>
+    <title>Cisco Firewall Services Module 1.1.3</title>
+    <cpe>cpe:/h:cisco:firewall_services_module:1.1.3</cpe>
+</entry><entry>
+    <title>Cisco Firewall Services Module 1.1 (3.005)</title>
+    <cpe>cpe:/h:cisco:firewall_services_module:1.1_%283.005%29</cpe>
+</entry><entry>
+    <title>Cisco Firewall Services Module 2.1 (0.208)</title>
+    <cpe>cpe:/h:cisco:firewall_services_module:2.1_%280.208%29</cpe>
+</entry><entry>
+    <title>Cisco FWSM 2.3</title>
+    <cpe>cpe:/h:cisco:firewall_services_module:2.3</cpe>
+</entry><entry>
+    <title>Cisco Firewall Services Module 2.3.1</title>
+    <cpe>cpe:/h:cisco:firewall_services_module:2.3%281%29</cpe>
+</entry><entry>
+    <title>Cisco FWSM 3.1</title>
+    <cpe>cpe:/h:cisco:firewall_services_module:3.1</cpe>
+</entry><entry>
+    <title>Cisco FWSM 3.1_5</title>
+    <cpe>cpe:/h:cisco:firewall_services_module:3.1%285%29</cpe>
+</entry><entry>
+    <title>Cisco FWSM 3.1_6</title>
+    <cpe>cpe:/h:cisco:firewall_services_module:3.1%286%29</cpe>
+</entry><entry>
+    <title>Cisco FWSM 3.2</title>
+    <cpe>cpe:/h:cisco:firewall_services_module:3.2</cpe>
+</entry><entry>
+    <title>Cisco FWSM 3.2_1</title>
+    <cpe>cpe:/h:cisco:firewall_services_module:3.2%281%29</cpe>
+</entry><entry>
+    <title>Cisco FWSM 3.2_2</title>
+    <cpe>cpe:/h:cisco:firewall_services_module:3.2%282%29</cpe>
+</entry><entry>
+    <title>Cisco FWSM 3.2_3</title>
+    <cpe>cpe:/h:cisco:firewall_services_module:3.2%283%29</cpe>
+</entry><entry>
+    <title>Cisco Global Site Selector (GSS) -</title>
+    <cpe>cpe:/h:cisco:global_site_selector:-</cpe>
+</entry><entry>
+    <title>Cisco Guard 5.0(1)</title>
+    <cpe>cpe:/h:cisco:guard:5.0%281%29</cpe>
+</entry><entry>
+    <title>Cisco Guard 5.0(3)</title>
+    <cpe>cpe:/h:cisco:guard:5.0%283%29</cpe>
+</entry><entry>
+    <title>Cisco Cisco Guard DDos Mitigation Appliance 5.1(5)</title>
+    <cpe>cpe:/h:cisco:guard_ddos_mitigation_appliance:5.1%285%29</cpe>
+</entry><entry>
+    <title>Cisco Hosting Solution Engine 1.7</title>
+    <cpe>cpe:/h:cisco:hosting_solution_engine:1.7</cpe>
+</entry><entry>
+    <title>Cisco Hosting Solution Engine 1.7.0</title>
+    <cpe>cpe:/h:cisco:hosting_solution_engine:1.7.0</cpe>
+</entry><entry>
+    <title>Cisco Hosting Solution Engine 1.7.1</title>
+    <cpe>cpe:/h:cisco:hosting_solution_engine:1.7.1</cpe>
+</entry><entry>
+    <title>Cisco Hosting Solution Engine 1.7.2</title>
+    <cpe>cpe:/h:cisco:hosting_solution_engine:1.7.2</cpe>
+</entry><entry>
+    <title>Cisco Hosting Solution Engine 1.7.3</title>
+    <cpe>cpe:/h:cisco:hosting_solution_engine:1.7.3</cpe>
+</entry><entry>
+    <title>Cisco Identity Services Engine (ISE)</title>
+    <cpe>cpe:/h:cisco:identity_services_engine:-</cpe>
+</entry><entry>
+    <title>Cisco Catalyst 6500 Series Intrusion Detection System (IDSM-2) Module</title>
+    <cpe>cpe:/h:cisco:idsm-2:-</cpe>
+</entry><entry>
+    <title>Cisco IOS 12.0SC</title>
+    <cpe>cpe:/h:cisco:ios:12.0sc</cpe>
+</entry><entry>
+    <title>Cisco IOS 12.1AY</title>
+    <cpe>cpe:/h:cisco:ios:12.1ay</cpe>
+</entry><entry>
+    <title>Cisco IOS 12.2JA</title>
+    <cpe>cpe:/h:cisco:ios:12.2ja</cpe>
+</entry><entry>
+    <title>Cisco IOS 12.2JK</title>
+    <cpe>cpe:/h:cisco:ios:12.2jk</cpe>
+</entry><entry>
+    <title>Cisco IOS 12.2MC</title>
+    <cpe>cpe:/h:cisco:ios:12.2mc</cpe>
+</entry><entry>
+    <title>Cisco IOS 12.3XJ</title>
+    <cpe>cpe:/h:cisco:ios:12.3xj</cpe>
+</entry><entry>
+    <title>Cisco IOS 12.4XF</title>
+    <cpe>cpe:/h:cisco:ios:12.4xf</cpe>
+</entry><entry>
+    <title>Cisco IOS 12.4XL</title>
+    <cpe>cpe:/h:cisco:ios:12.4xl</cpe>
+</entry><entry>
+    <title>Cisco IP Video Phone model E20</title>
+    <cpe>cpe:/h:cisco:ip_video_phone_e20:-</cpe>
+</entry><entry>
+    <title>Cisco IPS 4345 (4300 Series) Sensor</title>
+    <cpe>cpe:/h:cisco:ips_4345_sensor:-</cpe>
+</entry><entry>
+    <title>Cisco IPS 4360 (4300 Series) Sensor</title>
+    <cpe>cpe:/h:cisco:ips_4360_sensor:-</cpe>
+</entry><entry>
+    <title>Cisco IPS 4510 (4500 Series) Sensor</title>
+    <cpe>cpe:/h:cisco:ips_4510_sensor:-</cpe>
+</entry><entry>
+    <title>Cisco IPS 4520 (4500 Series) Sensor</title>
+    <cpe>cpe:/h:cisco:ips_4520_sensor:-</cpe>
+</entry><entry>
+    <title> Cisco IPS NME</title>
+    <cpe>cpe:/h:cisco:ips_nme:-</cpe>
+</entry><entry>
+    <title>Cisco MDS 9100</title>
+    <cpe>cpe:/h:cisco:mds_9100:-</cpe>
+</entry><entry>
+    <title>Cisco Mobility Services Engine -</title>
+    <cpe>cpe:/h:cisco:mobility_services_engine:-</cpe>
+</entry><entry>
+    <title>Cisco NAC Appliance</title>
+    <cpe>cpe:/h:cisco:nac_appliance:-</cpe>
+</entry><entry>
+    <title>Cisco NAC Appliance 3.6</title>
+    <cpe>cpe:/h:cisco:nac_appliance:3.6</cpe>
+</entry><entry>
+    <title>Cisco NAC Appliance 4.0</title>
+    <cpe>cpe:/h:cisco:nac_appliance:4.0</cpe>
+</entry><entry>
+    <title>Cisco NAC Appliance 4.1</title>
+    <cpe>cpe:/h:cisco:nac_appliance:4.1</cpe>
+</entry><entry>
+    <title>Cisco NAC Appliance 4.5</title>
+    <cpe>cpe:/h:cisco:nac_appliance:4.5</cpe>
+</entry><entry>
+    <title>Cisco NAC Appliance 4.6</title>
+    <cpe>cpe:/h:cisco:nac_appliance:4.6</cpe>
+</entry><entry>
+    <title>Cisco NAC Appliance 4.7</title>
+    <cpe>cpe:/h:cisco:nac_appliance:4.7</cpe>
+</entry><entry>
+    <title>Cisco NAC Appliance 4.7.1</title>
+    <cpe>cpe:/h:cisco:nac_appliance:4.7.1</cpe>
+</entry><entry>
+    <title>Cisco NAC Appliance 4.7.2</title>
+    <cpe>cpe:/h:cisco:nac_appliance:4.7.2</cpe>
+</entry><entry>
+    <title>Cisco NAC Appliance 4.8</title>
+    <cpe>cpe:/h:cisco:nac_appliance:4.8</cpe>
+</entry><entry>
+    <title>Cisco NAC Appliance 4.9.2</title>
+    <cpe>cpe:/h:cisco:nac_appliance:4.9.2</cpe>
+</entry><entry>
+    <title>Cisco Nexus 1000v</title>
+    <cpe>cpe:/h:cisco:nexus_1000v:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 1000v 4.2(1) SV1(4) </title>
+    <cpe>cpe:/h:cisco:nexus_1000v:4.2%281%29_sv1%284%29:-:~~~vmware_vsphere~~</cpe>
+</entry><entry>
+    <title>Cisco Nexus 1000v 4.2(1) SV1(4a) </title>
+    <cpe>cpe:/h:cisco:nexus_1000v:4.2%281%29_sv1%284a%29:-:~~~vmware_vsphere~~</cpe>
+</entry><entry>
+    <title>Cisco Nexus 1000v 4.2(1) SV1(4b) </title>
+    <cpe>cpe:/h:cisco:nexus_1000v:4.2%281%29_sv1%284b%29:-:~~~vmware_vsphere~~</cpe>
+</entry><entry>
+    <title>Cisco Nexus 1000v 4.2(1)SV1(5.1) </title>
+    <cpe>cpe:/h:cisco:nexus_1000v:4.2%281%29sv1%285.1%29:-:~~~vmware_vsphere~~</cpe>
+</entry><entry>
+    <title>Cisco Nexus 1000v 4.2(1)SV1(5.1a) </title>
+    <cpe>cpe:/h:cisco:nexus_1000v:4.2%281%29sv1%285.1a%29:-:~~~vmware_vsphere~~</cpe>
+</entry><entry>
+    <title>Cisco Nexus 1000v 4.2(1)SV1(5.2) </title>
+    <cpe>cpe:/h:cisco:nexus_1000v:4.2%281%29sv1%285.2%29:-:~~~vmware_vsphere~~</cpe>
+</entry><entry>
+    <title>Cisco Nexus 1000v 4.2(1)SV1(5.2b)</title>
+    <cpe>cpe:/h:cisco:nexus_1000v:4.2%281%29sv1%285.2b%29:-:~~~vmware_vsphere~~</cpe>
+</entry><entry>
+    <title>Cisco Nexus 1000v 4.2(1)VSG1(1)</title>
+    <cpe>cpe:/h:cisco:nexus_1000v:4.2%281%29vsg1%281%29:-:~~~nexus_1000v~~</cpe>
+</entry><entry>
+    <title>Cisco Nexus 1000v 5.2(1)SM1(5.1)</title>
+    <cpe>cpe:/h:cisco:nexus_1000v:5.2%281%29sm1%285.1%29:-:~~~microsoft_hyper-v~~</cpe>
+</entry><entry>
+    <title>Cisco Nexus 2148T FEX  switch (Nexus 2000series)</title>
+    <cpe>cpe:/h:cisco:nexus_2148t_fex_switch:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 2224TP FEX  switch (Nexus 2000series)</title>
+    <cpe>cpe:/h:cisco:nexus_2224tp_fex_switch:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 2232PP FEX switch (Nexus 2000series)</title>
+    <cpe>cpe:/h:cisco:nexus_2232pp_fex_switch:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 2232TM FEX switch (Nexus 2000series)</title>
+    <cpe>cpe:/h:cisco:nexus_2232tm_fex_switch:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 2248TP E FEX switch (Nexus 2000series)</title>
+    <cpe>cpe:/h:cisco:nexus_2248tp_e_fex_switch:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 2248TP FEX switch (Nexus 2000series)</title>
+    <cpe>cpe:/h:cisco:nexus_2248tp_fex_switch:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 3016Q</title>
+    <cpe>cpe:/h:cisco:nexus_3016q:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 3048</title>
+    <cpe>cpe:/h:cisco:nexus_3048:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 3064T</title>
+    <cpe>cpe:/h:cisco:nexus_3064t:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 3064X</title>
+    <cpe>cpe:/h:cisco:nexus_3064x:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 3548</title>
+    <cpe>cpe:/h:cisco:nexus_3548:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 4001i Switch</title>
+    <cpe>cpe:/h:cisco:nexus_4001i:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 5000 Switch</title>
+    <cpe>cpe:/h:cisco:nexus_5000:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 5010 Switch</title>
+    <cpe>cpe:/h:cisco:nexus_5010:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 5010P switch (Nexus 5000 series)</title>
+    <cpe>cpe:/h:cisco:nexus_5010p_switch:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 5020 Switch</title>
+    <cpe>cpe:/h:cisco:nexus_5020:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 5020P switch (Nexus 5000 series)</title>
+    <cpe>cpe:/h:cisco:nexus_5020p_switch:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 5548P Switch</title>
+    <cpe>cpe:/h:cisco:nexus_5548p:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 5548P switch (Nexus 5000 series)</title>
+    <cpe>cpe:/h:cisco:nexus_5548p_switch:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 5548UP Switch</title>
+    <cpe>cpe:/h:cisco:nexus_5548up:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 5548UP switch (Nexus 5000 series)</title>
+    <cpe>cpe:/h:cisco:nexus_5548up_switch:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 5596T Switch</title>
+    <cpe>cpe:/h:cisco:nexus_5596t:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 5596UP Switch</title>
+    <cpe>cpe:/h:cisco:nexus_5596up:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 5596UP switch (Nexus 5000 series)</title>
+    <cpe>cpe:/h:cisco:nexus_5596up_switch:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 56128P Switch</title>
+    <cpe>cpe:/h:cisco:nexus_56128p:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 5672UP Switch</title>
+    <cpe>cpe:/h:cisco:nexus_5672up:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 6001 Switch</title>
+    <cpe>cpe:/h:cisco:nexus_6001:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 6004 Switch</title>
+    <cpe>cpe:/h:cisco:nexus_6004:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 6004X Switch</title>
+    <cpe>cpe:/h:cisco:nexus_6004x:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 7000</title>
+    <cpe>cpe:/h:cisco:nexus_7000:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 7000 10-Slot Switch</title>
+    <cpe>cpe:/h:cisco:nexus_7000_10-slot:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 7000 18-Slot Switch</title>
+    <cpe>cpe:/h:cisco:nexus_7000_18-slot:-</cpe>
+</entry><entry>
+    <title>Cisco Nexus 7000 9-Slot Switch</title>
+    <cpe>cpe:/h:cisco:nexus_7000_9-slot:-</cpe>
+</entry><entry>
+    <title>Cisco PIX Firewall Software 6.3</title>
+    <cpe>cpe:/h:cisco:pix_firewall:6.3</cpe>
+</entry><entry>
+    <title>Cisco RVS4000 4-port Gigabit Security Router</title>
+    <cpe>cpe:/h:cisco:rvs4000:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPR/EPR2320</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta__dpr%2fepr2320:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPR2325</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta__dpr2325:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPC/EPC3208</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpc%2fepc_3208:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPC/EPC2100</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpc%2fepc2100:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPC/EPC2202</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpc%2fepc2202:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPC/EPC2203</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpc%2fepc2203:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPC/EPC2325</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpc%2fepc2325:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPC/EPC2425</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpc%2fepc2425:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPC/EPC2434</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpc%2fepc2434:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPC/EPC2505</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpc%2fepc2505:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPC/EPC3010</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpc%2fepc3010:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPC/EPC3212</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpc%2fepc3212:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPC2420</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpc2420:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPC3000/EPC3000</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpc3000%2fepc3000:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPC3008/EPC3008</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpc3008%2fepc3008:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPC3825</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpc3825:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPC3925</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpc3925:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPQ/EPQ2160</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpq%2fepq2160:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPQ2202</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpq2202:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPQ2425</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpq2425:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPQ3212</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpq3212:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPQ3925</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpq3925:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPR362</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpr362:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPW700</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpw700:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPW730</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpw730:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPW939</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpw939:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPW941</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpw941:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPX/EPX2100</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpx%2fepx2100:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPX/EPX2203</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpx%2fepx2203:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPX/EPX2203C</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpx%2fepx2203c:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPX100/120</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpx100%2f120:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPX110</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpx110:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPX130</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpx130:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPX213</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpx213:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta DPX2213</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_dpx2213:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta EPC2420</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_epc2420:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta EPC3825</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_epc3825:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta EPC3925</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_epc3925:-</cpe>
+</entry><entry>
+    <title>Cisco Scientific Atlanta WAG310G</title>
+    <cpe>cpe:/h:cisco:scientific_atlanta_wag310g:-</cpe>
+</entry><entry>
+    <title>Cisco Small Business IP Phone SPA525G</title>
+    <cpe>cpe:/h:cisco:small_business_ip_phone:spa525g</cpe>
+</entry><entry>
+    <title>Cisco Small Business IP Phone SPA525G2</title>
+    <cpe>cpe:/h:cisco:small_business_ip_phone:spa525g2</cpe>
+</entry><entry>
+    <title>Cisco SPA2102 Phone Adapter with Router</title>
+    <cpe>cpe:/h:cisco:spa2102_phone_adapter_with_router:-</cpe>
+</entry><entry>
+    <title>Cisco SPA3102 Voice Gateway with Router</title>
+    <cpe>cpe:/h:cisco:spa3102_voice_gateway_with_router:-</cpe>
+</entry><entry>
+    <title>Cisco SPA8000 8-Port IP Telephony Gateway</title>
+    <cpe>cpe:/h:cisco:spa8000_8-port_ip_telephony_gateway:-</cpe>
+</entry><entry>
+    <title>Cisco SPA8800 IP Telephony Gateway</title>
+    <cpe>cpe:/h:cisco:spa8800_ip_telephony_gateway:-</cpe>
+</entry><entry>
+    <title>Cisco Tandberg 2000 MXP</title>
+    <cpe>cpe:/h:cisco:tandberg_2000_mxp:-</cpe>
+</entry><entry>
+    <title>Cisco Tandberg 550 MXP</title>
+    <cpe>cpe:/h:cisco:tandberg_550_mxp:-</cpe>
+</entry><entry>
+    <title>Cisco Tandberg 770 MXP</title>
+    <cpe>cpe:/h:cisco:tandberg_770_mxp:-</cpe>
+</entry><entry>
+    <title>Cisco Tandberg 880 MXP</title>
+    <cpe>cpe:/h:cisco:tandberg_880_mxp:-</cpe>
+</entry><entry>
+    <title>Cisco Tandberg 990 MXP</title>
+    <cpe>cpe:/h:cisco:tandberg_990_mxp:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence Codec C40</title>
+    <cpe>cpe:/h:cisco:telepresence_codec_c40:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence Codec C40</title>
+    <cpe>cpe:/h:cisco:telepresence_codec_c60:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence Codec C60</title>
+    <cpe>cpe:/h:cisco:telepresence_codec_c90:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence EX60</title>
+    <cpe>cpe:/h:cisco:telepresence_ex60:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence EX90</title>
+    <cpe>cpe:/h:cisco:telepresence_ex90:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence MCU 4501</title>
+    <cpe>cpe:/h:cisco:telepresence_mcu_4501:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence MCU 4505</title>
+    <cpe>cpe:/h:cisco:telepresence_mcu_4505:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence MCU 4510</title>
+    <cpe>cpe:/h:cisco:telepresence_mcu_4510:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence MCU 4515</title>
+    <cpe>cpe:/h:cisco:telepresence_mcu_4515:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence MCU 4520</title>
+    <cpe>cpe:/h:cisco:telepresence_mcu_4520:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence MCU MSE 8510</title>
+    <cpe>cpe:/h:cisco:telepresence_mcu_mse_8510:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence MX200</title>
+    <cpe>cpe:/h:cisco:telepresence_mx200:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence MX300</title>
+    <cpe>cpe:/h:cisco:telepresence_mx300:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence Profile 55-inch</title>
+    <cpe>cpe:/h:cisco:telepresence_profile_55:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence Profile 65-inch</title>
+    <cpe>cpe:/h:cisco:telepresence_profile_65:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence Quick Set C20</title>
+    <cpe>cpe:/h:cisco:telepresence_quick_set_c20:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence Quick Set SX20</title>
+    <cpe>cpe:/h:cisco:telepresence_quick_set_sx20:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence Server 7010</title>
+    <cpe>cpe:/h:cisco:telepresence_server_7010:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence Server MSE 8710</title>
+    <cpe>cpe:/h:cisco:telepresence_server_mse_8710:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence System 1000</title>
+    <cpe>cpe:/h:cisco:telepresence_system_1000:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence System 1000 MXP</title>
+    <cpe>cpe:/h:cisco:telepresence_system_1000_mxp:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence System 1100</title>
+    <cpe>cpe:/h:cisco:telepresence_system_1100:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence System 1300</title>
+    <cpe>cpe:/h:cisco:telepresence_system_1300:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence System 1300-65</title>
+    <cpe>cpe:/h:cisco:telepresence_system_1300-65:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence System 1700 MXP</title>
+    <cpe>cpe:/h:cisco:telepresence_system_1700_mxp:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence System 500-32</title>
+    <cpe>cpe:/h:cisco:telepresence_system_500-32:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence System 500-37</title>
+    <cpe>cpe:/h:cisco:telepresence_system_500-37:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence System Codec 3000 MXP</title>
+    <cpe>cpe:/h:cisco:telepresence_system_codec_3000_mxp:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence System Codec 6000 MXP</title>
+    <cpe>cpe:/h:cisco:telepresence_system_codec_6000_mxp:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence System Edge 75 MXP</title>
+    <cpe>cpe:/h:cisco:telepresence_system_edge_75_mxp:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence System Edge 85 MXP</title>
+    <cpe>cpe:/h:cisco:telepresence_system_edge_85_mxp:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence System Edge 95 MXP</title>
+    <cpe>cpe:/h:cisco:telepresence_system_edge_95_mxp:-</cpe>
+</entry><entry>
+    <title>Cisco TelePresence Video Communication Server (VCS)</title>
+    <cpe>cpe:/h:cisco:telepresence_video_communication_server:-</cpe>
+</entry><entry>
+    <title>Cisco Traffic Anomaly Detector 5.0(1)</title>
+    <cpe>cpe:/h:cisco:traffic_anomaly_detector_module:5.0%281%29</cpe>
+</entry><entry>
+    <title>Cisco Traffic Anomaly Detector 5.0(3)</title>
+    <cpe>cpe:/h:cisco:traffic_anomaly_detector_module:5.0%283%29</cpe>
+</entry><entry>
+    <title>Cisco Universal Broadband Router (uBR10012)</title>
+    <cpe>cpe:/h:cisco:ubr10012:-</cpe>
+</entry><entry>
+    <title>Cisco Unified Border Element</title>
+    <cpe>cpe:/h:cisco:unified_border_element:-</cpe>
+</entry><entry>
+    <title>Cisco Unified Computing System</title>
+    <cpe>cpe:/h:cisco:unified_computing_system:-</cpe>
+</entry><entry>
+    <title>Cisco Unified Computing System (UCS) 6120XP Fabric Interconnect</title>
+    <cpe>cpe:/h:cisco:unified_computing_system_6120xp_fabric_interconnect:-</cpe>
+</entry><entry>
+    <title>Cisco Unified Computing System (UCS) 6140XP Fabric Interconnect</title>
+    <cpe>cpe:/h:cisco:unified_computing_system_6140xp_fabric_interconnect:-</cpe>
+</entry><entry>
+    <title>Cisco Unified Computing System (UCS) 6248UP Fabric Interconnect</title>
+    <cpe>cpe:/h:cisco:unified_computing_system_6248up_fabric_interconnect:-</cpe>
+</entry><entry>
+    <title>Cisco Unified Computing System (UCS) 6296UP Fabric Interconnect</title>
+    <cpe>cpe:/h:cisco:unified_computing_system_6296up_fabric_interconnect:-</cpe>
+</entry><entry>
+    <title>Cisco Unified Computing System Cisco Integrated Management Controller</title>
+    <cpe>cpe:/h:cisco:unified_computing_system_integrated_management_controller:-</cpe>
+</entry><entry>
+    <title>Cisco Unified Contact Center Express (aka Unified CCX)</title>
+    <cpe>cpe:/h:cisco:unified_contact_center_express:-</cpe>
+</entry><entry>
+    <title>Cisco Unified IP Interactive Voice Response (Cisco Unified IP IVR)</title>
+    <cpe>cpe:/h:cisco:unified_ip_interactive_voice_response:-</cpe>
+</entry><entry>
+    <title>Cisco Skinny Client Control Protocol (SCCP) Software 8.0(4)</title>
+    <cpe>cpe:/h:cisco:unified_ip_phone_7906g:8.0%284%29</cpe>
+</entry><entry>
+    <title>Cisco Skinny Client Control Protocol (SCCP) Software 8.0(4)</title>
+    <cpe>cpe:/h:cisco:unified_ip_phone_7911g:8.0%284%29</cpe>
+</entry><entry>
+    <title>Cisco Skinny Client Control Protocol (SCCP) Software 8.0(4)</title>
+    <cpe>cpe:/h:cisco:unified_ip_phone_7941g:8.0%284%29</cpe>
+</entry><entry>
+    <title>Cisco Skinny Client Control Protocol (SCCP) Software 8.0(4)</title>
+    <cpe>cpe:/h:cisco:unified_ip_phone_7961g:8.0%284%29</cpe>
+</entry><entry>
+    <title>Cisco Skinny Client Control Protocol (SCCP) Software 8.0(4)</title>
+    <cpe>cpe:/h:cisco:unified_ip_phone_7970g:8.0%284%29</cpe>
+</entry><entry>
+    <title>Cisco Skinny Client Control Protocol (SCCP) Software 8.0(4)</title>
+    <cpe>cpe:/h:cisco:unified_ip_phone_7971g:8.0%284%29</cpe>
+</entry><entry>
+    <title>Cisco Unified IP Phone 8945</title>
+    <cpe>cpe:/h:cisco:unified_ip_phone_8945:-</cpe>
+</entry><entry>
+    <title>Cisco Unity Express Software 1.1.1</title>
+    <cpe>cpe:/h:cisco:unity_express:1.1.1</cpe>
+</entry><entry>
+    <title>Cisco Unity Server 2.0</title>
+    <cpe>cpe:/h:cisco:unity_server:2.0</cpe>
+</entry><entry>
+    <title>Cisco Unity Server 2.1</title>
+    <cpe>cpe:/h:cisco:unity_server:2.1</cpe>
+</entry><entry>
+    <title>Cisco Unity Server 2.2</title>
+    <cpe>cpe:/h:cisco:unity_server:2.2</cpe>
+</entry><entry>
+    <title>Cisco Unity Server 2.3</title>
+    <cpe>cpe:/h:cisco:unity_server:2.3</cpe>
+</entry><entry>
+    <title>Cisco Unity Server 2.4</title>
+    <cpe>cpe:/h:cisco:unity_server:2.4</cpe>
+</entry><entry>
+    <title>Cisco Unity Server 2.46</title>
+    <cpe>cpe:/h:cisco:unity_server:2.46</cpe>
+</entry><entry>
+    <title>Cisco Unity Server 3.0</title>
+    <cpe>cpe:/h:cisco:unity_server:3.0</cpe>
+</entry><entry>
+    <title>Cisco Unity Server 3.1</title>
+    <cpe>cpe:/h:cisco:unity_server:3.1</cpe>
+</entry><entry>
+    <title>Cisco Unity Server 3.2</title>
+    <cpe>cpe:/h:cisco:unity_server:3.2</cpe>
+</entry><entry>
+    <title>Cisco Unity Server 3.3</title>
+    <cpe>cpe:/h:cisco:unity_server:3.3</cpe>
+</entry><entry>
+    <title>Cisco Unity Server 4.0</title>
+    <cpe>cpe:/h:cisco:unity_server:4.0</cpe>
+</entry><entry>
+    <title> Cisco VC240 Network Bullet Camera</title>
+    <cpe>cpe:/h:cisco:vc240_network_bullet_camera:-</cpe>
+</entry><entry>
+    <title>Cisco Video Surveillance 2421</title>
+    <cpe>cpe:/h:cisco:video_surveillance_2421:-</cpe>
+</entry><entry>
+    <title>Cisco Video Surveillance 2500</title>
+    <cpe>cpe:/h:cisco:video_surveillance_2500:-</cpe>
+</entry><entry>
+    <title>Cisco Video Surveillance 2600</title>
+    <cpe>cpe:/h:cisco:video_surveillance_2600:-</cpe>
+</entry><entry>
+    <title>Cisco Video Surveillance 4000 IP Cameras</title>
+    <cpe>cpe:/h:cisco:video_surveillance_4000_ip_cameras:-</cpe>
+</entry><entry>
+    <title>Cisco Video Surveillance 4300E IP Cameras</title>
+    <cpe>cpe:/h:cisco:video_surveillance_4300e_ip_cameras:-</cpe>
+</entry><entry>
+    <title>Cisco Video Surveillance 4500E IP Cameras</title>
+    <cpe>cpe:/h:cisco:video_surveillance_4500e_ip_cameras:-</cpe>
+</entry><entry>
+    <title>Cisco Video Surveillance Indoor Fixed Dome IP HD Camera 5010</title>
+    <cpe>cpe:/h:cisco:video_surveillance_indoor_fixed_dome_ip_hd_camera:5010</cpe>
+</entry><entry>
+    <title>Cisco Video Surveillance Indoor Fixed Dome IP HD Camera 5011</title>
+    <cpe>cpe:/h:cisco:video_surveillance_indoor_fixed_dome_ip_hd_camera:5011</cpe>
+</entry><entry>
+    <title>Cisco Video Surveillance SP_ISP 1.23.7</title>
+    <cpe>cpe:/h:cisco:video_surveillance_sp_isp:1.23.7</cpe>
+</entry><entry>
+    <title>Cisco Video Surveillance VC220 Network Dome Camera</title>
+    <cpe>cpe:/h:cisco:video_surveillance_vc220_network_dome_camera:-</cpe>
+</entry><entry>
+    <title>Cisco Virtualization Experience Client 6000</title>
+    <cpe>cpe:/h:cisco:virtualization_experience_client_6000:-</cpe>
+</entry><entry>
+    <title>Cisco Virtualization Experience Client 6215</title>
+    <cpe>cpe:/h:cisco:virtualization_experience_client_6215:-</cpe>
+</entry><entry>
+    <title>Cisco VoIP Phone CP-7940 3.0</title>
+    <cpe>cpe:/h:cisco:voip_phone_cp-7940:3.0</cpe>
+</entry><entry>
+    <title>Cisco VoIP Phone CP-7940 3.1</title>
+    <cpe>cpe:/h:cisco:voip_phone_cp-7940:3.1</cpe>
+</entry><entry>
+    <title>Cisco VoIP Phone CP-7940 3.2</title>
+    <cpe>cpe:/h:cisco:voip_phone_cp-7940:3.2</cpe>
+</entry><entry>
+    <title>Cisco VoIP Phone CP-7940 8.6</title>
+    <cpe>cpe:/h:cisco:voip_phone_cp-7940:8.6</cpe>
+</entry><entry>
+    <title>Cisco VoIP Phone CP-7940 8.70</title>
+    <cpe>cpe:/h:cisco:voip_phone_cp-7940:8.70</cpe>
+</entry><entry>
+    <title>Cisco Skinny Client Control Protocol (SCCP) 8.70</title>
+    <cpe>cpe:/h:cisco:voip_phone_cp-7960:8.70</cpe>
+</entry><entry>
+    <title>Cisco VPN 3000 Concentrator Series Software 4.1.7.l</title>
+    <cpe>cpe:/h:cisco:vpn_3020_concentrator:4.1.7.l</cpe>
+</entry><entry>
+    <title>Cisco WAP4410N wireless access point</title>
+    <cpe>cpe:/h:cisco:wap4410n:-</cpe>
+</entry><entry>
+    <title>Cisco Web Security Appliance</title>
+    <cpe>cpe:/h:cisco:web_security_appliance:-</cpe>
+</entry><entry>
+    <title>Cisco Wireless Control System 3.2(40)</title>
+    <cpe>cpe:/h:cisco:wireless_control_system:3.2%2840%29</cpe>
+</entry><entry>
+    <title>Cisco Wireless Control System 3.2(51)</title>
+    <cpe>cpe:/h:cisco:wireless_control_system:3.2%2851%29</cpe>
+</entry><entry>
+    <title>Cisco Wireless Control System 4.0</title>
+    <cpe>cpe:/h:cisco:wireless_control_system:4.0</cpe>
+</entry><entry>
+    <title>Cisco Wireless Control System 4.0(1)</title>
+    <cpe>cpe:/h:cisco:wireless_control_system:4.0%281%29</cpe>
+</entry><entry>
+    <title>Cisco Wireless Control System 4.0.95</title>
+    <cpe>cpe:/h:cisco:wireless_control_system:4.0.95</cpe>
+</entry><entry>
+    <title>Cisco Wireless Control System 4.1.91.0</title>
+    <cpe>cpe:/h:cisco:wireless_control_system:4.1.91.0</cpe>
+</entry><entry>
+    <title>Cisco Wireless LAN Controller Software 4.1</title>
+    <cpe>cpe:/h:cisco:wireless_lan_controller:4.1</cpe>
+</entry><entry>
+    <title>Cisco Wireless LAN Controller Software 4.2</title>
+    <cpe>cpe:/h:cisco:wireless_lan_controller:4.2</cpe>
+</entry><entry>
+    <title>Cisco Wireless LAN Controller Software 4.2.173.0</title>
+    <cpe>cpe:/h:cisco:wireless_lan_controller:4.2.173.0</cpe>
+</entry><entry>
+    <title>Cisco Wireless LAN Controller Software 5.0</title>
+    <cpe>cpe:/h:cisco:wireless_lan_controller:5.0</cpe>
+</entry><entry>
+    <title>Cisco Wireless LAN Controller Software 5.2</title>
+    <cpe>cpe:/h:cisco:wireless_lan_controller:5.2</cpe>
+</entry><entry>
+    <title>Cisco WRVS4400N Gigabit Security Router</title>
+    <cpe>cpe:/h:cisco:wrvs4400n:-</cpe>
+</entry><entry>
+    <title>Cisco WS-C3850</title>
+    <cpe>cpe:/h:cisco:ws-c3850:-</cpe>
+</entry><entry>
+    <title>Cisco WS-C3860</title>
+    <cpe>cpe:/h:cisco:ws-c3860:-</cpe>
+</entry>
+</entries>
