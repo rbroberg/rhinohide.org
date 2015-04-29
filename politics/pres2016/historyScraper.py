@@ -70,9 +70,10 @@ fips={1:"Alabama",
 55:"Wisconsin",
 56:"Wyoming"}
 
-#for year in [2012,2008,2004,2000,1996,1992,1988,1984,1980]:
 #for year in [1976,1972,1968,1964,1960,1956,1952]:
-for year in [1960,1956,1952]:
+#for year in [1960,1956,1952]:
+#for year in [2012,2008,2004,2000,1996,1992,1988,1984,1980]:
+for year in [i*4+1952 for i in range(16)]:
 	for i in fips.keys():
 		try:
 			u="http://uselectionatlas.org/RESULTS/state.php?f=1&year="+str(year)+"&off=0&fips="+str(i)
