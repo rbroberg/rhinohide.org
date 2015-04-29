@@ -1,0 +1,7 @@
+failed on: http://uselectionatlas.org/RESULTS/state.php?f=1&year=1960&off=0&fips=11
+failed on: http://uselectionatlas.org/RESULTS/state.php?f=1&year=1956&off=0&fips=2
+failed on: http://uselectionatlas.org/RESULTS/state.php?f=1&year=1956&off=0&fips=11
+failed on: http://uselectionatlas.org/RESULTS/state.php?f=1&year=1956&off=0&fips=15
+failed on: http://uselectionatlas.org/RESULTS/state.php?f=1&year=1952&off=0&fips=2
+failed on: http://uselectionatlas.org/RESULTS/state.php?f=1&year=1952&off=0&fips=11
+failed on: http://uselectionatlas.org/RESULTS/state.php?f=1&year=1952&off=0&fips=15

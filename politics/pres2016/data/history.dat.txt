@@ -1,0 +1,918 @@
+1	Alabama	2012	Willard Mitt Romney	Paul Ryan	AL Republican	1,255,925	60.55%	9 
+1	Alabama	2012	Barack H. Obama	Joseph R. Biden, Jr.	AL Democratic	795,696	38.36%	0 
+2	Alaska	2012	Willard Mitt Romney	Paul Ryan	Republican	164,676	54.80%	3 
+2	Alaska	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	122,640	40.81%	0 
+4	Arizona	2012	Willard Mitt Romney	Paul Ryan	Republican	1,233,654	53.48%	11 
+4	Arizona	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,025,232	44.45%	0 
+5	Arkansas	2012	Willard Mitt Romney	Paul Ryan	Republican	647,744	60.57%	6 
+5	Arkansas	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	394,409	36.88%	0 
+6	California	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	7,854,285	60.16%	55 
+6	California	2012	Willard Mitt Romney	Paul Ryan	Republican	4,839,958	37.07%	0 
+8	Colorado	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,323,102	51.45%	9 
+8	Colorado	2012	Willard Mitt Romney	Paul Ryan	Republican	1,185,243	46.09%	0 
+9	Connecticut	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	905,109	58.06%	7 
+9	Connecticut	2012	Willard Mitt Romney	Paul Ryan	Republican	634,899	40.72%	0 
+10	Delaware	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	242,584	58.61%	3 
+10	Delaware	2012	Willard Mitt Romney	Paul Ryan	Republican	165,484	39.98%	0 
+11	District of Columbia	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	267,070	90.91%	3 
+11	District of Columbia	2012	Willard Mitt Romney	Paul Ryan	Republican	21,381	7.28%	0 
+12	Florida	2012	Barack H. Obama	Joseph R. Biden, Jr.	FL Democratic	4,237,756	49.90%	29 
+12	Florida	2012	Willard Mitt Romney	Paul Ryan	Republican FL	4,163,447	49.03%	0 
+13	Georgia	2012	Willard Mitt Romney	Paul Ryan	Republican	2,078,688	53.19%	16 
+13	Georgia	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,773,827	45.39%	0 
+15	Hawaii	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	306,658	70.55%	4 
+15	Hawaii	2012	Willard Mitt Romney	Paul Ryan	Republican	121,015	27.84%	0 
+16	Idaho	2012	Willard Mitt Romney	Paul Ryan	Republican	420,911	64.09%	4 
+16	Idaho	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	212,787	32.40%	0 
+17	Illinois	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	3,019,512	57.50%	20 
+17	Illinois	2012	Willard Mitt Romney	Paul Ryan	Republican	2,135,216	40.66%	0 
+18	Indiana	2012	Willard Mitt Romney	Paul Ryan	Republican	1,422,872	54.04%	11 
+18	Indiana	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,154,275	43.84%	0 
+19	Iowa	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	822,544	51.99%	6 
+19	Iowa	2012	Willard Mitt Romney	Paul Ryan	Republican	730,617	46.18%	0 
+20	Kansas	2012	Willard Mitt Romney	Paul Ryan	Republican	689,809	59.66%	6 
+20	Kansas	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	439,908	38.05%	0 
+21	Kentucky	2012	Willard Mitt Romney	Paul Ryan	Republican	1,087,190	60.47%	8 
+21	Kentucky	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	679,370	37.78%	0 
+22	Louisiana	2012	Willard Mitt Romney	Paul Ryan	Republican	1,152,262	57.78%	8 
+22	Louisiana	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	809,141	40.58%	0 
+23	Maine	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	401,306	56.27%	4 
+23	Maine	2012	Willard Mitt Romney	Paul Ryan	Republican	292,276	40.98%	0 
+24	Maryland	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,677,844	61.97%	10 
+24	Maryland	2012	Willard Mitt Romney	Paul Ryan	Republican	971,869	35.90%	0 
+25	Massachusetts	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,921,761	60.67%	11 
+25	Massachusetts	2012	Willard Mitt Romney	Paul Ryan	Republican	1,188,460	37.52%	0 
+26	Michigan	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	2,564,569	54.04%	16 
+26	Michigan	2012	Willard Mitt Romney	Paul Ryan	Republican	2,115,256	44.58%	0 
+27	Minnesota	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic-F.L.	1,546,167	52.65%	10 
+27	Minnesota	2012	Willard Mitt Romney	Paul Ryan	Republican	1,320,225	44.96%	0 
+28	Mississippi	2012	Willard Mitt Romney	Paul Ryan	Republican	710,746	55.29%	6 
+28	Mississippi	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	562,949	43.79%	0 
+29	Missouri	2012	Willard Mitt Romney	Paul Ryan	Republican	1,482,440	53.64%	10 
+29	Missouri	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,223,796	44.28%	0 
+30	Montana	2012	Willard Mitt Romney	Paul Ryan	Republican	267,928	55.30%	3 
+30	Montana	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	201,839	41.66%	0 
+31	Nebraska	2012	Willard Mitt Romney	Paul Ryan	Republican	475,064	59.80%	5 
+31	Nebraska	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	302,081	38.03%	0 
+32	Nevada	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	531,373	52.36%	6 
+32	Nevada	2012	Willard Mitt Romney	Paul Ryan	Republican	463,567	45.68%	0 
+33	New Hampshire	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	369,561	51.98%	4 
+33	New Hampshire	2012	Willard Mitt Romney	Paul Ryan	Republican	329,918	46.40%	0 
+34	New Jersey	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	2,126,610	58.25%	14 
+34	New Jersey	2012	Willard Mitt Romney	Paul Ryan	Republican	1,478,749	40.50%	0 
+35	New Mexico	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	415,335	52.99%	5 
+35	New Mexico	2012	Willard Mitt Romney	Paul Ryan	Republican	335,788	42.84%	0 
+36	New York	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	4,485,877	63.35%	29 
+36	New York	2012	Willard Mitt Romney	Paul Ryan	Republican	2,490,496	35.17%	0 
+37	North Carolina	2012	Willard Mitt Romney	Paul Ryan	Republican	2,270,395	50.39%	15 
+37	North Carolina	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	2,178,391	48.35%	0 
+38	North Dakota	2012	Willard Mitt Romney	Paul Ryan	Republican	188,163	58.32%	3 
+38	North Dakota	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic-NPL	124,827	38.69%	0 
+39	Ohio	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	2,827,709	50.58%	18 
+39	Ohio	2012	Willard Mitt Romney	Paul Ryan	Republican	2,661,437	47.60%	0 
+40	Oklahoma	2012	Willard Mitt Romney	Paul Ryan	Republican	891,325	66.77%	7 
+40	Oklahoma	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	443,547	33.23%	0 
+41	Oregon	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	970,488	54.24%	7 
+41	Oregon	2012	Willard Mitt Romney	Paul Ryan	Republican	754,175	42.15%	0 
+42	Pennsylvania	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	2,990,274	51.96%	20 
+42	Pennsylvania	2012	Willard Mitt Romney	Paul Ryan	Republican	2,680,434	46.58%	0 
+44	Rhode Island	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	279,677	62.70%	4 
+44	Rhode Island	2012	Willard Mitt Romney	Paul Ryan	Republican	157,204	35.24%	0 
+45	South Carolina	2012	Willard Mitt Romney	Paul Ryan	Republican	1,071,645	54.56%	9 
+45	South Carolina	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	865,941	44.09%	0 
+46	South Dakota	2012	Willard Mitt Romney	Paul Ryan	Republican	210,610	57.89%	3 
+46	South Dakota	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	145,039	39.87%	0 
+47	Tennessee	2012	Willard Mitt Romney	Paul Ryan	Republican	1,462,330	59.42%	11 
+47	Tennessee	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	960,709	39.04%	0 
+48	Texas	2012	Willard Mitt Romney	Paul Ryan	Republican	4,569,843	57.13%	38 
+48	Texas	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	3,308,124	41.35%	0 
+49	Utah	2012	Willard Mitt Romney	Paul Ryan	Republican	740,600	72.55%	6 
+49	Utah	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	251,813	24.67%	0 
+50	Vermont	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	199,239	66.57%	3 
+50	Vermont	2012	Willard Mitt Romney	Paul Ryan	Republican	92,698	30.97%	0 
+51	Virginia	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,971,820	51.16%	13 
+51	Virginia	2012	Willard Mitt Romney	Paul Ryan	Republican	1,822,522	47.28%	0 
+53	Washington	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,755,396	55.80%	12 
+53	Washington	2012	Willard Mitt Romney	Paul Ryan	Republican	1,290,670	41.03%	0 
+54	West Virginia	2012	Willard Mitt Romney	Paul Ryan	Republican	417,655	62.14%	5 
+54	West Virginia	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	238,269	35.45%	0 
+55	Wisconsin	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,620,985	52.83%	10 
+55	Wisconsin	2012	Willard Mitt Romney	Paul Ryan	Republican	1,407,966	45.89%	0 
+56	Wyoming	2012	Willard Mitt Romney	Paul Ryan	Republican	170,962	68.64%	3 
+56	Wyoming	2012	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	69,286	27.82%	0 
+1	Alabama	2008	John S. McCain, III	Sarah Palin	Republican	1,266,546	60.32%	9 
+1	Alabama	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	813,479	38.74%	0 
+2	Alaska	2008	John S. McCain, III	Sarah Palin	Republican	193,841	59.42%	3 
+2	Alaska	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	123,594	37.89%	0 
+4	Arizona	2008	John S. McCain, III	Sarah Palin	Republican	1,230,111	53.39%	10 
+4	Arizona	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,034,707	44.91%	0 
+5	Arkansas	2008	John S. McCain, III	Sarah Palin	Republican	638,017	58.72%	6 
+5	Arkansas	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	422,310	38.86%	0 
+6	California	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	8,274,473	60.92%	55 
+6	California	2008	John S. McCain, III	Sarah Palin	Republican	5,011,781	36.90%	0 
+8	Colorado	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,288,633	53.66%	9 
+8	Colorado	2008	John S. McCain, III	Sarah Palin	Republican	1,073,629	44.71%	0 
+9	Connecticut	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	997,773	60.59%	7 
+9	Connecticut	2008	John S. McCain, III	Sarah Palin	Republican	629,428	38.22%	0 
+10	Delaware	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	255,459	61.91%	3 
+10	Delaware	2008	John S. McCain, III	Sarah Palin	Republican	152,374	36.93%	0 
+11	District of Columbia	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	245,800	92.46%	3 
+11	District of Columbia	2008	John S. McCain, III	Sarah Palin	Republican	17,367	6.53%	0 
+12	Florida	2008	Barack H. Obama	Joseph R. Biden, Jr.	FL Democratic	4,282,367	50.91%	27 
+12	Florida	2008	John S. McCain, III	Sarah Palin	Republican FL	4,046,219	48.10%	0 
+13	Georgia	2008	John S. McCain, III	Sarah Palin	Republican	2,048,759	52.10%	15 
+13	Georgia	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,844,123	46.90%	0 
+15	Hawaii	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	325,871	71.85%	4 
+15	Hawaii	2008	John S. McCain, III	Sarah Palin	Republican	120,566	26.58%	0 
+16	Idaho	2008	John S. McCain, III	Sarah Palin	Republican	403,012	61.21%	4 
+16	Idaho	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	236,440	35.91%	0 
+17	Illinois	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	3,419,348	61.83%	21 
+17	Illinois	2008	John S. McCain, III	Sarah Palin	Republican	2,031,179	36.73%	0 
+18	Indiana	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,374,039	49.84%	11 
+18	Indiana	2008	John S. McCain, III	Sarah Palin	Republican	1,345,648	48.81%	0 
+19	Iowa	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	828,940	53.93%	7 
+19	Iowa	2008	John S. McCain, III	Sarah Palin	Republican	682,379	44.39%	0 
+20	Kansas	2008	John S. McCain, III	Sarah Palin	Republican	699,655	56.48%	6 
+20	Kansas	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	514,765	41.55%	0 
+21	Kentucky	2008	John S. McCain, III	Sarah Palin	Republican	1,048,462	57.37%	8 
+21	Kentucky	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	751,985	41.15%	0 
+22	Louisiana	2008	John S. McCain, III	Sarah Palin	Republican	1,148,275	58.56%	9 
+22	Louisiana	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	782,989	39.93%	0 
+23	Maine	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	421,923	57.71%	4 
+23	Maine	2008	John S. McCain, III	Sarah Palin	Republican	295,273	40.38%	0 
+24	Maryland	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,629,467	61.92%	10 
+24	Maryland	2008	John S. McCain, III	Sarah Palin	Republican	959,862	36.47%	0 
+25	Massachusetts	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,904,098	61.80%	12 
+25	Massachusetts	2008	John S. McCain, III	Sarah Palin	Republican	1,108,854	35.99%	0 
+26	Michigan	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	2,872,579	57.33%	17 
+26	Michigan	2008	John S. McCain, III	Sarah Palin	Republican	2,048,639	40.89%	0 
+27	Minnesota	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic-F.L.	1,573,354	54.06%	10 
+27	Minnesota	2008	John S. McCain, III	Sarah Palin	Republican	1,275,409	43.82%	0 
+28	Mississippi	2008	John S. McCain, III	Sarah Palin	Republican	724,597	56.17%	6 
+28	Mississippi	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	554,662	43.00%	0 
+29	Missouri	2008	John S. McCain, III	Sarah Palin	Republican	1,445,814	49.36%	11 
+29	Missouri	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,441,911	49.23%	0 
+30	Montana	2008	John S. McCain, III	Sarah Palin	Republican	243,882	49.49%	3 
+30	Montana	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	232,159	47.11%	0 
+31	Nebraska	2008	John S. McCain, III	Sarah Palin	Republican	452,979	56.53%	4 
+31	Nebraska	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	333,319	41.60%	1 
+32	Nevada	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	533,736	55.15%	5 
+32	Nevada	2008	John S. McCain, III	Sarah Palin	Republican	412,827	42.65%	0 
+33	New Hampshire	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	384,826	54.13%	4 
+33	New Hampshire	2008	John S. McCain, III	Sarah Palin	Republican	316,534	44.52%	0 
+34	New Jersey	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	2,215,422	57.14%	15 
+34	New Jersey	2008	John S. McCain, III	Sarah Palin	Republican	1,613,207	41.61%	0 
+35	New Mexico	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	472,422	56.91%	5 
+35	New Mexico	2008	John S. McCain, III	Sarah Palin	Republican	346,832	41.78%	0 
+36	New York	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	4,804,945	62.88%	31 
+36	New York	2008	John S. McCain, III	Sarah Palin	Republican	2,752,771	36.03%	0 
+37	North Carolina	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	2,142,651	49.70%	15 
+37	North Carolina	2008	John S. McCain, III	Sarah Palin	Republican	2,128,474	49.38%	0 
+38	North Dakota	2008	John S. McCain, III	Sarah Palin	Republican	168,887	53.15%	3 
+38	North Dakota	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic-N.P.L.	141,403	44.50%	0 
+39	Ohio	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	2,940,044	51.38%	20 
+39	Ohio	2008	John S. McCain, III	Sarah Palin	Republican	2,677,820	46.80%	0 
+40	Oklahoma	2008	John S. McCain, III	Sarah Palin	Republican	960,165	65.65%	7 
+40	Oklahoma	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	502,496	34.35%	0 
+41	Oregon	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,037,291	56.75%	7 
+41	Oregon	2008	John S. McCain, III	Sarah Palin	Republican	738,475	40.40%	0 
+42	Pennsylvania	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	3,276,363	54.47%	21 
+42	Pennsylvania	2008	John S. McCain, III	Sarah Palin	Republican	2,655,885	44.15%	0 
+44	Rhode Island	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	296,571	62.86%	4 
+44	Rhode Island	2008	John S. McCain, III	Sarah Palin	Republican	165,391	35.06%	0 
+45	South Carolina	2008	John S. McCain, III	Sarah Palin	Republican	1,034,896	53.87%	8 
+45	South Carolina	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	862,449	44.90%	0 
+46	South Dakota	2008	John S. McCain, III	Sarah Palin	Republican	203,054	53.16%	3 
+46	South Dakota	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	170,924	44.75%	0 
+47	Tennessee	2008	John S. McCain, III	Sarah Palin	Republican	1,479,178	56.85%	11 
+47	Tennessee	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,087,437	41.79%	0 
+48	Texas	2008	John S. McCain, III	Sarah Palin	Republican	4,479,328	55.38%	34 
+48	Texas	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	3,528,633	43.63%	0 
+49	Utah	2008	John S. McCain, III	Sarah Palin	Republican	596,030	62.15%	5 
+49	Utah	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	327,670	34.17%	0 
+50	Vermont	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	219,262	67.46%	3 
+50	Vermont	2008	John S. McCain, III	Sarah Palin	Republican	98,974	30.45%	0 
+51	Virginia	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,959,532	52.63%	13 
+51	Virginia	2008	John S. McCain, III	Sarah Palin	Republican	1,725,005	46.33%	0 
+53	Washington	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,750,848	57.34%	11 
+53	Washington	2008	John S. McCain, III	Sarah Palin	Republican	1,229,216	40.26%	0 
+54	West Virginia	2008	John S. McCain, III	Sarah Palin	Republican	397,466	55.58%	5 
+54	West Virginia	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	303,857	42.49%	0 
+55	Wisconsin	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	1,677,211	56.22%	10 
+55	Wisconsin	2008	John S. McCain, III	Sarah Palin	Republican	1,262,393	42.31%	0 
+56	Wyoming	2008	John S. McCain, III	Sarah Palin	Republican	164,958	64.78%	3 
+56	Wyoming	2008	Barack H. Obama	Joseph R. Biden, Jr.	Democratic	82,868	32.54%	0 
+1	Alabama	2004	George W. Bush	Richard Cheney	AL Republican	1,176,394	62.46%	9 
+1	Alabama	2004	John Kerry	John Edwards	AL Democratic	693,933	36.84%	0 
+2	Alaska	2004	George W. Bush	Richard Cheney	Republican	190,889	61.07%	3 
+2	Alaska	2004	John Kerry	John Edwards	Democratic	111,025	35.52%	0 
+4	Arizona	2004	George W. Bush	Richard Cheney	Republican	1,104,294	54.77%	10 
+4	Arizona	2004	John Kerry	John Edwards	Democratic	893,524	44.32%	0 
+5	Arkansas	2004	George W. Bush	Richard Cheney	Republican	572,898	54.31%	6 
+5	Arkansas	2004	John Kerry	John Edwards	Democratic	469,953	44.55%	0 
+6	California	2004	John Kerry	John Edwards	Democratic	6,745,485	54.30%	55 
+6	California	2004	George W. Bush	Richard Cheney	Republican	5,509,826	44.36%	0 
+8	Colorado	2004	George W. Bush	Richard Cheney	Republican	1,101,256	51.69%	9 
+8	Colorado	2004	John Kerry	John Edwards	Democratic	1,001,725	47.02%	0 
+9	Connecticut	2004	John Kerry	John Edwards	Democratic	857,488	54.31%	7 
+9	Connecticut	2004	George W. Bush	Richard Cheney	Republican	693,826	43.95%	0 
+10	Delaware	2004	John Kerry	John Edwards	Democratic	200,152	53.34%	3 
+10	Delaware	2004	George W. Bush	Richard Cheney	Republican	171,660	45.74%	0 
+11	District of Columbia	2004	John Kerry	John Edwards	Democratic	202,970	89.18%	3 
+11	District of Columbia	2004	George W. Bush	Richard Cheney	Republican	21,256	9.34%	0 
+12	Florida	2004	George W. Bush	Richard Cheney	Republican	3,964,522	52.10%	27 
+12	Florida	2004	John Kerry	John Edwards	Democratic	3,583,544	47.09%	0 
+13	Georgia	2004	George W. Bush	Richard Cheney	Republican	1,914,254	57.93%	15 
+13	Georgia	2004	John Kerry	John Edwards	Democratic	1,366,149	41.34%	0 
+15	Hawaii	2004	John Kerry	John Edwards	Democratic	231,708	54.01%	4 
+15	Hawaii	2004	George W. Bush	Richard Cheney	Republican	194,191	45.26%	0 
+16	Idaho	2004	George W. Bush	Richard Cheney	Republican	409,235	68.38%	4 
+16	Idaho	2004	John Kerry	John Edwards	Democratic	181,098	30.26%	0 
+17	Illinois	2004	John Kerry	John Edwards	Democratic	2,891,550	54.82%	21 
+17	Illinois	2004	George W. Bush	Richard Cheney	Republican	2,345,946	44.48%	0 
+18	Indiana	2004	George W. Bush	Richard Cheney	Republican	1,479,438	59.94%	11 
+18	Indiana	2004	John Kerry	John Edwards	Democratic	969,011	39.26%	0 
+19	Iowa	2004	George W. Bush	Richard Cheney	Republican	751,957	49.90%	7 
+19	Iowa	2004	John Kerry	John Edwards	Democratic	741,898	49.23%	0 
+20	Kansas	2004	George W. Bush	Richard Cheney	Republican	736,456	62.00%	6 
+20	Kansas	2004	John Kerry	John Edwards	Democratic	434,993	36.62%	0 
+21	Kentucky	2004	George W. Bush	Richard Cheney	Republican	1,069,439	59.54%	8 
+21	Kentucky	2004	John Kerry	John Edwards	Democratic	712,733	39.68%	0 
+22	Louisiana	2004	George W. Bush	Richard Cheney	Republican	1,102,169	56.72%	9 
+22	Louisiana	2004	John Kerry	John Edwards	Democratic	820,299	42.22%	0 
+23	Maine	2004	John Kerry	John Edwards	Democratic	396,842	53.57%	4 
+23	Maine	2004	George W. Bush	Richard Cheney	Republican	330,201	44.58%	0 
+24	Maryland	2004	John Kerry	John Edwards	Democratic	1,334,493	55.91%	10 
+24	Maryland	2004	George W. Bush	Richard Cheney	Republican	1,024,703	42.93%	0 
+25	Massachusetts	2004	John Kerry	John Edwards	Democratic	1,803,800	61.94%	12 
+25	Massachusetts	2004	George W. Bush	Richard Cheney	Republican	1,071,109	36.78%	0 
+26	Michigan	2004	John Kerry	John Edwards	Democratic	2,479,183	51.23%	17 
+26	Michigan	2004	George W. Bush	Richard Cheney	Republican	2,313,746	47.81%	0 
+27	Minnesota	2004	John Kerry	John Edwards	Democratic-F.L.	1,445,014	51.09%	9 
+27	Minnesota	2004	George W. Bush	Richard Cheney	Republican	1,346,695	47.61%	0 
+28	Mississippi	2004	George W. Bush	Richard Cheney	Republican	684,981	59.44%	6 
+28	Mississippi	2004	John Kerry	John Edwards	Democratic	458,094	39.75%	0 
+29	Missouri	2004	George W. Bush	Richard Cheney	Republican	1,455,713	53.30%	11 
+29	Missouri	2004	John Kerry	John Edwards	Democratic	1,259,171	46.10%	0 
+30	Montana	2004	George W. Bush	Richard Cheney	Republican	266,063	59.07%	3 
+30	Montana	2004	John Kerry	John Edwards	Democratic	173,710	38.56%	0 
+31	Nebraska	2004	George W. Bush	Richard Cheney	Republican	512,814	65.90%	5 
+31	Nebraska	2004	John Kerry	John Edwards	Democratic	254,328	32.68%	0 
+32	Nevada	2004	George W. Bush	Richard Cheney	Republican	418,690	50.47%	5 
+32	Nevada	2004	John Kerry	John Edwards	Democratic	397,190	47.88%	0 
+33	New Hampshire	2004	John Kerry	John Edwards	Democratic	340,511	50.24%	4 
+33	New Hampshire	2004	George W. Bush	Richard Cheney	Republican	331,237	48.87%	0 
+34	New Jersey	2004	John Kerry	John Edwards	Democratic	1,911,430	52.92%	15 
+34	New Jersey	2004	George W. Bush	Richard Cheney	Republican	1,670,003	46.23%	0 
+35	New Mexico	2004	George W. Bush	Richard Cheney	Republican	376,930	49.84%	5 
+35	New Mexico	2004	John Kerry	John Edwards	Democratic	370,942	49.05%	0 
+36	New York	2004	John Kerry	John Edwards	Democratic	4,314,280	58.36%	31 
+36	New York	2004	George W. Bush	Richard Cheney	Republican	2,962,567	40.08%	0 
+37	North Carolina	2004	George W. Bush	Richard Cheney	Republican	1,961,166	56.02%	15 
+37	North Carolina	2004	John Kerry	John Edwards	Democratic	1,525,849	43.58%	0 
+38	North Dakota	2004	George W. Bush	Richard Cheney	Republican	196,651	62.86%	3 
+38	North Dakota	2004	John Kerry	John Edwards	Democratic-N.P.L.	111,052	35.50%	0 
+39	Ohio	2004	George W. Bush	Richard Cheney	Republican	2,859,768	50.81%	20 
+39	Ohio	2004	John Kerry	John Edwards	Democratic	2,741,167	48.71%	0 
+40	Oklahoma	2004	George W. Bush	Richard Cheney	Republican	959,792	65.57%	7 
+40	Oklahoma	2004	John Kerry	John Edwards	Democratic	503,966	34.43%	0 
+41	Oregon	2004	John Kerry	John Edwards	Democratic	943,163	51.35%	7 
+41	Oregon	2004	George W. Bush	Richard Cheney	Republican	866,831	47.19%	0 
+42	Pennsylvania	2004	John Kerry	John Edwards	Democratic	2,938,095	50.92%	21 
+42	Pennsylvania	2004	George W. Bush	Richard Cheney	Republican	2,793,847	48.42%	0 
+44	Rhode Island	2004	John Kerry	John Edwards	Democratic	259,760	59.42%	4 
+44	Rhode Island	2004	George W. Bush	Richard Cheney	Republican	169,046	38.67%	0 
+45	South Carolina	2004	George W. Bush	Richard Cheney	Republican	937,974	57.98%	8 
+45	South Carolina	2004	John Kerry	John Edwards	Democratic	661,699	40.90%	0 
+46	South Dakota	2004	George W. Bush	Richard Cheney	Republican	232,584	59.91%	3 
+46	South Dakota	2004	John Kerry	John Edwards	Democratic	149,244	38.44%	0 
+47	Tennessee	2004	George W. Bush	Richard Cheney	Republican	1,383,336	56.81%	11 
+47	Tennessee	2004	John Kerry	John Edwards	Democratic	1,035,160	42.51%	0 
+48	Texas	2004	George W. Bush	Richard Cheney	Republican	4,526,917	61.09%	34 
+48	Texas	2004	John Kerry	John Edwards	Democratic	2,832,704	38.22%	0 
+49	Utah	2004	George W. Bush	Richard Cheney	Republican	663,742	71.54%	5 
+49	Utah	2004	John Kerry	John Edwards	Democratic	241,199	26.00%	0 
+50	Vermont	2004	John Kerry	John Edwards	Democratic	184,067	58.94%	3 
+50	Vermont	2004	George W. Bush	Richard Cheney	Republican	121,180	38.80%	0 
+51	Virginia	2004	George W. Bush	Richard Cheney	Republican	1,716,959	53.68%	13 
+51	Virginia	2004	John Kerry	John Edwards	Democratic	1,454,742	45.48%	0 
+53	Washington	2004	John Kerry	John Edwards	Democratic	1,510,201	52.77%	11 
+53	Washington	2004	George W. Bush	Richard Cheney	Republican	1,304,894	45.60%	0 
+54	West Virginia	2004	George W. Bush	Richard Cheney	Republican	423,778	56.06%	5 
+54	West Virginia	2004	John Kerry	John Edwards	Democratic	326,541	43.20%	0 
+55	Wisconsin	2004	John Kerry	John Edwards	Democratic	1,489,504	49.70%	10 
+55	Wisconsin	2004	George W. Bush	Richard Cheney	Republican	1,478,120	49.32%	0 
+56	Wyoming	2004	George W. Bush	Richard Cheney	Republican	167,629	68.86%	3 
+56	Wyoming	2004	John Kerry	John Edwards	Democratic	70,776	29.07%	0 
+1	Alabama	2000	George W. Bush	Richard Cheney	Republican	944,409	56.47%	9 
+1	Alabama	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	695,602	41.59%	0 
+2	Alaska	2000	George W. Bush	Richard Cheney	Republican	167,398	58.62%	3 
+2	Alaska	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	79,004	27.67%	0 
+4	Arizona	2000	George W. Bush	Richard Cheney	Republican	781,652	50.95%	8 
+4	Arizona	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	685,341	44.67%	0 
+5	Arkansas	2000	George W. Bush	Richard Cheney	Republican	472,940	51.31%	6 
+5	Arkansas	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	422,768	45.86%	0 
+6	California	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	5,861,203	53.45%	54 
+6	California	2000	George W. Bush	Richard Cheney	Republican	4,567,429	41.65%	0 
+8	Colorado	2000	George W. Bush	Richard Cheney	Republican	883,745	50.75%	8 
+8	Colorado	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	738,227	42.39%	0 
+9	Connecticut	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	816,015	55.91%	8 
+9	Connecticut	2000	George W. Bush	Richard Cheney	Republican	561,094	38.44%	0 
+10	Delaware	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	180,068	54.96%	3 
+10	Delaware	2000	George W. Bush	Richard Cheney	Republican	137,288	41.90%	0 
+11	District of Columbia	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	171,923	85.16%	2 
+11	District of Columbia	2000	George W. Bush	Richard Cheney	Republican	18,073	8.95%	0 
+12	Florida	2000	George W. Bush	Richard Cheney	Republican	2,912,790	48.85%	25 
+12	Florida	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	2,912,253	48.84%	0 
+13	Georgia	2000	George W. Bush	Richard Cheney	Republican	1,419,720	54.67%	13 
+13	Georgia	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	1,116,230	42.98%	0 
+15	Hawaii	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	205,286	55.79%	4 
+15	Hawaii	2000	George W. Bush	Richard Cheney	Republican	137,845	37.46%	0 
+16	Idaho	2000	George W. Bush	Richard Cheney	Republican	336,937	67.17%	4 
+16	Idaho	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	138,637	27.64%	0 
+17	Illinois	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	2,589,026	54.60%	22 
+17	Illinois	2000	George W. Bush	Richard Cheney	Republican	2,019,421	42.58%	0 
+18	Indiana	2000	George W. Bush	Richard Cheney	Republican	1,245,836	56.65%	12 
+18	Indiana	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	901,980	41.01%	0 
+19	Iowa	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	638,517	48.54%	7 
+19	Iowa	2000	George W. Bush	Richard Cheney	Republican	634,373	48.22%	0 
+20	Kansas	2000	George W. Bush	Richard Cheney	Republican	622,332	58.04%	6 
+20	Kansas	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	399,276	37.24%	0 
+21	Kentucky	2000	George W. Bush	Richard Cheney	Republican	872,492	56.50%	8 
+21	Kentucky	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	638,898	41.37%	0 
+22	Louisiana	2000	George W. Bush	Richard Cheney	Republican	927,871	52.55%	9 
+22	Louisiana	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	792,344	44.88%	0 
+23	Maine	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	319,951	49.09%	4 
+23	Maine	2000	George W. Bush	Richard Cheney	Republican	286,616	43.97%	0 
+24	Maryland	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	1,145,782	56.57%	10 
+24	Maryland	2000	George W. Bush	Richard Cheney	Republican	813,797	40.18%	0 
+25	Massachusetts	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	1,616,487	59.80%	12 
+25	Massachusetts	2000	George W. Bush	Richard Cheney	Republican	878,502	32.50%	0 
+26	Michigan	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	2,170,418	51.28%	18 
+26	Michigan	2000	George W. Bush	Richard Cheney	Republican	1,953,139	46.14%	0 
+27	Minnesota	2000	Albert Gore Jr.	Joseph Lieberman	Democratic-F.L.	1,168,266	47.91%	10 
+27	Minnesota	2000	George W. Bush	Richard Cheney	Republican MN	1,109,659	45.50%	0 
+28	Mississippi	2000	George W. Bush	Richard Cheney	Republican	573,230	57.62%	7 
+28	Mississippi	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	404,964	40.70%	0 
+29	Missouri	2000	George W. Bush	Richard Cheney	Republican	1,189,924	50.42%	11 
+29	Missouri	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	1,111,138	47.08%	0 
+30	Montana	2000	George W. Bush	Richard Cheney	Republican	240,178	58.44%	3 
+30	Montana	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	137,126	33.36%	0 
+31	Nebraska	2000	George W. Bush	Richard Cheney	Republican	433,862	62.25%	5 
+31	Nebraska	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	231,780	33.25%	0 
+32	Nevada	2000	George W. Bush	Richard Cheney	Republican	301,575	49.52%	4 
+32	Nevada	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	279,978	45.98%	0 
+33	New Hampshire	2000	George W. Bush	Richard Cheney	Republican	273,559	48.07%	4 
+33	New Hampshire	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	266,348	46.80%	0 
+34	New Jersey	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	1,788,850	56.13%	15 
+34	New Jersey	2000	George W. Bush	Richard Cheney	Republican	1,284,173	40.29%	0 
+35	New Mexico	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	286,783	47.91%	5 
+35	New Mexico	2000	George W. Bush	Richard Cheney	Republican	286,417	47.85%	0 
+36	New York	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	4,113,791	60.22%	33 
+36	New York	2000	George W. Bush	Richard Cheney	Republican	2,405,676	35.22%	0 
+37	North Carolina	2000	George W. Bush	Richard Cheney	Republican	1,631,163	56.03%	14 
+37	North Carolina	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	1,257,692	43.20%	0 
+38	North Dakota	2000	George W. Bush	Richard Cheney	Republican	174,852	60.66%	3 
+38	North Dakota	2000	Albert Gore Jr.	Joseph Lieberman	Democratic-N.P.L.	95,284	33.05%	0 
+39	Ohio	2000	George W. Bush	Richard Cheney	Republican	2,351,209	49.97%	21 
+39	Ohio	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	2,186,190	46.46%	0 
+40	Oklahoma	2000	George W. Bush	Richard Cheney	Republican	744,337	60.31%	8 
+40	Oklahoma	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	474,276	38.43%	0 
+41	Oregon	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	720,342	46.96%	7 
+41	Oregon	2000	George W. Bush	Richard Cheney	Republican	713,577	46.52%	0 
+42	Pennsylvania	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	2,485,967	50.60%	23 
+42	Pennsylvania	2000	George W. Bush	Richard Cheney	Republican	2,281,127	46.43%	0 
+44	Rhode Island	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	249,508	60.99%	4 
+44	Rhode Island	2000	George W. Bush	Richard Cheney	Republican	130,555	31.91%	0 
+45	South Carolina	2000	George W. Bush	Richard Cheney	Republican	786,426	56.83%	8 
+45	South Carolina	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	566,039	40.91%	0 
+46	South Dakota	2000	George W. Bush	Richard Cheney	Republican	190,700	60.30%	3 
+46	South Dakota	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	118,804	37.56%	0 
+47	Tennessee	2000	George W. Bush	Richard Cheney	Republican	1,061,949	51.15%	11 
+47	Tennessee	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	981,720	47.28%	0 
+48	Texas	2000	George W. Bush	Richard Cheney	Republican	3,799,639	59.30%	32 
+48	Texas	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	2,433,746	37.98%	0 
+49	Utah	2000	George W. Bush	Richard Cheney	Republican	515,096	66.83%	5 
+49	Utah	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	203,053	26.34%	0 
+50	Vermont	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	149,022	50.63%	3 
+50	Vermont	2000	George W. Bush	Richard Cheney	Republican	119,775	40.70%	0 
+51	Virginia	2000	George W. Bush	Richard Cheney	Republican	1,437,490	52.47%	13 
+51	Virginia	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	1,217,290	44.44%	0 
+53	Washington	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	1,247,652	50.13%	11 
+53	Washington	2000	George W. Bush	Richard Cheney	Republican	1,108,864	44.56%	0 
+54	West Virginia	2000	George W. Bush	Richard Cheney	Republican	336,475	51.92%	5 
+54	West Virginia	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	295,497	45.59%	0 
+55	Wisconsin	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	1,242,987	47.83%	11 
+55	Wisconsin	2000	George W. Bush	Richard Cheney	Republican	1,237,279	47.61%	0 
+56	Wyoming	2000	George W. Bush	Richard Cheney	Republican	147,947	67.76%	3 
+56	Wyoming	2000	Albert Gore Jr.	Joseph Lieberman	Democratic	60,481	27.70%	0 
+1	Alabama	1996	Robert Dole	Jack Kemp	Republican	769,044	50.12%	9 
+1	Alabama	1996	William Clinton	Albert Gore Jr.	Democratic	662,165	43.16%	0 
+2	Alaska	1996	Robert Dole	Jack Kemp	Republican	122,746	50.80%	3 
+2	Alaska	1996	William Clinton	Albert Gore Jr.	Democratic	80,380	33.27%	0 
+4	Arizona	1996	William Clinton	Albert Gore Jr.	Democratic	653,288	46.52%	8 
+4	Arizona	1996	Robert Dole	Jack Kemp	Republican	622,073	44.29%	0 
+5	Arkansas	1996	William Clinton	Albert Gore Jr.	Democratic	475,171	53.74%	6 
+5	Arkansas	1996	Robert Dole	Jack Kemp	Republican	325,416	36.80%	0 
+6	California	1996	William Clinton	Albert Gore Jr.	Democratic	5,119,835	51.10%	54 
+6	California	1996	Robert Dole	Jack Kemp	Republican	3,828,380	38.21%	0 
+8	Colorado	1996	Robert Dole	Jack Kemp	Republican	691,848	45.80%	8 
+8	Colorado	1996	William Clinton	Albert Gore Jr.	Democratic	671,152	44.43%	0 
+9	Connecticut	1996	William Clinton	Albert Gore Jr.	Democratic	735,740	52.83%	8 
+9	Connecticut	1996	Robert Dole	Jack Kemp	Republican	483,109	34.69%	0 
+10	Delaware	1996	William Clinton	Albert Gore Jr.	Democratic	140,355	51.78%	3 
+10	Delaware	1996	Robert Dole	Jack Kemp	Republican	99,062	36.54%	0 
+11	District of Columbia	1996	William Clinton	Albert Gore Jr.	Democratic	158,220	85.19%	3 
+11	District of Columbia	1996	Robert Dole	Jack Kemp	Republican	17,339	9.34%	0 
+12	Florida	1996	William Clinton	Albert Gore Jr.	Democratic	2,546,870	48.02%	25 
+12	Florida	1996	Robert Dole	Jack Kemp	Republican	2,244,536	42.32%	0 
+13	Georgia	1996	Robert Dole	Jack Kemp	Republican	1,080,843	47.01%	13 
+13	Georgia	1996	William Clinton	Albert Gore Jr.	Democratic	1,053,849	45.84%	0 
+15	Hawaii	1996	William Clinton	Albert Gore Jr.	Democratic	205,012	56.93%	4 
+15	Hawaii	1996	Robert Dole	Jack Kemp	Republican	113,943	31.64%	0 
+16	Idaho	1996	Robert Dole	Jack Kemp	Republican	256,595	52.18%	4 
+16	Idaho	1996	William Clinton	Albert Gore Jr.	Democratic	165,443	33.65%	0 
+17	Illinois	1996	William Clinton	Albert Gore Jr.	Democratic	2,341,744	54.32%	22 
+17	Illinois	1996	Robert Dole	Jack Kemp	Republican	1,587,021	36.81%	0 
+18	Indiana	1996	Robert Dole	Jack Kemp	Republican	1,006,693	47.13%	12 
+18	Indiana	1996	William Clinton	Albert Gore Jr.	Democratic	887,424	41.55%	0 
+19	Iowa	1996	William Clinton	Albert Gore Jr.	Democratic	620,258	50.26%	7 
+19	Iowa	1996	Robert Dole	Jack Kemp	Republican	492,644	39.92%	0 
+20	Kansas	1996	Robert Dole	Jack Kemp	Republican	583,245	54.29%	6 
+20	Kansas	1996	William Clinton	Albert Gore Jr.	Democratic	387,659	36.08%	0 
+21	Kentucky	1996	William Clinton	Albert Gore Jr.	Democratic	636,614	45.84%	8 
+21	Kentucky	1996	Robert Dole	Jack Kemp	Republican	623,283	44.88%	0 
+22	Louisiana	1996	William Clinton	Albert Gore Jr.	Democratic	927,837	52.01%	9 
+22	Louisiana	1996	Robert Dole	Jack Kemp	Republican	712,586	39.94%	0 
+23	Maine	1996	William Clinton	Albert Gore Jr.	Democratic	312,788	51.62%	4 
+23	Maine	1996	Robert Dole	Jack Kemp	Republican	186,378	30.76%	0 
+24	Maryland	1996	William Clinton	Albert Gore Jr.	Democratic	966,207	54.25%	10 
+24	Maryland	1996	Robert Dole	Jack Kemp	Republican	681,530	38.27%	0 
+25	Massachusetts	1996	William Clinton	Albert Gore Jr.	Democratic	1,571,763	61.47%	12 
+25	Massachusetts	1996	Robert Dole	Jack Kemp	Republican	718,107	28.09%	0 
+26	Michigan	1996	William Clinton	Albert Gore Jr.	Democratic	1,989,653	51.69%	18 
+26	Michigan	1996	Robert Dole	Jack Kemp	Republican	1,481,212	38.48%	0 
+27	Minnesota	1996	William Clinton	Albert Gore Jr.	Democratic-F.L.	1,120,438	51.10%	10 
+27	Minnesota	1996	Robert Dole	Jack Kemp	Republican	766,476	34.96%	0 
+28	Mississippi	1996	Robert Dole	Jack Kemp	Republican	439,838	49.21%	7 
+28	Mississippi	1996	William Clinton	Albert Gore Jr.	Democratic	394,022	44.08%	0 
+29	Missouri	1996	William Clinton	Albert Gore Jr.	Democratic	1,025,935	47.54%	11 
+29	Missouri	1996	Robert Dole	Jack Kemp	Republican	890,016	41.24%	0 
+30	Montana	1996	Robert Dole	Jack Kemp	Republican	179,652	44.11%	3 
+30	Montana	1996	William Clinton	Albert Gore Jr.	Democratic	167,922	41.23%	0 
+31	Nebraska	1996	Robert Dole	Jack Kemp	Republican	363,467	53.65%	5 
+31	Nebraska	1996	William Clinton	Albert Gore Jr.	Democratic	236,761	34.95%	0 
+32	Nevada	1996	William Clinton	Albert Gore Jr.	Democratic	203,974	43.93%	4 
+32	Nevada	1996	Robert Dole	Jack Kemp	Republican	199,244	42.91%	0 
+33	New Hampshire	1996	William Clinton	Albert Gore Jr.	Democratic	246,214	49.32%	4 
+33	New Hampshire	1996	Robert Dole	Jack Kemp	Republican	196,532	39.37%	0 
+34	New Jersey	1996	William Clinton	Albert Gore Jr.	Democratic	1,652,329	53.72%	15 
+34	New Jersey	1996	Robert Dole	Jack Kemp	Republican	1,103,078	35.86%	0 
+35	New Mexico	1996	William Clinton	Albert Gore Jr.	Democratic	273,495	49.18%	5 
+35	New Mexico	1996	Robert Dole	Jack Kemp	Republican	232,751	41.86%	0 
+36	New York	1996	William Clinton	Albert Gore Jr.	Democratic	3,756,177	59.47%	33 
+36	New York	1996	Robert Dole	Jack Kemp	Republican	1,933,492	30.61%	0 
+37	North Carolina	1996	Robert Dole	Jack Kemp	Republican	1,225,938	48.73%	14 
+37	North Carolina	1996	William Clinton	Albert Gore Jr.	Democratic	1,107,849	44.04%	0 
+38	North Dakota	1996	Robert Dole	Jack Kemp	Republican	125,050	46.94%	3 
+38	North Dakota	1996	William Clinton	Albert Gore Jr.	Democratic	106,905	40.13%	0 
+39	Ohio	1996	William Clinton	Albert Gore Jr.	Democratic	2,148,222	47.38%	21 
+39	Ohio	1996	Robert Dole	Jack Kemp	Republican	1,859,883	41.02%	0 
+40	Oklahoma	1996	Robert Dole	Jack Kemp	Republican	582,315	48.26%	8 
+40	Oklahoma	1996	William Clinton	Albert Gore Jr.	Democratic	488,105	40.45%	0 
+41	Oregon	1996	William Clinton	Albert Gore Jr.	Democratic	649,641	47.15%	7 
+41	Oregon	1996	Robert Dole	Jack Kemp	Republican	538,152	39.06%	0 
+42	Pennsylvania	1996	William Clinton	Albert Gore Jr.	Democratic	2,215,819	49.17%	23 
+42	Pennsylvania	1996	Robert Dole	Jack Kemp	Republican	1,801,169	39.97%	0 
+44	Rhode Island	1996	William Clinton	Albert Gore Jr.	Democratic	233,050	59.71%	4 
+44	Rhode Island	1996	Robert Dole	Jack Kemp	Republican	104,683	26.82%	0 
+45	South Carolina	1996	Robert Dole	Jack Kemp	Republican	573,458	49.89%	8 
+45	South Carolina	1996	William Clinton	Albert Gore Jr.	Democratic	504,051	43.85%	0 
+46	South Dakota	1996	Robert Dole	Jack Kemp	Republican	150,543	46.49%	3 
+46	South Dakota	1996	William Clinton	Albert Gore Jr.	Democratic	139,333	43.03%	0 
+47	Tennessee	1996	William Clinton	Albert Gore Jr.	Democratic	909,146	48.00%	11 
+47	Tennessee	1996	Robert Dole	Jack Kemp	Republican	863,530	45.59%	0 
+48	Texas	1996	Robert Dole	Jack Kemp	Republican	2,736,167	48.76%	32 
+48	Texas	1996	William Clinton	Albert Gore Jr.	Democratic	2,459,683	43.83%	0 
+49	Utah	1996	Robert Dole	Jack Kemp	Republican	361,911	54.37%	5 
+49	Utah	1996	William Clinton	Albert Gore Jr.	Democratic	221,633	33.30%	0 
+50	Vermont	1996	William Clinton	Albert Gore Jr.	Democratic	137,894	53.35%	3 
+50	Vermont	1996	Robert Dole	Jack Kemp	Republican	80,352	31.09%	0 
+51	Virginia	1996	Robert Dole	Jack Kemp	Republican	1,138,350	47.10%	13 
+51	Virginia	1996	William Clinton	Albert Gore Jr.	Democratic	1,091,060	45.15%	0 
+53	Washington	1996	William Clinton	Albert Gore Jr.	Democratic	1,123,323	49.84%	11 
+53	Washington	1996	Robert Dole	Jack Kemp	Republican	840,712	37.30%	0 
+54	West Virginia	1996	William Clinton	Albert Gore Jr.	Democratic	327,812	51.51%	5 
+54	West Virginia	1996	Robert Dole	Jack Kemp	Republican	233,946	36.76%	0 
+55	Wisconsin	1996	William Clinton	Albert Gore Jr.	Democratic	1,071,971	48.81%	11 
+55	Wisconsin	1996	Robert Dole	Jack Kemp	Republican	845,029	38.48%	0 
+56	Wyoming	1996	Robert Dole	Jack Kemp	Republican	105,388	49.81%	3 
+56	Wyoming	1996	William Clinton	Albert Gore Jr.	Democratic	77,934	36.84%	0 
+1	Alabama	1992	George Bush	J. Danforth Quayle	Republican	804,283	47.65%	9 
+1	Alabama	1992	William Clinton	Albert Gore Jr.	Democratic	690,080	40.88%	0 
+2	Alaska	1992	George Bush	J. Danforth Quayle	Republican	102,000	39.46%	3 
+2	Alaska	1992	William Clinton	Albert Gore Jr.	Democratic	78,294	30.29%	0 
+4	Arizona	1992	George Bush	J. Danforth Quayle	Republican	572,086	38.47%	8 
+4	Arizona	1992	William Clinton	Albert Gore Jr.	Democratic	543,050	36.52%	0 
+5	Arkansas	1992	William Clinton	Albert Gore Jr.	Democratic	505,823	53.21%	6 
+5	Arkansas	1992	George Bush	J. Danforth Quayle	Republican	337,324	35.48%	0 
+6	California	1992	William Clinton	Albert Gore Jr.	Democratic	5,121,325	46.01%	54 
+6	California	1992	George Bush	J. Danforth Quayle	Republican	3,630,574	32.61%	0 
+8	Colorado	1992	William Clinton	Albert Gore Jr.	Democratic	629,681	40.13%	8 
+8	Colorado	1992	George Bush	J. Danforth Quayle	Republican	562,850	35.87%	0 
+9	Connecticut	1992	William Clinton	Albert Gore Jr.	Democratic	682,318	42.21%	8 
+9	Connecticut	1992	George Bush	J. Danforth Quayle	Republican	578,313	35.78%	0 
+10	Delaware	1992	William Clinton	Albert Gore Jr.	Democratic	126,054	43.51%	3 
+10	Delaware	1992	George Bush	J. Danforth Quayle	Republican	102,313	35.31%	0 
+11	District of Columbia	1992	William Clinton	Albert Gore Jr.	Democratic	192,619	84.64%	3 
+11	District of Columbia	1992	George Bush	J. Danforth Quayle	Republican	20,698	9.10%	0 
+12	Florida	1992	George Bush	J. Danforth Quayle	Republican	2,173,310	40.89%	25 
+12	Florida	1992	William Clinton	Albert Gore Jr.	Democratic	2,072,698	39.00%	0 
+13	Georgia	1992	William Clinton	Albert Gore Jr.	Democratic	1,008,966	43.47%	13 
+13	Georgia	1992	George Bush	J. Danforth Quayle	Republican	995,252	42.88%	0 
+15	Hawaii	1992	William Clinton	Albert Gore Jr.	Democratic	179,310	48.09%	4 
+15	Hawaii	1992	George Bush	J. Danforth Quayle	Republican	136,822	36.70%	0 
+16	Idaho	1992	George Bush	J. Danforth Quayle	Republican	202,645	42.03%	4 
+16	Idaho	1992	William Clinton	Albert Gore Jr.	Democratic	137,013	28.42%	0 
+17	Illinois	1992	William Clinton	Albert Gore Jr.	Democratic	2,453,350	48.58%	22 
+17	Illinois	1992	George Bush	J. Danforth Quayle	Republican	1,734,096	34.34%	0 
+18	Indiana	1992	George Bush	J. Danforth Quayle	Republican	989,375	42.91%	12 
+18	Indiana	1992	William Clinton	Albert Gore Jr.	Democratic	848,420	36.79%	0 
+19	Iowa	1992	William Clinton	Albert Gore Jr.	Democratic	586,353	43.29%	7 
+19	Iowa	1992	George Bush	J. Danforth Quayle	Republican	504,891	37.27%	0 
+20	Kansas	1992	George Bush	J. Danforth Quayle	Republican	449,951	38.88%	6 
+20	Kansas	1992	William Clinton	Albert Gore Jr.	Democratic	390,434	33.74%	0 
+21	Kentucky	1992	William Clinton	Albert Gore Jr.	Democratic	665,104	44.55%	8 
+21	Kentucky	1992	George Bush	J. Danforth Quayle	Republican	617,178	41.34%	0 
+22	Louisiana	1992	William Clinton	Albert Gore Jr.	Democratic	815,971	45.58%	9 
+22	Louisiana	1992	George Bush	J. Danforth Quayle	Republican	733,386	40.97%	0 
+23	Maine	1992	William Clinton	Albert Gore Jr.	Democratic	263,420	38.77%	4 
+23	Maine	1992	H. Ross Perot	James Stockdale	Independent	206,820	30.44%	0 
+24	Maryland	1992	William Clinton	Albert Gore Jr.	Democratic	988,571	49.80%	10 
+24	Maryland	1992	George Bush	J. Danforth Quayle	Republican	707,094	35.62%	0 
+25	Massachusetts	1992	William Clinton	Albert Gore Jr.	Democratic	1,318,662	47.54%	12 
+25	Massachusetts	1992	George Bush	J. Danforth Quayle	Republican	805,049	29.03%	0 
+26	Michigan	1992	William Clinton	Albert Gore Jr.	Democratic	1,871,182	43.77%	18 
+26	Michigan	1992	George Bush	J. Danforth Quayle	Republican	1,554,940	36.38%	0 
+27	Minnesota	1992	William Clinton	Albert Gore Jr.	Democratic-F.L.	1,020,997	43.48%	10 
+27	Minnesota	1992	George Bush	J. Danforth Quayle	Republican	747,841	31.85%	0 
+28	Mississippi	1992	George Bush	J. Danforth Quayle	Republican	487,793	49.68%	7 
+28	Mississippi	1992	William Clinton	Albert Gore Jr.	Democratic	400,258	40.77%	0 
+29	Missouri	1992	William Clinton	Albert Gore Jr.	Democratic	1,053,873	44.07%	11 
+29	Missouri	1992	George Bush	J. Danforth Quayle	Republican	811,159	33.92%	0 
+30	Montana	1992	William Clinton	Albert Gore Jr.	Democratic	154,507	37.63%	3 
+30	Montana	1992	George Bush	J. Danforth Quayle	Republican	144,207	35.12%	0 
+31	Nebraska	1992	George Bush	J. Danforth Quayle	Republican	344,346	46.58%	5 
+31	Nebraska	1992	William Clinton	Albert Gore Jr.	Democratic	217,344	29.40%	0 
+32	Nevada	1992	William Clinton	Albert Gore Jr.	Democratic	189,148	37.36%	4 
+32	Nevada	1992	George Bush	J. Danforth Quayle	Republican	175,828	34.73%	0 
+33	New Hampshire	1992	William Clinton	Albert Gore Jr.	Democratic	209,040	38.86%	4 
+33	New Hampshire	1992	George Bush	J. Danforth Quayle	Republican	202,484	37.64%	0 
+34	New Jersey	1992	William Clinton	Albert Gore Jr.	Democratic	1,436,206	42.95%	15 
+34	New Jersey	1992	George Bush	J. Danforth Quayle	Republican	1,356,865	40.58%	0 
+35	New Mexico	1992	William Clinton	Albert Gore Jr.	Democratic	261,617	45.90%	5 
+35	New Mexico	1992	George Bush	J. Danforth Quayle	Republican	212,824	37.34%	0 
+36	New York	1992	William Clinton	Albert Gore Jr.	Democratic	3,444,450	49.73%	33 
+36	New York	1992	George Bush	J. Danforth Quayle	Republican	2,346,649	33.88%	0 
+37	North Carolina	1992	George Bush	J. Danforth Quayle	Republican	1,134,661	43.44%	14 
+37	North Carolina	1992	William Clinton	Albert Gore Jr.	Democratic	1,114,042	42.65%	0 
+38	North Dakota	1992	George Bush	J. Danforth Quayle	Republican	136,244	44.22%	3 
+38	North Dakota	1992	William Clinton	Albert Gore Jr.	Democratic	99,168	32.18%	0 
+39	Ohio	1992	William Clinton	Albert Gore Jr.	Democratic	1,984,942	40.18%	21 
+39	Ohio	1992	George Bush	J. Danforth Quayle	Republican	1,894,310	38.35%	0 
+40	Oklahoma	1992	George Bush	J. Danforth Quayle	Republican	592,929	42.65%	8 
+40	Oklahoma	1992	William Clinton	Albert Gore Jr.	Democratic	473,066	34.02%	0 
+41	Oregon	1992	William Clinton	Albert Gore Jr.	Democratic	621,314	42.48%	7 
+41	Oregon	1992	George Bush	J. Danforth Quayle	Republican	475,757	32.53%	0 
+42	Pennsylvania	1992	William Clinton	Albert Gore Jr.	Democratic	2,239,164	45.15%	23 
+42	Pennsylvania	1992	George Bush	J. Danforth Quayle	Republican	1,791,841	36.13%	0 
+44	Rhode Island	1992	William Clinton	Albert Gore Jr.	Democratic	213,299	47.04%	4 
+44	Rhode Island	1992	George Bush	J. Danforth Quayle	Republican	131,601	29.02%	0 
+45	South Carolina	1992	George Bush	J. Danforth Quayle	Republican	577,507	48.02%	8 
+45	South Carolina	1992	William Clinton	Albert Gore Jr.	Democratic	479,514	39.88%	0 
+46	South Dakota	1992	George Bush	J. Danforth Quayle	Republican	136,718	40.66%	3 
+46	South Dakota	1992	William Clinton	Albert Gore Jr.	Democratic	124,888	37.14%	0 
+47	Tennessee	1992	William Clinton	Albert Gore Jr.	Democratic	933,521	47.08%	11 
+47	Tennessee	1992	George Bush	J. Danforth Quayle	Republican	841,300	42.43%	0 
+48	Texas	1992	George Bush	J. Danforth Quayle	Republican	2,496,071	40.56%	32 
+48	Texas	1992	William Clinton	Albert Gore Jr.	Democratic	2,281,815	37.08%	0 
+49	Utah	1992	George Bush	J. Danforth Quayle	Republican	322,632	43.36%	5 
+49	Utah	1992	H. Ross Perot	James Stockdale	Independent	203,400	27.34%	0 
+50	Vermont	1992	William Clinton	Albert Gore Jr.	Democratic	133,592	46.11%	3 
+50	Vermont	1992	George Bush	J. Danforth Quayle	Republican	88,122	30.42%	0 
+51	Virginia	1992	George Bush	J. Danforth Quayle	Republican	1,150,517	44.97%	13 
+51	Virginia	1992	William Clinton	Albert Gore Jr.	Democratic	1,038,650	40.59%	0 
+53	Washington	1992	William Clinton	Albert Gore Jr.	Democratic	993,037	43.40%	11 
+53	Washington	1992	George Bush	J. Danforth Quayle	Republican	731,234	31.96%	0 
+54	West Virginia	1992	William Clinton	Albert Gore Jr.	Democratic	331,001	48.41%	5 
+54	West Virginia	1992	George Bush	J. Danforth Quayle	Republican	241,974	35.39%	0 
+55	Wisconsin	1992	William Clinton	Albert Gore Jr.	Democratic	1,041,066	41.13%	11 
+55	Wisconsin	1992	George Bush	J. Danforth Quayle	Republican	930,855	36.78%	0 
+56	Wyoming	1992	George Bush	J. Danforth Quayle	Republican	79,347	39.55%	3 
+56	Wyoming	1992	William Clinton	Albert Gore Jr.	Democratic	68,160	33.97%	0 
+1	Alabama	1988	George Bush	J. Danforth Quayle	Republican	815,576	59.17%	9 
+1	Alabama	1988	Michael Dukakis	Lloyd Bentsen	Democrat	549,506	39.86%	0 
+2	Alaska	1988	George Bush	J. Danforth Quayle	Republican	119,251	59.59%	3 
+2	Alaska	1988	Michael Dukakis	Lloyd Bentsen	Democrat	72,584	36.27%	0 
+4	Arizona	1988	George Bush	J. Danforth Quayle	Republican	702,541	59.95%	7 
+4	Arizona	1988	Michael Dukakis	Lloyd Bentsen	Democrat	454,029	38.74%	0 
+5	Arkansas	1988	George Bush	J. Danforth Quayle	Republican	466,578	56.37%	6 
+5	Arkansas	1988	Michael Dukakis	Lloyd Bentsen	Democrat	349,237	42.19%	0 
+6	California	1988	George Bush	J. Danforth Quayle	Republican	5,054,917	51.13%	47 
+6	California	1988	Michael Dukakis	Lloyd Bentsen	Democrat	4,702,233	47.56%	0 
+8	Colorado	1988	George Bush	J. Danforth Quayle	Republican	728,177	53.06%	8 
+8	Colorado	1988	Michael Dukakis	Lloyd Bentsen	Democrat	621,453	45.28%	0 
+9	Connecticut	1988	George Bush	J. Danforth Quayle	Republican	750,241	51.98%	8 
+9	Connecticut	1988	Michael Dukakis	Lloyd Bentsen	Democrat	676,584	46.87%	0 
+10	Delaware	1988	George Bush	J. Danforth Quayle	Republican	139,639	55.88%	3 
+10	Delaware	1988	Michael Dukakis	Lloyd Bentsen	Democrat	108,647	43.48%	0 
+11	District of Columbia	1988	Michael Dukakis	Lloyd Bentsen	Democrat	159,407	82.65%	3 
+11	District of Columbia	1988	George Bush	J. Danforth Quayle	Republican	27,590	14.30%	0 
+12	Florida	1988	George Bush	J. Danforth Quayle	Republican	2,618,885	60.87%	21 
+12	Florida	1988	Michael Dukakis	Lloyd Bentsen	Democrat	1,656,701	38.51%	0 
+13	Georgia	1988	George Bush	J. Danforth Quayle	Republican	1,081,331	59.75%	12 
+13	Georgia	1988	Michael Dukakis	Lloyd Bentsen	Democrat	714,792	39.50%	0 
+15	Hawaii	1988	Michael Dukakis	Lloyd Bentsen	Democrat	192,364	54.27%	4 
+15	Hawaii	1988	George Bush	J. Danforth Quayle	Republican	158,625	44.75%	0 
+16	Idaho	1988	George Bush	J. Danforth Quayle	Republican	253,881	62.08%	4 
+16	Idaho	1988	Michael Dukakis	Lloyd Bentsen	Democrat	147,272	36.01%	0 
+17	Illinois	1988	George Bush	J. Danforth Quayle	Republican	2,310,939	50.69%	24 
+17	Illinois	1988	Michael Dukakis	Lloyd Bentsen	Democrat	2,215,940	48.60%	0 
+18	Indiana	1988	George Bush	J. Danforth Quayle	Republican	1,297,763	59.84%	12 
+18	Indiana	1988	Michael Dukakis	Lloyd Bentsen	Democrat	860,643	39.69%	0 
+19	Iowa	1988	Michael Dukakis	Lloyd Bentsen	Democrat	670,557	54.71%	8 
+19	Iowa	1988	George Bush	J. Danforth Quayle	Republican	545,355	44.50%	0 
+20	Kansas	1988	George Bush	J. Danforth Quayle	Republican	554,049	55.79%	7 
+20	Kansas	1988	Michael Dukakis	Lloyd Bentsen	Democrat	422,636	42.56%	0 
+21	Kentucky	1988	George Bush	J. Danforth Quayle	Republican	734,281	55.52%	9 
+21	Kentucky	1988	Michael Dukakis	Lloyd Bentsen	Democrat	580,368	43.88%	0 
+22	Louisiana	1988	George Bush	J. Danforth Quayle	Republican	883,702	54.27%	10 
+22	Louisiana	1988	Michael Dukakis	Lloyd Bentsen	Democrat	717,460	44.06%	0 
+23	Maine	1988	George Bush	J. Danforth Quayle	Republican	307,131	55.34%	4 
+23	Maine	1988	Michael Dukakis	Lloyd Bentsen	Democrat	243,569	43.88%	0 
+24	Maryland	1988	George Bush	J. Danforth Quayle	Republican	876,167	51.11%	10 
+24	Maryland	1988	Michael Dukakis	Lloyd Bentsen	Democrat	826,304	48.20%	0 
+25	Massachusetts	1988	Michael Dukakis	Lloyd Bentsen	Democrat	1,401,406	53.23%	13 
+25	Massachusetts	1988	George Bush	J. Danforth Quayle	Republican	1,194,644	45.38%	0 
+26	Michigan	1988	George Bush	J. Danforth Quayle	Republican	1,965,486	53.57%	20 
+26	Michigan	1988	Michael Dukakis	Lloyd Bentsen	Democrat	1,675,783	45.67%	0 
+27	Minnesota	1988	Michael Dukakis	Lloyd Bentsen	Democrat-F.L.	1,109,471	52.91%	10 
+27	Minnesota	1988	George Bush	J. Danforth Quayle	Ind. Republican	962,337	45.90%	0 
+28	Mississippi	1988	George Bush	J. Danforth Quayle	Republican	557,890	59.89%	7 
+28	Mississippi	1988	Michael Dukakis	Lloyd Bentsen	Democrat	363,921	39.07%	0 
+29	Missouri	1988	George Bush	J. Danforth Quayle	Republican	1,084,953	51.83%	11 
+29	Missouri	1988	Michael Dukakis	Lloyd Bentsen	Democrat	1,001,619	47.85%	0 
+30	Montana	1988	George Bush	J. Danforth Quayle	Republican	190,412	52.07%	4 
+30	Montana	1988	Michael Dukakis	Lloyd Bentsen	Democrat	168,936	46.20%	0 
+31	Nebraska	1988	George Bush	J. Danforth Quayle	Republican	398,447	60.15%	5 
+31	Nebraska	1988	Michael Dukakis	Lloyd Bentsen	Democrat	259,646	39.20%	0 
+32	Nevada	1988	George Bush	J. Danforth Quayle	Republican	206,040	58.86%	4 
+32	Nevada	1988	Michael Dukakis	Lloyd Bentsen	Democrat	132,738	37.92%	0 
+33	New Hampshire	1988	George Bush	J. Danforth Quayle	Republican	281,537	62.49%	4 
+33	New Hampshire	1988	Michael Dukakis	Lloyd Bentsen	Democrat	163,696	36.33%	0 
+34	New Jersey	1988	George Bush	J. Danforth Quayle	Republican	1,743,192	56.24%	16 
+34	New Jersey	1988	Michael Dukakis	Lloyd Bentsen	Democrat	1,320,352	42.60%	0 
+35	New Mexico	1988	George Bush	J. Danforth Quayle	Republican	270,341	51.86%	5 
+35	New Mexico	1988	Michael Dukakis	Lloyd Bentsen	Democrat	244,497	46.90%	0 
+36	New York	1988	Michael Dukakis	Lloyd Bentsen	Democrat	3,347,882	51.62%	36 
+36	New York	1988	George Bush	J. Danforth Quayle	Republican	3,081,871	47.52%	0 
+37	North Carolina	1988	George Bush	J. Danforth Quayle	Republican	1,237,258	57.97%	13 
+37	North Carolina	1988	Michael Dukakis	Lloyd Bentsen	Democrat	890,167	41.71%	0 
+38	North Dakota	1988	George Bush	J. Danforth Quayle	Republican	166,559	56.03%	3 
+38	North Dakota	1988	Michael Dukakis	Lloyd Bentsen	Democrat	127,739	42.97%	0 
+39	Ohio	1988	George Bush	J. Danforth Quayle	Republican	2,416,549	55.00%	23 
+39	Ohio	1988	Michael Dukakis	Lloyd Bentsen	Democrat	1,939,629	44.15%	0 
+40	Oklahoma	1988	George Bush	J. Danforth Quayle	Republican	678,367	57.93%	8 
+40	Oklahoma	1988	Michael Dukakis	Lloyd Bentsen	Democrat	483,423	41.28%	0 
+41	Oregon	1988	Michael Dukakis	Lloyd Bentsen	Democrat	616,206	51.28%	7 
+41	Oregon	1988	George Bush	J. Danforth Quayle	Republican	560,126	46.61%	0 
+42	Pennsylvania	1988	George Bush	J. Danforth Quayle	Republican	2,300,087	50.70%	25 
+42	Pennsylvania	1988	Michael Dukakis	Lloyd Bentsen	Democrat	2,194,944	48.39%	0 
+44	Rhode Island	1988	Michael Dukakis	Lloyd Bentsen	Democrat	225,123	55.64%	4 
+44	Rhode Island	1988	George Bush	J. Danforth Quayle	Republican	177,761	43.93%	0 
+45	South Carolina	1988	George Bush	J. Danforth Quayle	Republican	606,443	61.50%	8 
+45	South Carolina	1988	Michael Dukakis	Lloyd Bentsen	Democrat	370,554	37.58%	0 
+46	South Dakota	1988	George Bush	J. Danforth Quayle	Republican	165,415	52.85%	3 
+46	South Dakota	1988	Michael Dukakis	Lloyd Bentsen	Democrat	145,560	46.51%	0 
+47	Tennessee	1988	George Bush	J. Danforth Quayle	Republican	947,233	57.89%	11 
+47	Tennessee	1988	Michael Dukakis	Lloyd Bentsen	Democrat	679,794	41.55%	0 
+48	Texas	1988	George Bush	J. Danforth Quayle	Republican	3,036,829	55.95%	29 
+48	Texas	1988	Michael Dukakis	Lloyd Bentsen	Democrat	2,352,748	43.35%	0 
+49	Utah	1988	George Bush	J. Danforth Quayle	Republican	428,442	66.22%	5 
+49	Utah	1988	Michael Dukakis	Lloyd Bentsen	Democrat	207,343	32.05%	0 
+50	Vermont	1988	George Bush	J. Danforth Quayle	Republican	124,331	51.10%	3 
+50	Vermont	1988	Michael Dukakis	Lloyd Bentsen	Democrat	115,775	47.58%	0 
+51	Virginia	1988	George Bush	J. Danforth Quayle	Republican	1,309,162	59.74%	12 
+51	Virginia	1988	Michael Dukakis	Lloyd Bentsen	Democrat	859,799	39.23%	0 
+53	Washington	1988	Michael Dukakis	Lloyd Bentsen	Democrat	933,516	50.05%	10 
+53	Washington	1988	George Bush	J. Danforth Quayle	Republican	903,835	48.46%	0 
+54	West Virginia	1988	Michael Dukakis	Lloyd Bentsen	Democrat	341,016	52.20%	5 
+54	West Virginia	1988	George Bush	J. Danforth Quayle	Republican	310,065	47.46%	0 
+55	Wisconsin	1988	Michael Dukakis	Lloyd Bentsen	Democrat	1,126,794	51.41%	11 
+55	Wisconsin	1988	George Bush	J. Danforth Quayle	Republican	1,047,499	47.80%	0 
+56	Wyoming	1988	George Bush	J. Danforth Quayle	Republican	106,867	60.53%	3 
+56	Wyoming	1988	Michael Dukakis	Lloyd Bentsen	Democrat	67,113	38.01%	0 
+1	Alabama	1984	Ronald Reagan	George Bush	Republican	872,849	60.54%	9 
+1	Alabama	1984	Walter Mondale	Geraldine Ferraro	Democrat	551,899	38.28%	0 
+2	Alaska	1984	Ronald Reagan	George Bush	Republican	138,377	66.65%	3 
+2	Alaska	1984	Walter Mondale	Geraldine Ferraro	Democrat	62,007	29.87%	0 
+4	Arizona	1984	Ronald Reagan	George Bush	Republican	681,416	66.42%	7 
+4	Arizona	1984	Walter Mondale	Geraldine Ferraro	Democrat	333,854	32.54%	0 
+5	Arkansas	1984	Ronald Reagan	George Bush	Republican	534,774	60.47%	6 
+5	Arkansas	1984	Walter Mondale	Geraldine Ferraro	Democrat	338,646	38.29%	0 
+6	California	1984	Ronald Reagan	George Bush	Republican	5,467,009	57.51%	47 
+6	California	1984	Walter Mondale	Geraldine Ferraro	Democrat	3,922,519	41.27%	0 
+8	Colorado	1984	Ronald Reagan	George Bush	Republican	821,818	63.44%	8 
+8	Colorado	1984	Walter Mondale	Geraldine Ferraro	Democrat	454,974	35.12%	0 
+9	Connecticut	1984	Ronald Reagan	George Bush	Republican	890,877	60.73%	8 
+9	Connecticut	1984	Walter Mondale	Geraldine Ferraro	Democrat	569,597	38.83%	0 
+10	Delaware	1984	Ronald Reagan	George Bush	Republican	152,190	59.78%	3 
+10	Delaware	1984	Walter Mondale	Geraldine Ferraro	Democrat	101,656	39.93%	0 
+11	District of Columbia	1984	Walter Mondale	Geraldine Ferraro	Democrat	180,408	85.38%	3 
+11	District of Columbia	1984	Ronald Reagan	George Bush	Republican	29,009	13.73%	0 
+12	Florida	1984	Ronald Reagan	George Bush	Republican	2,730,350	65.32%	21 
+12	Florida	1984	Walter Mondale	Geraldine Ferraro	Democrat	1,448,816	34.66%	0 
+13	Georgia	1984	Ronald Reagan	George Bush	Republican	1,068,722	60.17%	12 
+13	Georgia	1984	Walter Mondale	Geraldine Ferraro	Democrat	706,628	39.79%	0 
+15	Hawaii	1984	Ronald Reagan	George Bush	Republican	185,050	55.10%	4 
+15	Hawaii	1984	Walter Mondale	Geraldine Ferraro	Democrat	147,154	43.82%	0 
+16	Idaho	1984	Ronald Reagan	George Bush	Republican	297,523	72.36%	4 
+16	Idaho	1984	Walter Mondale	Geraldine Ferraro	Democrat	108,510	26.39%	0 
+17	Illinois	1984	Ronald Reagan	George Bush	Republican	2,707,103	56.17%	24 
+17	Illinois	1984	Walter Mondale	Geraldine Ferraro	Democrat	2,086,499	43.30%	0 
+18	Indiana	1984	Ronald Reagan	George Bush	Republican	1,377,230	61.67%	12 
+18	Indiana	1984	Walter Mondale	Geraldine Ferraro	Democrat	841,481	37.68%	0 
+19	Iowa	1984	Ronald Reagan	George Bush	Republican	703,088	53.27%	8 
+19	Iowa	1984	Walter Mondale	Geraldine Ferraro	Democrat	605,620	45.89%	0 
+20	Kansas	1984	Ronald Reagan	George Bush	Republican	677,296	66.27%	7 
+20	Kansas	1984	Walter Mondale	Geraldine Ferraro	Democrat	333,149	32.60%	0 
+21	Kentucky	1984	Ronald Reagan	George Bush	Republican	822,782	60.04%	9 
+21	Kentucky	1984	Walter Mondale	Geraldine Ferraro	Democrat	539,589	39.37%	0 
+22	Louisiana	1984	Ronald Reagan	George Bush	Republican	1,037,299	60.77%	10 
+22	Louisiana	1984	Walter Mondale	Geraldine Ferraro	Democrat	651,586	38.18%	0 
+23	Maine	1984	Ronald Reagan	George Bush	Republican	336,500	60.83%	4 
+23	Maine	1984	Walter Mondale	Geraldine Ferraro	Democrat	214,515	38.78%	0 
+24	Maryland	1984	Ronald Reagan	George Bush	Republican	879,918	52.51%	10 
+24	Maryland	1984	Walter Mondale	Geraldine Ferraro	Democrat	787,935	47.02%	0 
+25	Massachusetts	1984	Ronald Reagan	George Bush	Republican	1,310,936	51.22%	13 
+25	Massachusetts	1984	Walter Mondale	Geraldine Ferraro	Democrat	1,239,606	48.43%	0 
+26	Michigan	1984	Ronald Reagan	George Bush	Republican	2,251,571	59.23%	20 
+26	Michigan	1984	Walter Mondale	Geraldine Ferraro	Democrat	1,529,638	40.24%	0 
+27	Minnesota	1984	Walter Mondale	Geraldine Ferraro	Democrat-F.L.	1,036,364	49.72%	10 
+27	Minnesota	1984	Ronald Reagan	George Bush	Ind. Republican	1,032,603	49.54%	0 
+28	Mississippi	1984	Ronald Reagan	George Bush	Republican	581,477	61.85%	7 
+28	Mississippi	1984	Walter Mondale	Geraldine Ferraro	Democrat	352,192	37.46%	0 
+29	Missouri	1984	Ronald Reagan	George Bush	Republican	1,274,188	60.02%	11 
+29	Missouri	1984	Walter Mondale	Geraldine Ferraro	Democrat	848,583	39.98%	0 
+30	Montana	1984	Ronald Reagan	George Bush	Republican	232,450	60.47%	4 
+30	Montana	1984	Walter Mondale	Geraldine Ferraro	Democrat	146,742	38.18%	0 
+31	Nebraska	1984	Ronald Reagan	George Bush	Republican	460,054	70.55%	5 
+31	Nebraska	1984	Walter Mondale	Geraldine Ferraro	Democrat	187,866	28.81%	0 
+32	Nevada	1984	Ronald Reagan	George Bush	Republican	188,770	65.85%	4 
+32	Nevada	1984	Walter Mondale	Geraldine Ferraro	Democrat	91,655	31.97%	0 
+33	New Hampshire	1984	Ronald Reagan	George Bush	Republican	267,051	68.66%	4 
+33	New Hampshire	1984	Walter Mondale	Geraldine Ferraro	Democrat	120,395	30.95%	0 
+34	New Jersey	1984	Ronald Reagan	George Bush	Republican	1,933,630	60.09%	16 
+34	New Jersey	1984	Walter Mondale	Geraldine Ferraro	Democrat	1,261,323	39.20%	0 
+35	New Mexico	1984	Ronald Reagan	George Bush	Republican	307,101	59.70%	5 
+35	New Mexico	1984	Walter Mondale	Geraldine Ferraro	Democrat	201,769	39.23%	0 
+36	New York	1984	Ronald Reagan	George Bush	Republican	3,664,763	53.84%	36 
+36	New York	1984	Walter Mondale	Geraldine Ferraro	Democrat	3,119,609	45.83%	0 
+37	North Carolina	1984	Ronald Reagan	George Bush	Republican	1,346,481	61.90%	13 
+37	North Carolina	1984	Walter Mondale	Geraldine Ferraro	Democrat	824,287	37.89%	0 
+38	North Dakota	1984	Ronald Reagan	George Bush	Republican	200,336	64.84%	3 
+38	North Dakota	1984	Walter Mondale	Geraldine Ferraro	Democrat	104,429	33.80%	0 
+39	Ohio	1984	Ronald Reagan	George Bush	Republican	2,678,560	58.90%	23 
+39	Ohio	1984	Walter Mondale	Geraldine Ferraro	Democrat	1,825,440	40.14%	0 
+40	Oklahoma	1984	Ronald Reagan	George Bush	Republican	861,530	68.61%	8 
+40	Oklahoma	1984	Walter Mondale	Geraldine Ferraro	Democrat	385,080	30.67%	0 
+41	Oregon	1984	Ronald Reagan	George Bush	Republican	685,700	55.91%	7 
+41	Oregon	1984	Walter Mondale	Geraldine Ferraro	Democrat	536,479	43.74%	0 
+42	Pennsylvania	1984	Ronald Reagan	George Bush	Republican	2,584,323	53.34%	25 
+42	Pennsylvania	1984	Walter Mondale	Geraldine Ferraro	Democrat	2,228,131	45.99%	0 
+44	Rhode Island	1984	Ronald Reagan	George Bush	Republican	212,080	51.66%	4 
+44	Rhode Island	1984	Walter Mondale	Geraldine Ferraro	Democrat	197,106	48.02%	0 
+45	South Carolina	1984	Ronald Reagan	George Bush	Republican	615,539	63.55%	8 
+45	South Carolina	1984	Walter Mondale	Geraldine Ferraro	Democrat	344,470	35.57%	0 
+46	South Dakota	1984	Ronald Reagan	George Bush	Republican	200,267	63.00%	3 
+46	South Dakota	1984	Walter Mondale	Geraldine Ferraro	Democrat	116,113	36.53%	0 
+47	Tennessee	1984	Ronald Reagan	George Bush	Republican	990,212	57.84%	11 
+47	Tennessee	1984	Walter Mondale	Geraldine Ferraro	Democrat	711,714	41.57%	0 
+48	Texas	1984	Ronald Reagan	George Bush	Republican	3,433,428	63.61%	29 
+48	Texas	1984	Walter Mondale	Geraldine Ferraro	Democrat	1,949,276	36.11%	0 
+49	Utah	1984	Ronald Reagan	George Bush	Republican	469,105	74.50%	5 
+49	Utah	1984	Walter Mondale	Geraldine Ferraro	Democrat	155,369	24.68%	0 
+50	Vermont	1984	Ronald Reagan	George Bush	Republican	135,865	57.92%	3 
+50	Vermont	1984	Walter Mondale	Geraldine Ferraro	Democrat	95,730	40.81%	0 
+51	Virginia	1984	Ronald Reagan	George Bush	Republican	1,337,078	62.29%	12 
+51	Virginia	1984	Walter Mondale	Geraldine Ferraro	Democrat	796,250	37.09%	0 
+53	Washington	1984	Ronald Reagan	George Bush	Republican	1,051,670	55.82%	10 
+53	Washington	1984	Walter Mondale	Geraldine Ferraro	Democrat	807,352	42.86%	0 
+54	West Virginia	1984	Ronald Reagan	George Bush	Republican	405,483	55.11%	6 
+54	West Virginia	1984	Walter Mondale	Geraldine Ferraro	Democrat	328,125	44.60%	0 
+55	Wisconsin	1984	Ronald Reagan	George Bush	Republican	1,198,800	54.19%	11 
+55	Wisconsin	1984	Walter Mondale	Geraldine Ferraro	Democrat	995,847	45.02%	0 
+56	Wyoming	1984	Ronald Reagan	George Bush	Republican	133,241	70.51%	3 
+56	Wyoming	1984	Walter Mondale	Geraldine Ferraro	Democrat	53,370	28.24%	0 
+1	Alabama	1980	Ronald Reagan	George Bush	Republican	654,192	48.75%	9 
+1	Alabama	1980	James Carter	Walter Mondale	Democrat	636,730	47.45%	0 
+2	Alaska	1980	Ronald Reagan	George Bush	Republican	86,112	54.35%	3 
+2	Alaska	1980	James Carter	Walter Mondale	Democrat	41,842	26.41%	0 
+4	Arizona	1980	Ronald Reagan	George Bush	Republican	529,688	60.61%	6 
+4	Arizona	1980	James Carter	Walter Mondale	Democrat	246,843	28.24%	0 
+5	Arkansas	1980	Ronald Reagan	George Bush	Republican	403,164	48.13%	6 
+5	Arkansas	1980	James Carter	Walter Mondale	Democrat	398,041	47.52%	0 
+6	California	1980	Ronald Reagan	George Bush	Republican	4,524,858	52.69%	45 
+6	California	1980	James Carter	Walter Mondale	Democrat	3,083,661	35.91%	0 
+8	Colorado	1980	Ronald Reagan	George Bush	Republican	652,264	55.07%	7 
+8	Colorado	1980	James Carter	Walter Mondale	Democrat	367,973	31.07%	0 
+9	Connecticut	1980	Ronald Reagan	George Bush	Republican	677,210	48.16%	8 
+9	Connecticut	1980	James Carter	Walter Mondale	Democrat	541,732	38.52%	0 
+10	Delaware	1980	Ronald Reagan	George Bush	Republican	111,252	47.21%	3 
+10	Delaware	1980	James Carter	Walter Mondale	Democrat	105,754	44.87%	0 
+11	District of Columbia	1980	James Carter	Walter Mondale	Democrat	130,231	74.89%	3 
+11	District of Columbia	1980	Ronald Reagan	George Bush	Republican	23,313	13.41%	0 
+12	Florida	1980	Ronald Reagan	George Bush	Republican	2,046,951	55.52%	17 
+12	Florida	1980	James Carter	Walter Mondale	Democrat	1,419,475	38.50%	0 
+13	Georgia	1980	James Carter	Walter Mondale	Democrat	890,733	55.76%	12 
+13	Georgia	1980	Ronald Reagan	George Bush	Republican	654,168	40.95%	0 
+15	Hawaii	1980	James Carter	Walter Mondale	Democrat	135,879	44.80%	4 
+15	Hawaii	1980	Ronald Reagan	George Bush	Republican	130,112	42.90%	0 
+16	Idaho	1980	Ronald Reagan	George Bush	Republican	290,699	66.46%	4 
+16	Idaho	1980	James Carter	Walter Mondale	Democrat	110,192	25.19%	0 
+17	Illinois	1980	Ronald Reagan	George Bush	Republican	2,358,049	49.65%	26 
+17	Illinois	1980	James Carter	Walter Mondale	Democrat	1,981,413	41.72%	0 
+18	Indiana	1980	Ronald Reagan	George Bush	Republican	1,255,656	56.01%	13 
+18	Indiana	1980	James Carter	Walter Mondale	Democrat	844,197	37.65%	0 
+19	Iowa	1980	Ronald Reagan	George Bush	Republican	676,026	51.31%	8 
+19	Iowa	1980	James Carter	Walter Mondale	Democrat	508,672	38.60%	0 
+20	Kansas	1980	Ronald Reagan	George Bush	Republican	566,812	57.85%	7 
+20	Kansas	1980	James Carter	Walter Mondale	Democrat	326,150	33.29%	0 
+21	Kentucky	1980	Ronald Reagan	George Bush	Republican	635,274	49.07%	9 
+21	Kentucky	1980	James Carter	Walter Mondale	Democrat	616,417	47.61%	0 
+22	Louisiana	1980	Ronald Reagan	George Bush	Republican	792,853	51.20%	10 
+22	Louisiana	1980	James Carter	Walter Mondale	Democrat	708,453	45.75%	0 
+23	Maine	1980	Ronald Reagan	George Bush	Republican	238,522	45.61%	4 
+23	Maine	1980	James Carter	Walter Mondale	Democrat	220,974	42.25%	0 
+24	Maryland	1980	James Carter	Walter Mondale	Democrat	726,161	47.14%	10 
+24	Maryland	1980	Ronald Reagan	George Bush	Republican	680,606	44.18%	0 
+25	Massachusetts	1980	Ronald Reagan	George Bush	Republican	1,057,631	41.90%	14 
+25	Massachusetts	1980	James Carter	Walter Mondale	Democrat	1,053,802	41.75%	0 
+26	Michigan	1980	Ronald Reagan	George Bush	Republican	1,915,225	48.99%	21 
+26	Michigan	1980	James Carter	Walter Mondale	Democrat	1,661,532	42.50%	0 
+27	Minnesota	1980	James Carter	Walter Mondale	Democrat-F.L.	954,174	46.50%	10 
+27	Minnesota	1980	Ronald Reagan	George Bush	Republican	873,241	42.56%	0 
+28	Mississippi	1980	Ronald Reagan	George Bush	Republican	441,089	49.42%	7 
+28	Mississippi	1980	James Carter	Walter Mondale	Democrat	429,281	48.09%	0 
+29	Missouri	1980	Ronald Reagan	George Bush	Republican	1,074,181	51.16%	12 
+29	Missouri	1980	James Carter	Walter Mondale	Democrat	931,182	44.35%	0 
+30	Montana	1980	Ronald Reagan	George Bush	Republican	206,814	56.82%	4 
+30	Montana	1980	James Carter	Walter Mondale	Democrat	118,032	32.43%	0 
+31	Nebraska	1980	Ronald Reagan	George Bush	Republican	419,937	65.53%	5 
+31	Nebraska	1980	James Carter	Walter Mondale	Democrat	166,851	26.04%	0 
+32	Nevada	1980	Ronald Reagan	George Bush	Republican	155,017	62.54%	3 
+32	Nevada	1980	James Carter	Walter Mondale	Democrat	66,666	26.89%	0 
+33	New Hampshire	1980	Ronald Reagan	George Bush	Republican	221,705	57.74%	4 
+33	New Hampshire	1980	James Carter	Walter Mondale	Democrat	108,864	28.35%	0 
+34	New Jersey	1980	Ronald Reagan	George Bush	Republican	1,546,557	51.97%	17 
+34	New Jersey	1980	James Carter	Walter Mondale	Democrat	1,147,364	38.56%	0 
+35	New Mexico	1980	Ronald Reagan	George Bush	Republican	250,779	54.97%	4 
+35	New Mexico	1980	James Carter	Walter Mondale	Democrat	167,826	36.78%	0 
+36	New York	1980	Ronald Reagan	George Bush	Republican	2,893,831	46.66%	41 
+36	New York	1980	James Carter	Walter Mondale	Democrat	2,728,372	43.99%	0 
+37	North Carolina	1980	Ronald Reagan	George Bush	Republican	915,018	49.30%	13 
+37	North Carolina	1980	James Carter	Walter Mondale	Democrat	875,635	47.18%	0 
+38	North Dakota	1980	Ronald Reagan	George Bush	Republican	193,695	64.23%	3 
+38	North Dakota	1980	James Carter	Walter Mondale	Democrat	79,189	26.26%	0 
+39	Ohio	1980	Ronald Reagan	George Bush	Republican	2,206,545	51.51%	25 
+39	Ohio	1980	James Carter	Walter Mondale	Democrat	1,752,414	40.91%	0 
+40	Oklahoma	1980	Ronald Reagan	George Bush	Republican	695,570	60.50%	8 
+40	Oklahoma	1980	James Carter	Walter Mondale	Democrat	402,026	34.97%	0 
+41	Oregon	1980	Ronald Reagan	George Bush	Republican	571,044	48.33%	6 
+41	Oregon	1980	James Carter	Walter Mondale	Democrat	456,890	38.67%	0 
+42	Pennsylvania	1980	Ronald Reagan	George Bush	Republican	2,261,872	49.59%	27 
+42	Pennsylvania	1980	James Carter	Walter Mondale	Democrat	1,937,540	42.48%	0 
+44	Rhode Island	1980	James Carter	Walter Mondale	Democrat	198,342	47.67%	4 
+44	Rhode Island	1980	Ronald Reagan	George Bush	Republican	154,793	37.20%	0 
+45	South Carolina	1980	Ronald Reagan	George Bush	Republican	441,207	49.57%	8 
+45	South Carolina	1980	James Carter	Walter Mondale	Democrat	427,560	48.04%	0 
+46	South Dakota	1980	Ronald Reagan	George Bush	Republican	198,343	60.53%	4 
+46	South Dakota	1980	James Carter	Walter Mondale	Democrat	103,855	31.69%	0 
+47	Tennessee	1980	Ronald Reagan	George Bush	Republican	787,761	48.70%	10 
+47	Tennessee	1980	James Carter	Walter Mondale	Democrat	783,051	48.41%	0 
+48	Texas	1980	Ronald Reagan	George Bush	Republican	2,510,705	55.28%	26 
+48	Texas	1980	James Carter	Walter Mondale	Democrat	1,881,147	41.42%	0 
+49	Utah	1980	Ronald Reagan	George Bush	Republican	439,687	72.77%	4 
+49	Utah	1980	James Carter	Walter Mondale	Democrat	124,266	20.57%	0 
+50	Vermont	1980	Ronald Reagan	George Bush	Republican	94,598	44.37%	3 
+50	Vermont	1980	James Carter	Walter Mondale	Democrat	81,891	38.41%	0 
+51	Virginia	1980	Ronald Reagan	George Bush	Republican	989,609	53.03%	12 
+51	Virginia	1980	James Carter	Walter Mondale	Democrat	752,174	40.31%	0 
+53	Washington	1980	Ronald Reagan	George Bush	Republican	865,244	49.66%	9 
+53	Washington	1980	James Carter	Walter Mondale	Democrat	650,193	37.32%	0 
+54	West Virginia	1980	James Carter	Walter Mondale	Democrat	367,462	49.81%	6 
+54	West Virginia	1980	Ronald Reagan	George Bush	Republican	334,206	45.30%	0 
+55	Wisconsin	1980	Ronald Reagan	George Bush	Republican	1,088,845	47.90%	11 
+55	Wisconsin	1980	James Carter	Walter Mondale	Democrat	981,584	43.18%	0 
+56	Wyoming	1980	Ronald Reagan	George Bush	Republican	110,700	62.64%	3 
+56	Wyoming	1980	James Carter	Walter Mondale	Democrat	49,427	27.97%	0 
