@@ -1,3 +1,5 @@
+library(nlme)
+
 # granular functions since I'm having trouble with the group applies
 getBestFitM <- function(vals){
   thisfit=lm(as.matrix(vals[2])~as.matrix(vals[1]))
@@ -26,6 +28,10 @@ evdat =  read.table("data/ev.state.fips.txt", sep="\t", header=TRUE)
 
 # just git (D) votes, reduce redundacy
 t=tdat[tdat$party=="Democratic",]
+
+# for "predicing" 2012
+#t=t[t$year<"2012",]
+
 df = t[,c(1,3,10)]
 df[df$fips==1,]
 
@@ -47,7 +53,7 @@ bm=cbind(b,m)
   preds=pyear*bm[,2]+bm[,1]
   
   # shape data for montecarlo
-  nruns=100000
+  nruns=1000000
   nps=cbind(rep(nruns,length(s)),preds,s) # number of runs, means and errs on each state
   
   # run monte carlo
@@ -93,9 +99,9 @@ hist(evsums,breaks=breaks, main="", xlab="Democratic Electoral Votes", ylab="", 
   abline(v=towin,lwd=2,col="black")
   datestamp = format(Sys.time(), "%B %d %Y")
   title(main=paste("Projected",pyear,"Electoral Vote Distribution\nMonte Carlo Based on State Trends 1952-2012"))
-  text(xmin+50,0.95*ymax,pos=2,paste("P(R win) = ",pR,"%",sep=""))
-  text(xmin+50,0.85*ymax,pos=2,paste("P(D win) = ",pD,"%",sep=""))
-  text(xmax-50,0.95*ymax,pos=4,paste("number of runs = ",nruns,sep=""))
+  text(xmin+120,0.95*ymax,pos=2,paste("P(R win) = ",pR,"%",sep=""))
+  text(xmin+120,0.85*ymax,pos=2,paste("P(D win) = ",pD,"%",sep=""))
+  text(xmax-120,0.95*ymax,pos=4,paste("number of runs = ",nruns,sep=""))
   #text(220,0.75*ymax,pos=4,paste("includes",bias,"polling bias adj"))
   mtext(paste("http://rhinohide.wordpress.com",format(Sys.time(), "%Y%m%d %H%M")), 4, side=1, adj=1, cex=0.7, col="dark gray")
   mtext("Data: US Elections Atlas", 4, side=1, adj=0, cex=0.7, col="dark gray")
