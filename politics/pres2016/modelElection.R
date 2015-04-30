@@ -29,8 +29,9 @@ evdat =  read.table("data/ev.state.fips.txt", sep="\t", header=TRUE)
 # just git (D) votes, reduce redundacy
 t=tdat[tdat$party=="Democratic",]
 
-# for "predicing" 2012
-#t=t[t$year<"2012",]
+# use for "predicting" past elections
+pyear=2016
+t=t[t$year<pyear,]
 
 df = t[,c(1,3,10)]
 df[df$fips==1,]
@@ -49,7 +50,6 @@ bm=cbind(b,m)
 #i=0
 #for (pyear in x) {
 #  i=i+1
-  pyear=2016
   preds=pyear*bm[,2]+bm[,1]
   
   # shape data for montecarlo
@@ -98,7 +98,7 @@ pR=100*sum(evsums<towin)/nruns
 hist(evsums,breaks=breaks, main="", xlab="Democratic Electoral Votes", ylab="", freq=F, col=c(rep("red",windex),"green",rep("blue",max(xmax-windex,0))))
   abline(v=towin,lwd=2,col="black")
   datestamp = format(Sys.time(), "%B %d %Y")
-  title(main=paste("Projected",pyear,"Electoral Vote Distribution\nMonte Carlo Based on State Trends 1952-2012"))
+  title(main=paste("Projected",pyear,"Electoral Vote Distribution\nMonte Carlo Based on State Trends 1952 -",pyear-4))
   text(xmin+120,0.95*ymax,pos=2,paste("P(R win) = ",pR,"%",sep=""))
   text(xmin+120,0.85*ymax,pos=2,paste("P(D win) = ",pD,"%",sep=""))
   text(xmax-120,0.95*ymax,pos=4,paste("number of runs = ",nruns,sep=""))
