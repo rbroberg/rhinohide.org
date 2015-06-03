@@ -63,7 +63,7 @@ dat <- read.table(
 
 
 # find length of data
-l=nrows(dat)
+l=nrow(dat)
 
 # for range from 20-80% of the range
 # calculate two linear trends
